@@ -53,13 +53,14 @@ jobs:
             out/run_log.json
             out/source_health.csv
             out/employers_with_matches.csv
+            out/ats_company_catalog.csv
           retention-days: 30
           if-no-files-found: warn
       - name: Preserve source history and dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add radar.sqlite3 out/index.html out/jobs.csv out/jobs.json out/run_log.json out/source_health.csv out/employers_with_matches.csv
+          git add radar.sqlite3 out/index.html out/jobs.csv out/jobs.json out/run_log.json out/source_health.csv out/employers_with_matches.csv out/ats_company_catalog.csv
           if git diff --staged --quiet; then
             echo 'No changes to commit'
           else
