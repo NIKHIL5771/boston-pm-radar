@@ -1,1 +1,1 @@
-Deep scan requested on 2026-10-17: broaden to 9,935-ATS directory (dated July/Aug 2026), 664-company watchlist, 250 rotating external boards daily, 168-hour posting window, 50-job target. This commit intentionally triggers the updated workflow.
+Re-run deep weekly scan with employment-type review lane (unverified explicitly marked), 9,935 directory and 50-weekly-candidates target. Request 2026-10-17 after prior scan.
