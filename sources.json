@@ -1,0 +1,10 @@
+[
+  {"name":"PMA Consultants", "type":"lever", "slug":"pmaconsultants", "board_url":"https://jobs.lever.co/pmaconsultants"},
+  {"name":"CAI", "type":"lever", "slug":"cagents", "board_url":"https://jobs.lever.co/cagents"},
+  {"name":"AHEAD", "type":"lever", "slug":"thinkahead", "board_url":"https://jobs.lever.co/thinkahead"},
+  {"name":"SOCOTEC", "type":"smartrecruiters", "slug":"Socotec", "board_url":"https://jobs.smartrecruiters.com/Socotec"},
+  {"name":"AECOM", "type":"smartrecruiters", "slug":"AECOM2", "board_url":"https://jobs.smartrecruiters.com/AECOM2"},
+  {"name":"Klaviyo", "type":"greenhouse", "slug":"klaviyojobs", "board_url":"https://job-boards.greenhouse.io/klaviyojobs"},
+  {"name":"Klaviyo Campus", "type":"greenhouse", "slug":"klaviyocampus", "board_url":"https://job-boards.greenhouse.io/klaviyocampus"},
+  {"name":"Wheel", "type":"ashby", "slug":"wheel", "board_url":"https://jobs.ashbyhq.com/wheel"}
+]
