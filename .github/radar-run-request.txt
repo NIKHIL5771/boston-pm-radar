@@ -1,1 +1,2 @@
-Requested fresh Boston PM Radar scan via GitHub connection on 2026-10-17.
+Run expanded Boston PM Radar: 7-day window, 125 candidate data feeds, 664 employer watchlist, 50 weekly jobs target.
+Request 2026-10-17 04:05 UTC.
