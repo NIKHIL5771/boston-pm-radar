@@ -93,5 +93,6 @@
   "target_weekly_jobs": 50,
   "directory_daily_extra_boards": 250,
   "recent_seen_days": 7,
-  "max_concurrent_sources": 4
+  "max_concurrent_sources": 4,
+  "include_employment_unverified_review": true
 }
