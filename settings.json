@@ -90,5 +90,8 @@
     "Walpole",
     "Medfield"
   ],
-  "target_weekly_jobs": 50
+  "target_weekly_jobs": 50,
+  "directory_daily_extra_boards": 250,
+  "recent_seen_days": 7,
+  "max_concurrent_sources": 4
 }
