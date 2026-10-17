@@ -75,6 +75,15 @@ class TestFilters(unittest.TestCase):
     def test_city_name_other_state_is_not_local(self):
         self.assertFalse(radar.nearby('Reading, PA',False,SETTINGS))
         self.assertFalse(radar.nearby('Cambridge, Ontario, Canada',False,SETTINGS))
+    def test_unknown_employment_review_mode_flagged_not_confirmed(self):
+        candidate=job(employment='',description='Coordinate construction projects and Excel reporting')
+        okay,why,score=radar.screening(candidate,{**SETTINGS,'include_employment_unverified_review':True})
+        self.assertTrue(okay)
+        self.assertIn('Unverified',candidate['employment'])
+        self.assertLess(score,100)
+    def test_part_time_description_not_passed_as_unknown(self):
+        candidate=job(employment='',description='Part-time project coordinator, 20 hours a week')
+        self.assertFalse(radar.screening(candidate,{**SETTINGS,'include_employment_unverified_review':True})[0])
     def test_missing_employment_is_not_assumed_fulltime(self):
         self.assertFalse(radar.screening(job(employment='',description='We have many opportunities'),SETTINGS)[0])
     def test_internship_excluded(self):
