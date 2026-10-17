@@ -1,0 +1,55 @@
+name: Boston PM Radar - Evening Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    # ~7 PM ET during daylight saving / ~6 PM ET during standard time.
+    # GitHub scheduled runs can be delayed.
+    - cron: '0 23 * * *'
+
+permissions:
+  contents: write
+
+env:
+  PYTHONUNBUFFERED: '1'
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate code
+        run: python -m unittest discover -s tests -v
+      - name: Fetch and rank postings
+        run: python radar.py
+      - name: Upload dashboard and CSV
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: boston-pm-radar-${{ github.run_number }}
+          path: |
+            out/index.html
+            out/jobs.csv
+            out/jobs.json
+            out/run_log.json
+          retention-days: 30
+          if-no-files-found: warn
+      - name: Preserve source history and dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add radar.sqlite3 out/index.html out/jobs.csv out/jobs.json out/run_log.json
+          if git diff --staged --quiet; then
+            echo 'No changes to commit'
+          else
+            git commit -m "Update evening Boston PM report"
+            git push
+          fi
