@@ -64,7 +64,7 @@ def get_json(url, delay):
         req = Request(url, headers={'User-Agent':'BostonPMRadar/1.0 (personal job search; please respect rate limits)', 'Accept':'application/json'})
         try:
             with urlopen(req, timeout=16) as response:
-                return json.loads(response.read(12_000_000).decode('utf-8'))
+                return json.loads(response.read(40_000_000).decode('utf-8'))
         except HTTPError as e:
             if e.code not in (429,500,502,503,504): raise
             if attempt==2: raise
@@ -306,10 +306,10 @@ def nearby(location,remote,settings):
         if states and 'ma' not in states:continue
         return True
     if remote and settings.get('allow_us_remote',False):
-        us=bool(re.search(r'\b(united states|usa|u\.?s\.?|remote|nationwide|north america)\b',t))
+        us=bool(re.search(r'\b(united states|usa|u\.?s\.?|nationwide|north america)\b',t))
         foreign_only=bool(re.search(r'\b(uk|england|canada|germany|australia|europe only|india only)\b',t))
         if foreign_only and not us:return False
-        return not t or us or 'worldwide' in t
+        return not t or us or 'worldwide' in t or ('remote' in t and not foreign_only)
     return False
 
 def fulltime_type(t,title,description):
