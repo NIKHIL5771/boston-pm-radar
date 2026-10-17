@@ -9,6 +9,7 @@ from unittest.mock import patch
 
 sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
 import radar
+import directory_discovery
 import import_boards
 
 NOW=datetime(2026,10,16,22,0,tzinfo=timezone.utc)
@@ -134,6 +135,19 @@ class TestAdapters(unittest.TestCase):
         self.assertIn('does not prove original',out)
         self.assertIn('PMA Consultants',out)
 
+class TestDirectoryDiscovery(unittest.TestCase):
+    def test_dated_directory_priority_and_rotation(self):
+        raw='ats_vendor,company_name,board_slug,last_crawled\nashby,PMA Consultants,pma,2026-07-15\nlever,Other Company,other,2026-07-16\ngreenhouse,Zero,zero,2026-08-01\n'
+        rows=directory_discovery.parse_rows(raw)
+        self.assertEqual(len(rows),3)
+        selected,stats=directory_discovery.choose_sources(rows,[],[{'name':'PMA Consultants'}],NOW,1)
+        self.assertEqual(len(selected),2)
+        self.assertEqual(selected[0]['name'],'PMA Consultants')
+        self.assertEqual(stats['catalog_total'],3)
+    def test_duplicate_existing_directory_board_ignored(self):
+        rows=[{'type':'ashby','name':'PMA Consultants','slug':'pma','last_crawled':'2026-07-15'}]
+        selected,stats=directory_discovery.choose_sources(rows,[{'type':'ashby','slug':'pma'}],[{'name':'PMA Consultants'}],NOW,10)
+        self.assertFalse(selected)
 class TestImport(unittest.TestCase):
     def test_detect_supported(self):
         self.assertEqual('lever',import_boards.detect('https://jobs.lever.co/pmaconsultants/foo')['type'])
