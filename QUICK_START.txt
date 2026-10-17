@@ -1,0 +1,13 @@
+BOSTON PM RADAR — QUICK START
+
+1. Unzip the project
+2. Open Terminal inside the Boston_PM_Radar_Starter folder
+3. Run: python3 radar.py
+4. Open out/index.html in a browser
+5. Your jobs are also in out/jobs.csv
+
+This project requires internet access to scan public employer job feeds.
+For daily automatic runs, read README.md (GitHub Actions setup).
+
+The included out/index.html is an EMPTY PREVIEW, not a live job report.
+Eight example feeds are configured. The importer lets you add more public supported feeds; it does not magically scrape all 706 job boards.
