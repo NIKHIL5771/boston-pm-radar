@@ -1,2 +1,1 @@
-Run expanded Boston PM Radar: 7-day window, 125 candidate data feeds, 664 employer watchlist, 50 weekly jobs target.
-Request 2026-10-17 04:05 UTC.
+Deep scan requested on 2026-10-17: broaden to 9,935-ATS directory (dated July/Aug 2026), 664-company watchlist, 250 rotating external boards daily, 168-hour posting window, 50-job target. This commit intentionally triggers the updated workflow.
