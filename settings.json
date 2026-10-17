@@ -1,0 +1,19 @@
+{
+  "city": "Boston",
+  "freshness_hours": 24,
+  "max_experience_years": 3,
+  "exclude_explicit_no_sponsorship": true,
+  "allow_us_remote": true,
+  "show_unknown_dates": true,
+  "request_delay_seconds": 0.4,
+  "max_pages_per_board": 8,
+  "local_cities": [
+    "Boston", "Cambridge", "Somerville", "Brookline", "Newton", "Watertown", "Waltham",
+    "Medford", "Malden", "Everett", "Chelsea", "Revere", "Quincy", "Braintree",
+    "Woburn", "Burlington", "Lexington", "Belmont", "Arlington", "Winchester",
+    "Milton", "Dedham", "Needham", "Wellesley", "Westwood", "Canton", "Norwood",
+    "Peabody", "Beverly", "Salem", "North Reading", "Reading", "Wakefield",
+    "Brighton", "Allston", "Hyde Park", "Dorchester", "Roxbury", "Charlestown",
+    "Jamaica Plain", "Winthrop", "Foxborough", "Framingham", "Natick", "Hopkinton"
+  ]
+}
