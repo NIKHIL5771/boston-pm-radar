@@ -1,0 +1,126 @@
+employer,provider,ok,raw,matching,error
+PMA Consultants,lever,True,29,2,
+CAI,lever,True,93,0,
+AHEAD,lever,True,155,2,
+SOCOTEC,smartrecruiters,True,1,1,
+AECOM,smartrecruiters,True,11,4,
+Klaviyo,greenhouse,True,0,0,
+Klaviyo Campus,greenhouse,True,0,0,
+Wheel,ashby,True,7,0,
+InterSystems,greenhouse,True,2,0,
+Lincoln Property Company,greenhouse,True,0,0,
+Real Chemistry,greenhouse,True,2,0,
+Jukebox Health,greenhouse,True,2,0,
+New Leaf Energy,greenhouse,True,2,0,
+Preload,greenhouse,True,1,0,
+Anduril Industries,greenhouse,False,0,0,Unterminated string starting at: line 1 column 11975834 (char 11975833)
+Apex Companies,greenhouse,True,5,0,
+ezCater,greenhouse,True,0,0,
+Syner-G,greenhouse,True,0,0,
+FormativGroup,greenhouse,True,1,0,
+Verista,greenhouse,True,0,0,
+Bamboo Health,greenhouse,False,0,0,HTTP Error 404: Not Found
+Toast,greenhouse,True,0,0,
+Datadog,greenhouse,True,0,0,
+Samsara,greenhouse,True,0,0,
+Anthropic,greenhouse,True,0,0,
+Oscar Health,greenhouse,False,0,0,HTTP Error 404: Not Found
+Aledade,greenhouse,False,0,0,HTTP Error 404: Not Found
+Ginkgo Bioworks,greenhouse,True,0,0,
+Freenome,greenhouse,True,0,0,
+Formation Bio,greenhouse,True,0,0,
+Scale AI,greenhouse,True,0,0,
+Maven Clinic,greenhouse,True,0,0,
+Notion,greenhouse,False,0,0,HTTP Error 404: Not Found
+Figma,greenhouse,True,0,0,
+Miro,greenhouse,False,0,0,HTTP Error 404: Not Found
+OpenAI,greenhouse,False,0,0,HTTP Error 404: Not Found
+Robinhood,greenhouse,True,0,0,
+Ramp,greenhouse,False,0,0,HTTP Error 404: Not Found
+Vanta,greenhouse,False,0,0,HTTP Error 404: Not Found
+Postman,greenhouse,False,0,0,HTTP Error 404: Not Found
+Braze,greenhouse,True,0,0,
+Asana,greenhouse,True,0,0,
+Attentive,greenhouse,True,0,0,
+Wiz,greenhouse,False,0,0,HTTP Error 404: Not Found
+Celonis,greenhouse,True,0,0,
+Eversource,greenhouse,False,0,0,HTTP Error 404: Not Found
+Airtable,greenhouse,True,0,0,
+ClickUp,greenhouse,False,0,0,HTTP Error 404: Not Found
+SoFi,greenhouse,True,0,0,
+Alma,greenhouse,False,0,0,HTTP Error 404: Not Found
+Zero RFI,ashby,True,5,0,
+Pointr,ashby,True,18,0,
+WHOOP,ashby,True,171,1,
+BuildingWorks,ashby,True,2,0,
+Linear,ashby,True,29,0,
+Mercury,ashby,True,0,0,
+Harvey,ashby,True,345,0,
+Retool,ashby,False,0,0,HTTP Error 404: Not Found
+Modal,ashby,True,43,0,
+Perplexity,ashby,True,133,0,
+Clerk,ashby,True,2,0,
+Replit,ashby,True,65,0,
+Watershed,ashby,True,35,0,
+Ramp,ashby,True,167,0,
+Figma,ashby,True,0,0,
+Notion,ashby,True,128,0,
+Ramp Health,ashby,False,0,0,HTTP Error 404: Not Found
+Rillet,ashby,True,41,0,
+Vercel,ashby,True,0,0,
+Coda,ashby,False,0,0,HTTP Error 404: Not Found
+Rippling,ashby,False,0,0,HTTP Error 404: Not Found
+ElevenLabs,ashby,True,156,0,
+Grammarly,ashby,False,0,0,HTTP Error 404: Not Found
+Cursor,ashby,True,133,0,
+Plaid,ashby,True,128,0,
+Brex,ashby,False,0,0,HTTP Error 404: Not Found
+Superhuman,ashby,False,0,0,HTTP Error 404: Not Found
+Solar Landscape,lever,True,29,0,
+Locus Robotics,lever,False,0,0,HTTP Error 404: Not Found
+Catalant,lever,False,0,0,HTTP Error 404: Not Found
+Handshake,lever,False,0,0,HTTP Error 404: Not Found
+Formlabs,lever,False,0,0,HTTP Error 404: Not Found
+Cloudflare,lever,False,0,0,HTTP Error 404: Not Found
+Muck Rack,lever,False,0,0,HTTP Error 404: Not Found
+Benchling,lever,False,0,0,HTTP Error 404: Not Found
+HqO,lever,False,0,0,HTTP Error 404: Not Found
+CarGurus,lever,False,0,0,HTTP Error 404: Not Found
+Aptiv,lever,False,0,0,HTTP Error 404: Not Found
+Charles River,lever,False,0,0,HTTP Error 404: Not Found
+Gong,lever,False,0,0,HTTP Error 404: Not Found
+Canva,lever,False,0,0,HTTP Error 404: Not Found
+Zapier,lever,False,0,0,HTTP Error 404: Not Found
+Sourcegraph,lever,False,0,0,HTTP Error 404: Not Found
+Calendly,lever,False,0,0,HTTP Error 404: Not Found
+G2,lever,False,0,0,HTTP Error 404: Not Found
+LaunchDarkly,lever,False,0,0,HTTP Error 404: Not Found
+Webflow,lever,False,0,0,HTTP Error 404: Not Found
+Iterable,lever,False,0,0,HTTP Error 404: Not Found
+Aurora,lever,False,0,0,HTTP Error 404: Not Found
+Carbon Health,lever,True,0,0,
+Turner & Townsend,smartrecruiters,True,0,0,
+Alphabe Insight,smartrecruiters,True,2,2,
+Ramboll,smartrecruiters,True,0,0,
+Bosch,smartrecruiters,True,0,0,
+Publicis Groupe,smartrecruiters,True,0,0,
+Bureau Veritas,smartrecruiters,True,0,0,
+Visa,smartrecruiters,True,0,0,
+WSP,smartrecruiters,True,0,0,
+GHD,smartrecruiters,True,0,0,
+Colliers,smartrecruiters,True,0,0,
+Accor,smartrecruiters,True,0,0,
+Sodexo,smartrecruiters,True,0,0,
+Epsilon,smartrecruiters,True,0,0,
+Robert Bosch,smartrecruiters,True,0,0,
+Veolia,smartrecruiters,True,0,0,
+Capgemini,smartrecruiters,True,0,0,
+AECOM,smartrecruiters,True,0,0,
+The Wonderful Company,smartrecruiters,True,0,0,
+Cushman Wakefield,smartrecruiters,True,0,0,
+Jobicy US Remote,jobicy,True,3,3,
+Himalayas US Remote,himalayas,True,33,24,
+Remotive US Remote,remotive,True,0,0,
+Jobicy US Remote,jobicy,True,3,3,
+Himalayas US Remote,himalayas,True,33,24,
+Remotive US Remote,remotive,True,0,0,
