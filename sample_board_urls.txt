@@ -1,0 +1,8 @@
+# Existing sources or additional supported sources can be listed one per line.
+https://jobs.lever.co/pmaconsultants
+https://jobs.lever.co/cagents
+https://jobs.smartrecruiters.com/Socotec
+https://job-boards.greenhouse.io/klaviyojobs
+https://jobs.ashbyhq.com/wheel
+# An unsupported source will be logged (not accessed without a permitted adapter).
+https://www.indeed.com/jobs?q=project+coordinator
