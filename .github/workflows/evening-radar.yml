@@ -2,6 +2,11 @@ name: Boston PM Radar - Evening Scan
 
 on:
   workflow_dispatch:
+  # GitHub connector trigger for explicit on-demand runs. Normal report commits won't retrigger scans.
+  push:
+    branches: [main]
+    paths:
+      - '.github/radar-run-request.txt'
   schedule:
     # ~7 PM ET during daylight saving / ~6 PM ET during standard time.
     # GitHub scheduled runs can be delayed.
