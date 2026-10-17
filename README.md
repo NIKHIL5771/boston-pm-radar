@@ -53,3 +53,6 @@ Boston PM Radar also reads a CC BY 4.0 dataset mapping **9,935 employer boards**
 Credit: **LastRound AI ATS Company Directory**, https://github.com/fyrosofttech/lastroundai-hiring-data/tree/main/ats-directory (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/).
 
 To keep requests bounded and respectful, the scanner checks registry-matching employer boards first, then rotates through **250** additional directory entries per day. It does not claim to scan all 9,935 on a single run. View `out/ats_company_catalog.csv` for the full directory and `out/source_health.csv` for boards actually checked. Listings from rotating sources remain in the dashboard up to 7 days with a visible last-checked time; they are not guaranteed still open until verified on the employer's website.
+## Employment type review
+
+Many public employer feeds omit employment type. Rather than discard all otherwise relevant roles, Radar now includes such roles in a **clearly labelled `Unverified: confirm full-time with employer`** review lane, penalizes their match scores and rejects explicit part-time/temporary/contract descriptions. The weekly candidate-job total may include these review items; `out/run_log.json` separately reports `weekly_fulltime_confirmed` and `weekly_employment_unverified`. It never asserts that an unverified role is full-time.
