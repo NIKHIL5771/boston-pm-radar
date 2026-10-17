@@ -19,11 +19,11 @@ jobs:
     timeout-minutes: 120
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Validate code
@@ -32,7 +32,7 @@ jobs:
         run: python radar.py
       - name: Upload dashboard and CSV
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: boston-pm-radar-${{ github.run_number }}
           path: |
