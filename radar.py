@@ -347,7 +347,11 @@ def experience_years(description):
 def screening(job,settings):
     if not likely_title(job['title']):return False,'unrelated/senior title',0
     if not nearby(job['location'],job['remote'],settings):return False,'outside metro',0
-    if not fulltime_type(job['employment'],job['title'],job['description']):return False,'full-time not verified',0
+    fulltime=fulltime_type(job['employment'],job['title'],job['description'])
+    unknown_review=(not fulltime and not job['employment'].strip() and settings.get('include_employment_unverified_review',False)
+        and not re.search(r'\b(part[- ]?time|temporary position|contract position|seasonal role|internship)\b',job['description'],re.I))
+    if not fulltime and not unknown_review:return False,'full-time not verified',0
+    if unknown_review:job['employment']='Unverified: confirm full-time with employer'
     if settings.get('exclude_explicit_no_sponsorship') and NO_SPONSOR.search(job['description']):
         return False,'explicit visa restriction',0
     yrs=experience_years(job['description'])
@@ -359,6 +363,7 @@ def screening(job,settings):
     for p,delta in [('transit',6),('rail',7),('transportation',6),('primavera',9),('p6',9),('construction',5),('excel',4),('agile',3),('public sector',5),('schedule',4),('stakeholder',3)]:
         if p in d:score+=delta
     if yrs is not None:score+=max(-10,10-yrs*5)
+    if unknown_review:score-=15
     return True,'',min(100,score)
 
 def recent_status(job,now,hours):
@@ -408,7 +413,7 @@ def generate_html(jobs,stats,now, settings):
     # No native network requests or JS external assets: works offline.
     data=[]
     for j in jobs:
-        data.append({k:j.get(k) for k in ('company','title','location','salary','url','score','status','evidence_at','evidence_kind','first_seen','last_seen','description')})
+        data.append({k:j.get(k) for k in ('company','title','location','employment','salary','url','score','status','evidence_at','evidence_kind','first_seen','last_seen','description')})
     days=settings['freshness_hours']//24
     groups=[('new_created',f'Employer first-published in last {days} days (Greenhouse)'),
             ('recent_publication',f'Employer published / released in last {days} days'),
@@ -429,7 +434,7 @@ def generate_html(jobs,stats,now, settings):
             parts.append(f'''<article class="job" data-new="{'yes' if fresh_discovery else 'no'}" data-text="{escape(' '.join([j['company'],j['title'],j['location']]).lower())}">
             <div class="head"><div><div class="company">{escape(j['company'])} · {escape(j['location'])}</div>
             <h3>{escape(j['title'])}</h3></div><span class="score">{int(j['score'])}/100 fit</span></div>
-            <div class="meta"><span>{escape(j['salary'] or 'Salary not listed')}</span><span>{escape(ev)}</span>
+            <div class="meta"><span>{escape(j['salary'] or 'Salary not listed')}</span><span>Employment: {escape(j.get('employment') or 'Unspecified')}</span><span>{escape(ev)}</span>
             <span>Evidence: {escape(j['evidence_kind'].replace('_',' '))}</span><span>Source: {escape(j['source_type'])}</span><span>Last checked by radar: {escape(j.get('last_seen','')[:16].replace('T',' '))} UTC</span></div>
             <p class="summary">{escape(snippet)}</p><a class="apply" href="{escape(j['url'])}" target="_blank" rel="noopener noreferrer">View listing / application ↗</a></article>''')
         render.append(f'''<section class="section" data-section="{status}"><h2>{escape(label)} <span class="count">{len(subset)}</span></h2>{''.join(parts) if parts else '<p class="empty">None from the latest run</p>'}</section>''')
@@ -469,9 +474,9 @@ h3{font-size:19px;margin:8px 0 10px}.company{font-size:13px;color:#97bdf4}.score
 </style></head><body><header><div class="company">PERSONAL JOB SEARCH OPERATIONS</div><h1>Boston PM Radar</h1>
 <p class="sub">Entry-level project management, project controls, PMO and coordination jobs, collected from public employer recruiting feeds. Updated '''+escape(generated)+'''.</p></header>
 <div class="stats"><div class="stat"><strong>'''+str(stats['sources_ok'])+'''</strong><span>Sources checked successfully (of '''+str(stats.get('sources_total', stats['sources_ok']))+''')</span></div>
-<div class="stat"><strong>'''+str(stats['eligible'])+'''</strong><span>Relevant full-time jobs across ALL dates</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
+<div class="stat"><strong>'''+str(stats['eligible'])+'''</strong><span>Relevant roles across ALL dates (some employment types unverified)</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
 <div class="stat"><strong>'''+str(counters['recent_aggregator'])+'''</strong><span>Posted on aggregators in 7d</span></div><div class="stat"><strong>'''+str(counters['date_unknown'])+'''</strong><span>Original date not supplied</span></div></div>
-<p class="note"><strong>External ATS company catalog: </strong>'''+str(stats.get('external_catalog_rows',0))+''' mapped employer boards (LastRound AI directory, July–August 2026, CC BY 4.0). Only sources counted as successfully checked were visited today. <a href='https://github.com/fyrosofttech/lastroundai-hiring-data' target='_blank' rel='noopener noreferrer'>Source and attribution ↗</a>. <strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' jobs with a recent publication signal (employer releases and aggregator dates separately). This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
+<p class="note"><strong>External ATS company catalog: </strong>'''+str(stats.get('external_catalog_rows',0))+''' mapped employer boards (LastRound AI directory, July–August 2026, CC BY 4.0). Only sources counted as successfully checked were visited today. <a href='https://github.com/fyrosofttech/lastroundai-hiring-data' target='_blank' rel='noopener noreferrer'>Source and attribution ↗</a>. <strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' potential roles with a recent publication signal (employer releases and aggregator dates separately). Of these, '''+str(stats.get('weekly_employment_unverified',0))+''' have employment type NOT verified and must be checked before applying. This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
 <div class="controls"><input id="search" placeholder="Filter company, role or city..." aria-label="Filter jobs">
 <select id="group" aria-label="Show job group"><option value="week" selected>Published this week (employer + aggregator)</option><option value="all">All date-evidence groups</option><option value="recent_publication">Recently published</option><option value="new_created">First-published this week</option><option value="recent_aggregator">Aggregator published this week</option><option value="recent_update_only">Recent updates</option><option value="date_unknown">Unknown date</option><option value="older">Older archive</option></select><label style="display:flex;align-items:center;gap:8px;color:#c9d7ee"><input type="checkbox" id="newonly" style="min-width:unset">New to MY radar only (not necessarily new online)</label></div>
 '''+''.join(render)+employer_markup+'''<footer class="footer">Prepared by Boston PM Radar. Some roles may have been observed up to seven days earlier through rotating company feeds. Always open the listing to confirm it is still active and check OPT/sponsorship eligibility. The system never applies on your behalf.</footer>
@@ -486,6 +491,8 @@ def write_reports(db,now,stats,settings):
     stats['published_week_ats']=sum(j['status']=='recent_publication' for j in jobs)
     stats['published_week_aggregator']=sum(j['status']=='recent_aggregator' for j in jobs)
     stats['updated_week_only']=sum(j['status']=='recent_update_only' for j in jobs)
+    stats['weekly_employment_unverified']=sum(j['status'] in ('new_created','recent_publication','recent_aggregator') and j.get('employment','').startswith('Unverified:') for j in jobs)
+    stats['weekly_fulltime_confirmed']=sum(j['status'] in ('new_created','recent_publication','recent_aggregator') and not j.get('employment','').startswith('Unverified:') for j in jobs)
     stats['target_weekly_jobs']=settings.get('target_weekly_jobs',50)
     stats['weekly_dated_posts']=stats['first_published_week_ats']+stats['published_week_ats']+stats['published_week_aggregator']
     stats['target_met']=stats['weekly_dated_posts']>=stats['target_weekly_jobs']
