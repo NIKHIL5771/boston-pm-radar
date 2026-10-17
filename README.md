@@ -45,3 +45,11 @@ Some feeds surface application links via the provider itself; not every link is 
 ## Source hygiene
 
 Inspect `out/source_health.csv` after runs; invalid or blocked board handles must not be described as successfully scanned. We do not require every employer to be in the fixed list because aggregators may find additional hiring companies. Daily scans are configured for 23:00 UTC, which is ~7 PM ET during EDT and ~6 PM ET during EST. Scheduled runs may be delayed. GitHub's workflow commits report history to `main`, and downloads the report as an Actions artifact.
+
+## Large public ATS employer directory (incremental coverage)
+
+Boston PM Radar also reads a CC BY 4.0 dataset mapping **9,935 employer boards** to Greenhouse, Lever and Ashby slugs, collected in July/August 2026. The directory is *not* live hiring evidence, and some boards have since disappeared. It can be temporarily unavailable; the scanner then continues its built-in feeds.
+
+Credit: **LastRound AI ATS Company Directory**, https://github.com/fyrosofttech/lastroundai-hiring-data/tree/main/ats-directory (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/).
+
+To keep requests bounded and respectful, the scanner checks registry-matching employer boards first, then rotates through **250** additional directory entries per day. It does not claim to scan all 9,935 on a single run. View `out/ats_company_catalog.csv` for the full directory and `out/source_health.csv` for boards actually checked. Listings from rotating sources remain in the dashboard up to 7 days with a visible last-checked time; they are not guaranteed still open until verified on the employer's website.
