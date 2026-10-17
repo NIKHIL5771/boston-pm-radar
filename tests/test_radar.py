@@ -36,8 +36,38 @@ class TestFilters(unittest.TestCase):
         self.assertFalse(radar.screening(job(description='We cannot provide visa sponsorship for this role. Full-time.'),SETTINGS)[0])
     def test_vague_sponsorship_question_not_rejected(self):
         self.assertTrue(radar.screening(job(description='Will you require sponsorship now or in the future? Full time.'),SETTINGS)[0])
+    def test_en_dash_10_to_15_years_rejected(self):
+        j=job(description='Required: 10–15 years of experience in project controls and scheduling')
+        self.assertEqual(radar.experience_years(j['description']),10)
+        self.assertFalse(radar.screening(j,SETTINGS)[0])
+    def test_two_to_four_years_allowed(self):
+        self.assertEqual(2,radar.experience_years('Qualifications: 2–4 years of related project coordination experience'))
+    def test_aggregator_week_publication(self):
+        j=job(evidence_at=radar.iso(NOW-timedelta(days=5)),evidence_kind='aggregator_publication')
+        self.assertEqual('recent_aggregator',radar.recent_status(j,NOW,168))
+        self.assertEqual('older',radar.recent_status(j,NOW,24))
     def test_experience_cap(self):
         self.assertFalse(radar.screening(job(description='A minimum of 5 years of experience required'),SETTINGS)[0])
+    def test_mixed_us_remote_eligibility(self):
+        self.assertTrue(radar.nearby('USA / Canada',True,SETTINGS))
+        self.assertTrue(radar.nearby('Worldwide',True,SETTINGS))
+        self.assertFalse(radar.nearby('Canada only',True,SETTINGS))
+    def test_multiple_job_locations(self):
+        self.assertTrue(radar.nearby('Boston, MA / San Francisco, CA',False,SETTINGS))
+        self.assertFalse(radar.nearby('Cambridge, Ontario / Reading, PA',False,SETTINGS))
+    def test_first_published_in_seven_days(self):
+        j=job(evidence_at=radar.iso(NOW-timedelta(days=3)),evidence_kind='created')
+        self.assertEqual(radar.recent_status(j,NOW,168),'new_created')
+        self.assertEqual(radar.recent_status(j,NOW,24),'older')
+    def test_older_or_undated_not_counted_as_weekly(self):
+        with sqlite3.connect(':memory:') as db:
+            db.row_factory=sqlite3.Row
+            radar.setup_db(db)
+            old=job(evidence_at=radar.iso(NOW-timedelta(days=15)),evidence_kind='released',external_id='x')
+            old['score']=70
+            radar.save(db,old,radar.iso(NOW))
+            report=radar.query_current(db,NOW,{**SETTINGS,'freshness_hours':168})
+            self.assertEqual(report[0]['status'],'older')
     def test_remote(self):
         self.assertTrue(radar.nearby('Remote - USA',True,SETTINGS))
         self.assertFalse(radar.nearby('Seattle, WA',True,SETTINGS))
@@ -76,6 +106,16 @@ class TestAdapters(unittest.TestCase):
             r=radar.lever_jobs({'name':'PMA','type':'lever','slug':'pmaconsultants','board_url':'https://jobs.lever.co/pmaconsultants'},0,1)
         self.assertEqual(r[0]['evidence_kind'],'unknown')
         self.assertIn('71,038',r[0]['salary'])
+    def test_greenhouse_first_published_detail(self):
+        source={'name':'Example','type':'greenhouse','slug':'example','board_url':'https://job-boards.greenhouse.io/example'}
+        listing={'jobs':[{'id':7,'title':'Project Coordinator','location':{'name':'Boston, MA'},'updated_at':'2026-10-16T19:00:00Z','content':'Full-time project coordination'}]}
+        detail={'first_published':'2026-10-13T10:00:00Z','content':'Full-time project coordination'}
+        with patch.object(radar,'get_json',side_effect=[listing,detail]):
+            with patch.object(radar,'SETTINGS',SETTINGS):
+                out=radar.greenhouse_jobs(source,0,1)
+        self.assertEqual(len(out),1)
+        self.assertEqual(out[0]['evidence_kind'],'created')
+        self.assertIn('2026-10-13',out[0]['evidence_at'])
     def test_smartrecruiters_details(self):
         src={'name':'SOCOTEC','type':'smartrecruiters','slug':'Socotec','board_url':'https://jobs.smartrecruiters.com/Socotec'}
         items={'content':[{'id':'42','name':'Junior Scheduler','releasedDate':'2026-10-16T19:00:00Z',
