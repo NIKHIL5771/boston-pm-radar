@@ -7,6 +7,7 @@ Python 3.10+, standard library only.
 from __future__ import annotations
 import argparse
 import csv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 import hashlib
 import html
@@ -18,6 +19,7 @@ import sqlite3
 import sys
 import time
 from typing import Any
+import directory_discovery
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, quote, urlparse
 from urllib.request import Request, urlopen
@@ -393,8 +395,8 @@ def save(db,j,run_at):
 
 def query_current(db,now,settings):
     # Fresh listings should be shown, plus older/undated still-active listings as a separately labelled queue.
-    scan_time=iso(now)
-    rows=[dict(r) for r in db.execute('SELECT * FROM jobs WHERE last_seen=? ORDER BY score DESC',(scan_time,))]
+    cutoff=iso(now-timedelta(days=settings.get('recent_seen_days',7)))
+    rows=[dict(r) for r in db.execute('SELECT * FROM jobs WHERE last_seen>=? ORDER BY score DESC',(cutoff,))]
     for j in rows:
         j['status']=recent_status(j,now,settings['freshness_hours'])
     return rows
@@ -406,7 +408,7 @@ def generate_html(jobs,stats,now, settings):
     # No native network requests or JS external assets: works offline.
     data=[]
     for j in jobs:
-        data.append({k:j.get(k) for k in ('company','title','location','salary','url','score','status','evidence_at','evidence_kind','first_seen','description')})
+        data.append({k:j.get(k) for k in ('company','title','location','salary','url','score','status','evidence_at','evidence_kind','first_seen','last_seen','description')})
     days=settings['freshness_hours']//24
     groups=[('new_created',f'Employer first-published in last {days} days (Greenhouse)'),
             ('recent_publication',f'Employer published / released in last {days} days'),
@@ -428,7 +430,7 @@ def generate_html(jobs,stats,now, settings):
             <div class="head"><div><div class="company">{escape(j['company'])} · {escape(j['location'])}</div>
             <h3>{escape(j['title'])}</h3></div><span class="score">{int(j['score'])}/100 fit</span></div>
             <div class="meta"><span>{escape(j['salary'] or 'Salary not listed')}</span><span>{escape(ev)}</span>
-            <span>Evidence: {escape(j['evidence_kind'].replace('_',' '))}</span><span>Source: {escape(j['source_type'])}</span></div>
+            <span>Evidence: {escape(j['evidence_kind'].replace('_',' '))}</span><span>Source: {escape(j['source_type'])}</span><span>Last checked by radar: {escape(j.get('last_seen','')[:16].replace('T',' '))} UTC</span></div>
             <p class="summary">{escape(snippet)}</p><a class="apply" href="{escape(j['url'])}" target="_blank" rel="noopener noreferrer">View listing / application ↗</a></article>''')
         render.append(f'''<section class="section" data-section="{status}"><h2>{escape(label)} <span class="count">{len(subset)}</span></h2>{''.join(parts) if parts else '<p class="empty">None from the latest run</p>'}</section>''')
     # A watchlist is NOT evidence of a live opening or employer sponsorship.
@@ -447,7 +449,7 @@ def generate_html(jobs,stats,now, settings):
         link='https://www.google.com/search?q='+quote_plus(name+' careers Boston project coordinator')
         entries.append(f'<div class="employer" data-emp="{escape((name+" "+sector).lower())}"><span>{escape(name)}</span><small>{escape(sector)} · {escape(state)}</small><a href="{escape(link)}" target="_blank" rel="noopener noreferrer">Find careers ↗</a></div>')
     employer_markup=f"""<details class='employers' id='employer-directory'><summary>Employer universe: {len(watch)} potential companies (not verified hiring)</summary>
-    <p class='sub'>These are prospective employers across major industries. A company on this list is NOT proof of an open job, permission to work, or sponsorship eligibility. The nightly scan only checks employers with reachable supported public feeds plus aggregator sources.</p>
+    <p class='sub'>These are prospective employers across major industries. A company on this list is NOT proof of an open job, permission to work, or sponsorship eligibility. A company catalogued here has not necessarily been scanned today. Only reachable job feeds and supported public aggregators are live-scanned. An additional public ATS directory expands coverage, but does not establish hiring or visa eligibility.</p>
     <input type='search' placeholder='Find employer or industry...' id='employer-search' aria-label='Search employer universe'>
     <div class='employer-grid'>{''.join(entries)}</div></details>"""
     generated=now.strftime('%Y-%m-%d %H:%M UTC')
@@ -466,13 +468,13 @@ h3{font-size:19px;margin:8px 0 10px}.company{font-size:13px;color:#97bdf4}.score
 .employers{margin-top:38px;border:1px solid #364563;border-radius:16px;padding:22px}.employers summary{font-size:19px;font-weight:700;cursor:pointer}.employer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(285px,1fr));gap:7px;margin-top:14px;max-height:620px;overflow-y:auto}.employer{border:1px solid #26334b;background:#131d32;padding:10px 12px;border-radius:10px;display:flex;gap:5px;flex-direction:column}.employer small{color:#aebdd1}.employer a{color:#97bdf4;font-size:12px}.note{border:1px solid #46516a;padding:15px;border-radius:13px;color:#c5cede;background:#121d31;line-height:1.5}.empty{color:#9ba8bc;font-size:14px}.footer{color:#8394b2;margin-top:36px;font-size:12px}
 </style></head><body><header><div class="company">PERSONAL JOB SEARCH OPERATIONS</div><h1>Boston PM Radar</h1>
 <p class="sub">Entry-level project management, project controls, PMO and coordination jobs, collected from public employer recruiting feeds. Updated '''+escape(generated)+'''.</p></header>
-<div class="stats"><div class="stat"><strong>'''+str(stats['sources_ok'])+'''</strong><span>Sources checked successfully</span></div>
+<div class="stats"><div class="stat"><strong>'''+str(stats['sources_ok'])+'''</strong><span>Sources checked successfully (of '''+str(stats.get('sources_total', stats['sources_ok']))+''')</span></div>
 <div class="stat"><strong>'''+str(stats['eligible'])+'''</strong><span>Relevant full-time jobs across ALL dates</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
 <div class="stat"><strong>'''+str(counters['recent_aggregator'])+'''</strong><span>Posted on aggregators in 7d</span></div><div class="stat"><strong>'''+str(counters['date_unknown'])+'''</strong><span>Original date not supplied</span></div></div>
-<p class="note"><strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' jobs with a recent publication signal (employer releases and aggregator dates separately). This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
+<p class="note"><strong>External ATS company catalog: </strong>'''+str(stats.get('external_catalog_rows',0))+''' mapped employer boards (LastRound AI directory, July–August 2026, CC BY 4.0). Only sources counted as successfully checked were visited today. <a href='https://github.com/fyrosofttech/lastroundai-hiring-data' target='_blank' rel='noopener noreferrer'>Source and attribution ↗</a>. <strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' jobs with a recent publication signal (employer releases and aggregator dates separately). This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
 <div class="controls"><input id="search" placeholder="Filter company, role or city..." aria-label="Filter jobs">
 <select id="group" aria-label="Show job group"><option value="week" selected>Published this week (employer + aggregator)</option><option value="all">All date-evidence groups</option><option value="recent_publication">Recently published</option><option value="new_created">First-published this week</option><option value="recent_aggregator">Aggregator published this week</option><option value="recent_update_only">Recent updates</option><option value="date_unknown">Unknown date</option><option value="older">Older archive</option></select><label style="display:flex;align-items:center;gap:8px;color:#c9d7ee"><input type="checkbox" id="newonly" style="min-width:unset">New to MY radar only (not necessarily new online)</label></div>
-'''+''.join(render)+employer_markup+'''<footer class="footer">Prepared by Boston PM Radar. Open each employer application to confirm the job is still live and verify work authorization requirements. The system never applies on your behalf.</footer>
+'''+''.join(render)+employer_markup+'''<footer class="footer">Prepared by Boston PM Radar. Some roles may have been observed up to seven days earlier through rotating company feeds. Always open the listing to confirm it is still active and check OPT/sponsorship eligibility. The system never applies on your behalf.</footer>
 <script>function filter(){let s=document.getElementById('search').value.toLowerCase(),v=document.getElementById('group').value,n=document.getElementById('newonly').checked;document.querySelectorAll('.section').forEach(x=>{let show=v==='all'||x.dataset.section===v||(v==='week'&&['new_created','recent_publication','recent_aggregator'].includes(x.dataset.section));x.style.display=show?'':'none';x.querySelectorAll('.job').forEach(j=>j.style.display=(j.dataset.text.includes(s)&&(!n||j.dataset.new==='yes'))?'':'none')})}document.getElementById('search').addEventListener('input',filter);document.getElementById('group').addEventListener('change',filter);document.getElementById('newonly').addEventListener('change',filter);const es=document.getElementById('employer-search');if(es){es.addEventListener('input',()=>{let q=es.value.toLowerCase();document.querySelectorAll('.employer').forEach(x=>x.style.display=x.dataset.emp.includes(q)?'':'none')})}filter();</script></body></html>'''
 
 def write_reports(db,now,stats,settings):
@@ -509,28 +511,57 @@ def run(args):
     registry_file=HERE/'employer_watchlist.json'
     registry=json.loads(registry_file.read_text(encoding='utf-8')) if registry_file.exists() else []
     now=NOW(); stats={'run_utc':iso(now),'sources_total':len(sources),'sources_ok':0,
-                     'sources_failed':0,'raw_jobs':0,'eligible':0,'errors':[],'source_results':[], 'employer_watchlist_size':len(registry)}
+                     'sources_failed':0,'raw_jobs':0,'eligible':0,'errors':[],'source_results':[], 'employer_watchlist_size':len(registry),'external_catalog_rows':0, 'external_catalog_error':None}
+    # Expand via a dated public company-to-ATS mapping, under CC BY 4.0.
+    # Select only a bounded batch daily so the scan respects public API limits.
+    catalog=[]
+    try:
+        catalog=directory_discovery.fetch_directory()
+        more, discovery_stats=directory_discovery.choose_sources(catalog,sources,registry,now,
+            SETTINGS.get('directory_daily_extra_boards',250))
+        sources+=more
+        stats.update(discovery_stats)
+        stats['external_catalog_rows']=len(catalog)
+        print(f"External ATS catalog: {len(catalog)} candidates; added {len(more)} to today's rotation",flush=True)
+    except (HTTPError,URLError,TimeoutError,ValueError,UnicodeError,OSError) as e:
+        stats['external_catalog_error']=str(e)
+        print(f"External company-directory lookup failed, continuing configured feeds: {e}",file=sys.stderr)
+    stats['sources_total']=len(sources)
+    OUT.mkdir(parents=True,exist_ok=True)
+    with (OUT/'ats_company_catalog.csv').open('w',newline='',encoding='utf-8-sig') as f:
+        w=csv.DictWriter(f,fieldnames=['company_name','ats_vendor','board_slug','last_crawled'])
+        w.writeheader()
+        for v in catalog:
+            w.writerow({'company_name':v['name'],'ats_vendor':v['type'],'board_slug':v['slug'],
+                        'last_crawled':v.get('last_crawled','')})
     conn=sqlite3.connect(DB);conn.row_factory=sqlite3.Row;setup_db(conn)
-    for source in sources:
-        print(f"Checking {source['name']} [{source['type']}]...",flush=True)
-        try:
-            if source['type'] not in CONNECTORS:raise ValueError('Unsupported adapter')
-            items=CONNECTORS[source['type']](source, SETTINGS['request_delay_seconds'],SETTINGS['max_pages_per_board'])
-            stats['raw_jobs']+=len(items)
-            accepted=0
-            for j in items:
-                ok,why,score=screening(j,SETTINGS)
-                if not ok:continue
-                j['score']=score
-                save(conn,j,iso(now))
-                stats['eligible']+=1;accepted+=1
-            conn.commit();stats['sources_ok']+=1
-            stats['source_results'].append({'employer':source['name'],'provider':source['type'],'ok':True,'raw':len(items),'matching':accepted})
-            print(f"  {len(items)} fetched, {accepted} matching")
-        except (HTTPError, URLError, ValueError, TimeoutError, KeyError, RuntimeError) as e:
-            stats['sources_failed']+=1;stats['errors'].append({'name':source['name'],'error':str(e)})
-            stats['source_results'].append({'employer':source['name'],'provider':source['type'],'ok':False,'raw':0,'matching':0,'error':str(e)})
-            print(f"  ERROR: {e}",file=sys.stderr)
+    def fetch_one(source):
+        if source['type'] not in CONNECTORS:raise ValueError('Unsupported adapter')
+        return CONNECTORS[source['type']](source,SETTINGS['request_delay_seconds'],SETTINGS['max_pages_per_board'])
+    # A modest pool distributes slow network reads, with a per-request delay.
+    # All SQLite writes and screening stay on the main thread.
+    workers=max(1,min(4,int(SETTINGS.get('max_concurrent_sources',4))))
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures={executor.submit(fetch_one,source):source for source in sources}
+        for future in as_completed(futures):
+            source=futures[future]
+            try:
+                items=future.result()
+                stats['raw_jobs']+=len(items)
+                accepted=0
+                for j in items:
+                    ok,why,score=screening(j,SETTINGS)
+                    if not ok:continue
+                    j['score']=score
+                    save(conn,j,iso(now))
+                    stats['eligible']+=1;accepted+=1
+                conn.commit();stats['sources_ok']+=1
+                stats['source_results'].append({'employer':source['name'],'provider':source['type'],'ok':True,'raw':len(items),'matching':accepted})
+                print(f"  {source['name']} [{source['type']}]: {len(items)} fetched, {accepted} matching",flush=True)
+            except (HTTPError,URLError,ValueError,TimeoutError,KeyError,RuntimeError) as e:
+                stats['sources_failed']+=1;stats['errors'].append({'name':source['name'],'error':str(e)})
+                stats['source_results'].append({'employer':source['name'],'provider':source['type'],'ok':False,'raw':0,'matching':0,'error':str(e)})
+                print(f"  {source['name']} [{source['type']}]: ERROR {e}",file=sys.stderr)
     jobs=write_reports(conn,now,stats,SETTINGS)
     conn.execute('INSERT INTO runs VALUES(?,?,?,?,?,?,?)',
        (iso(now),len(sources),stats['sources_ok'],stats['sources_failed'],stats['raw_jobs'],stats['eligible'],json.dumps(stats)))
