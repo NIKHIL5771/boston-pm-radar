@@ -14,7 +14,7 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "date_unknown"
   },
@@ -52,7 +52,7 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_publication"
   },
@@ -71,7 +71,7 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "date_unknown"
   },
@@ -90,7 +90,7 @@
     "remote": 0,
     "score": 77,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -128,7 +128,7 @@
     "remote": 0,
     "score": 73,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -147,7 +147,7 @@
     "remote": 0,
     "score": 72,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -185,7 +185,7 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -280,7 +280,7 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -318,7 +318,7 @@
     "remote": 1,
     "score": 63,
     "first_seen": "2026-10-18T00:37:48+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -337,7 +337,7 @@
     "remote": 1,
     "score": 61,
     "first_seen": "2026-10-18T00:37:48+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -456,6 +456,25 @@
     "status": "recent_aggregator"
   },
   {
+    "key": "ebcf4c56999b3fade4f1a4e5",
+    "company": "Nest Veterinary",
+    "source_type": "ashby",
+    "title": "Implementation Specialist",
+    "location": "Remote",
+    "employment": "FullTime",
+    "description": "IMPLEMENTATION SPECIALIST Hospital Success · Remote US · Full-time · Reports to Director of Hospital Success ABOUT NEST Nest builds care plan infrastructure for veterinary hospitals. Corporate veterinary groups use Nest to run preventive care memberships under their own brand, and we handle what sits underneath: enrollment, recurring billing, analytics, marketing, and seller-of-record compliance. Care plans change how pets receive care. Pet owners pay a predictable monthly amount, visit more often, and catch problems earlier. Hospitals build steadier revenue and longer client relationships. Our mission is to make that kind of preventive care available to every pet. ABOUT THE TEAM Hospital Success launches and supports every hospital on Nest. Much of the work ahead is rolling out care plans across the veterinary networks we have already signed, and this team determines how well those launches go. WHAT YOU'LL DO You will lead hospital launches from kickoff to go-live. That means running the timeline, confirming integrations and configuration are ready, and training hospital teams to offer care plans confidently from their first day. You will work alongside Hospital Success Managers, who own each relationship after launch. After a year, launches will run on a repeatable playbook you helped build, and new hospitals will reach steady enrollment sooner. RESPONSIBILITIES - Lead onboarding for new hospitals, including timelines, technical and operational deliverables, and coordination with Hospital Success Managers. - Run readiness reviews on integrations and configuration, and close open items with Engineering, Support, and hospital staff. - Train hospital teams on care plans and the workflows for presenting plans and enrolling clients. - Coordinate scheduling and communication across Nest, hospital teams, and vendors. - Document sign-offs and hand each hospital off cleanly to ongoing support. - Bring post-launch findings to Product, Engineering, and Hospital Success to improve the launch process. WHO YOU ARE We are looking for someone who meets the minimum requirements for this role. If you meet them, we encourage you to apply. Preferred qualifications are a bonus, not a requirement. MINIMUM REQUIREMENTS - You have 2 or more years in SaaS implementation, customer onboarding, operations, or project management. - You have trained customer-facing teams on new tools or workflows. - You have run projects with several stakeholders and delivered them on schedule. - You work comfortably in a CRM. PREFERRED QUALIFICATIONS - Experience in veterinary medicine or healthcare, including practice management systems. - Experience rolling out software across multi-site organizations. - Experience at an early-stage company. HOW WE WORK Nest is a small, fully remote team. Each person owns outcomes the company depends on, and the scope of most roles grows as the company does. We write decisions down, give direct feedback, and expect problems to be raised early. The work is demanding because hospitals and pet owners rely on it every day, and it suits people who want more ownership than a larger company would offer. OUR HIRING PROCESS Our process typically includes a conversation with the hiring manager, a working session based on the actual job, and conversations with the people you would work with most. We will tell you what each stage covers before it starts, and we close the loop with everyone we interview. EQUAL OPPORTUNITY Nest is an equal opportunity employer. We make hiring decisions based on the work and the person, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic. If you need accommodation during the hiring process, email recruiting@nestveterinary.com.",
+    "url": "https://jobs.ashbyhq.com/nestveterinary/b048a35c-3873-4cec-9632-83d678bc449c/application",
+    "salary": "",
+    "evidence_at": "2026-09-22T17:50:47+00:00",
+    "evidence_kind": "last_published",
+    "remote": 1,
+    "score": 56,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "older"
+  },
+  {
     "key": "947cdcae1cc7b3f65c927e57",
     "company": "AECOM",
     "source_type": "smartrecruiters",
@@ -470,7 +489,7 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -527,7 +546,7 @@
     "remote": 0,
     "score": 53,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -584,7 +603,7 @@
     "remote": 1,
     "score": 53,
     "first_seen": "2026-10-19T00:47:46+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -604,6 +623,44 @@
     "score": 53,
     "first_seen": "2026-10-19T00:47:46+00:00",
     "last_seen": "2026-10-19T00:47:46+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
+    "key": "e7ad62de828527b9a784bea1",
+    "company": "ACM Global Laboratories",
+    "source_type": "himalayas",
+    "title": "Clinical Trials Associate Project Manager",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "Job Title: Clinical Trials Associate Project Manager Department: Study Management Location: Remote, United States Hours Per Week: 40 hours Schedule: Days, Monday – Friday SUMMARY The primary role of the Clinical Trials (CT) Associate Project Manager is to liaise with ACM Global Central Laboratory clients, representing the laboratory aspects of conducting the clinical trial. In this role, the CT Associate Project Manager also liaises internally with all groups to assure ACM is conducting the trial according to the Global Laboratory Specification Document (GLSD) that is developed with the client. The CT Associate Project Manager is responsible for all aspects of their assigned clinical trials, from the set up stage, throughout the maintenance period and to study close out, facilitating and coordinating the required functions. RESPONSIBILITIES With the support of the PM Management Team and Project Management mentors the CT Associate Project Manager is responsible for providing a Project Management service within ACM Global Laboratories including but not limited to: Represent ACM as the client's primary point of contact, at all times maintaining a high level of customer service and satisfaction, displaying precision in delivery and flexibility in approach. Manage low complexity studies per the ACM study assessment tool with a varying number of protocols. Review clinical protocols and assist with protocol set-up functions as required. Develop and/or support the Global Laboratory Specification Document, Investigator Manual, and protocol specific Global Work Practice Instructions. Participate in and support Quality Audits and inspections of Clinical Trials as prescribed by departmental policies and regulatory agencies. Evaluate and communicate monthly project metrics and analyses all activity related to the trial, including monthly budget review. Assume full responsibility for study conduct on behalf of ACM, ensuring client’s goals and timelines are met and perform troubleshooting and problem solving functions as the need arises. Responsible to take On-Call coverage duties as assigned. Assume responsibility for regulatory required study documentation and comply with standard procedures for collecting, maintaining and then archiving the materials in accordance with regulations, ACM policies and client contractual clauses. Develop protocol specific procedures as needed. Perform duties with a general working knowledge of FDA, NYSDOH, GCP, ICH and other pertinent regulations, as pertains to central laboratory functions. Understand and follow company policies and procedures while always maintaining patient and client confidentiality, both inside and outside of the work place. Provide support for Project Management administrative functions as needed. Perform other duties as assigned. REQUIRED QUALIFICATIONS Minimum of 1 year of experience working in a clinical trials, laboratory or health care setting required PREFERRED QUALIFICATIONS Associate’s degree strongly preferred Experience working in a clinical trial, laboratory or healthcare setting Excellent problem solving and communication skills EDUCATION: LICENSES / CERTIFICATIONS: PHYSICAL REQUIREMENTS: Sedentary - Sedentary roles are primarily office-based and require prolonged sitting (67–100% of the workday) with minimal physical effort and lifting limited to under 10 lbs. Fine motor skills are necessary for computer work, writing, and telephone use, supported by clear visual and auditory ability. Cognitive and emotional demands are high due to extended concentration, frequent interruptions, independent decision-making, and information processing. Although physical exposure is low, administrative areas within healthcare environments may occasionally involve contact with infectious agents. Some roles may require flexible hours, TB screening, or a valid driver’s license. For disease specific care programs refer to the program specific requirements of the department for further specifications on experience and educational expectations, including continuing education requirements. Any physical requirements reported by a prospective employee and/or employee’s physician or delegate will be considered for accommodations. PAY RANGE: $65,000.00 - $85,000.00 CITY: Rochester POSTAL CODE: 14624 The posted pay range is a good faith representation of potential base pay for this position. It may be modified in the future and eligible for additional pay components. Individual annual salaries/hourly rates could vary based on position details and FTE. Pay is determined by considering factors including, but not limited to, experience, relevant qualifications, specialty, internal equity, locations, and contracts. Rochester Regional Health is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity or expression, national origin, age, disability, predisposing genetic characteristics, marital or familial status, military or veteran status, citizenship or immigration status, or any other characteristic protected by federal, state, or local law. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/acm-global-laboratories/jobs/clinical-trials-associate-project-manager?utm_source=api",
+    "salary": "USD 65,000–85,000 / annual",
+    "evidence_at": "2026-10-19T06:08:20+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 53,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
+    "key": "5db5be674d4f549f1b864341",
+    "company": "Alfafam Management Consulting, LLC",
+    "source_type": "himalayas",
+    "title": "CRM Implementation Specialist",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "We are Alfafam, a US-based Management Consulting Company offering services locally and worldwide. Our primary objective is to facilitate the growth of businesses within the United States by providing comprehensive support in management, operations, budgeting, marketing, hiring, and onboarding processes. We are seeking a highly motivated and experienced CRM Implementation Specialist to join our team. In this role, you will be responsible for implementing and customizing CRM (Customer Relationship Management) software systems to meet the needs of our clients organization. You will work closely with clients teams to understand business requirements and translate them into CRM solutions that drive business growth and improve customer satisfaction. Responsibilities: Lead the implementation of CRM software systems, including configuration, customization, and integration with existing systems. Collaborate with teams to gather and analyze business requirements. Develop and implement CRM strategies to improve customer engagement and retention. Train employees on how to use the CRM system effectively. Provide ongoing support and maintenance for the CRM system. Stay up-to-date with CRM trends and best practices. Requirements: Bachelor's degree in Computer Science, Information Technology, or related field. Proven experience implementing CRM software systems. Strong knowledge of CRM platforms, such as Salesforce, Microsoft Dynamics, HubSpot, GHL, Monday.com Excellent communication and interpersonal skills. Ability to work well in a fast-paced environment. CRM certification is a plus. The Details: This position is full-time, and remote from Monday to Friday. Standard work hours are 9 a.m. - 6 p.m. EST (New York time zone) The salary range for this is dependent on location, experience, and skills. As a CRM Implementation Specialist at our company, you will play an integral role in shaping the customer experience while contributing directly to the growth of the business. If this sounds like the perfect opportunity for you, please submit your application today! Please, make sure before applying that your skills and experience fit to this position's requirements. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/alfafam-management-consulting-llc/jobs/crm-implementation-specialist?utm_source=api",
+    "salary": "",
+    "evidence_at": "2026-10-19T18:24:39+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 53,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -643,7 +700,7 @@
     "first_seen": "2026-10-17T03:56:54+00:00",
     "last_seen": "2026-10-19T00:47:46+00:00",
     "match_reason": "",
-    "status": "recent_aggregator"
+    "status": "older"
   },
   {
     "key": "caa84d746ec463efbc546462",
@@ -679,7 +736,7 @@
     "remote": 1,
     "score": 51,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "date_unknown"
   },
@@ -717,7 +774,45 @@
     "remote": 1,
     "score": 51,
     "first_seen": "2026-10-19T00:47:46+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
+    "key": "48780a6ffc483e289d73867d",
+    "company": "Florida Virtual School",
+    "source_type": "himalayas",
+    "title": "Project Manager",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "PLEASE NOTE: Your application will expire one year from the time of submission. Please feel free to apply to any other positions for which you may qualify. Our team members enjoy competitive salaries, a well-rounded benefits package,generous paid time off (including 25 holidays, vacation, and sick leave), and an array of professional development opportunities. We’re always looking to add to our team of more than 3,000 dedicated professionals who are leading online education worldwide with transformative digital solutions – personalized to every student. Job Posting End Date: Deadline to apply is 11:59 PM on 10-21-2026 Job Title: Project Manager Contract Type: Employee Annual Salary: $69,591.00 - $137,790.00 (Support staff salary will be based on internal equity and experience) Location: FL - HOME OFFICE Job Description Summary: Our Mission is to equip students for success by developing and delivering highly effective digital learning through an intuitive online platform. FLVS does not discriminate in admission or access to, or treatment or employment in its programs and activities on the basis of race, color, religion, age, sex, national origin, marital status, disability, genetic information or any other reason prohibited by law. The Position: Position General Summary: The Project Manager is responsible for managing projects and deliverables against a timeline, budget, and scope in order to recognize and mitigate risks. The Project Manager manages resources, schedules, and financials and adheres to the EPMO best practice processes throughout the life of the project. The Project Manger manages the tasks on a day-to-day basis to verify that the project produces the required deliverables of quality, within the specified constraints of time and cost in order to achieve the potential benefits defined in the business case. Essential Position Functions: Manage the project team: develop and motivate team members to meet project goals by adhering to their responsibilities and project milestones Analyze and synthesize business requirements, including recognizing patterns and conceptualizing processes Own project life cycle: successful project delivery will include full implementation from initiation to deployment Report on project success criteria results: reporting includes measuring against established metrics, adherence to testing requirements, and deployment management activities Create a problem-solving environment: work creatively and analytically using skills that demonstrate teamwork, innovation and a focus on solutioning results Participate in establishing practices, templates, policies, tools, and partnerships to expand and mature these capabilities for the organization Prepare estimates and a detailed project plan for all phases of the project Procure adequate resources to achieve project objectives in planned timeframes Manage the day-to-day project activities and resources and facilitates the project management team meetings and er required events associated with the needs of the projects Provide status reporting by communicating across leadership levels regarding project milestones, deliverables, dependencies, risks, and issues Understand interdependencies between technology, operations and business needs Demonstrate a functional acumen to support how solutions will address client goals while maintaining alignment with industry best practices Manage project scope and changes against the project’s timeline and budget requirements; ensure project milestones are met Act as an internal quality control check for the project Practice project management principles, methods, and techniques Review and provide input on Best Practices, facilitating operational improvements Define the Statement of Work and Specifications for the requested goods and services Develop and manage all aspects of project engagement from planning, external vendor relationships, communications, resources, budget, change, risks, and issues Monitor, track, and control outcomes to identify risks and resolve issues, conflicts, dependencies, and critical path deliverables Define success criteria and key performance indicators and disseminate them to involved parties throughout project life cycle Manage project CRIADL, developing mitigation(s) that impact the baseline Continue professional development to keep abreast of emerging technologies, methods and best practices Meet professional obligations through efficient work habits such as, meeting deadlines, honoring schedules, coordinating resources and meetings in an effective and timely manner, and demonstrate respect for others All work responsibilities are subject to having performance goals and/or targets established (These essential functions are not to be construed as a complete statement of all duties performed. Employees will be required to perform other job related duties as required.) Minimum Requirements: Education/Licensure/Certification: Bachelor’s Degree in appropriate field of study or equivalent work experience Industry certification in project management practice (preferred) Experience: Five years of project management or related experience Five years of experience working with business stakeholders Knowledge, Skills, and Abilities (KSA's): Intermediate level of proficiency with MS Project, Excel, Visio, PowerPoint, and SharePoint with experience presenting to stakeholders and/or senior leadership Proven ability to demonstrate a drive for results and accountability of business needs Strong written and verbal communication skills Strong interpersonal skills Excellent customer service skills Strong organizational skills Demonstrative skill in attention to detail Ability to function effectively in a high-demand environment Ability to work independently and as a team member Ability to work with and through people to establish goals, objectives, and action plans Ability to compile, review, categorize, prioritize, analyze, and interpret data and/or information CORE COMPETENCIES FOR SUCCESS: JOB KNOWLEDGE AND SKILLS Team member carries out essential job functions with accuracy, engages in ongoing and relevant professional learning, applies new knowledge effectively, and demonstrates mastery of job-specific skills PRODUCTIVITY Team member produces high quality work, meets organizational and departmental deadlines, balances multiple responsibilities, manages time effectively, and seeks ways to improve processes and productivity COMMUNICATION Team member communicates clearly in written and verbal formats, collaborates effectively, demonstrates professionalism in all interactions, exhibits strong interpersonal skills, and contributes to a positive team and professional community CUSTOMER FOCUS Team member addresses the needs of internal and external customers, analyzes problems effectively, contributes to innovative solutions, seeks opportunities for improvement, and successfully adapts to change Physical Requirements and Environmental Conditions: Frequency of travel: Occasional travel is required for meetings, trainings, and conferences; location may vary and may require overnight stays Light physical activities and efforts required working in an office environment (Reasonable accommodations will be made in accordance with existing ADA requirements for otherwise qualified individuals with a disability.) Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/florida-virtual-school/jobs/project-manager?utm_source=api",
+    "salary": "USD 69,591–137,790 / annual",
+    "evidence_at": "2026-10-19T02:14:39+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 51,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
+    "key": "78dcb16d1eaa7912e6abdc0c",
+    "company": "TriMark USA, LLC",
+    "source_type": "himalayas",
+    "title": "Commercial Kitchen Project Manager",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "TriMark USA is the country’s largest provider of design services, equipment, and supplies to the foodservice industry. We proudly serve our customers by providing design services, commercial equipment, and foodservice supplies across a wide range of industries and business sectors. Headquartered in Massachusetts, with a history dating back to 1896, we have locations across the country that offer foodservice operators an unparalleled level of service by combining our unique design capabilities and our expert market knowledge with the purchasing strength, delivery, installation, and after-sales service capabilities of a national company. Our employees are focused on creating customized solutions for our clients to ensure they achieve their culinary goals while upholding our I.C.A.R.E. values: Integrity, Customer Service, Accountability, Respect, and Excellence. For more information, please visit: www.trimarkusa.com Why you’ll love it here! + Benefits include Medical, Dental, Vision, Tuition Reimbursement, Pet, and Legal Insurance + 401k + Community Service Day + Spotlight Awards + National Sales Excellence Awards + CFSP Prep Certification Program POSITION SUMMARY: The Project Manager reports to the Director, Project Managers Full-Time Remote As a Project Manager, you will be responsible for overseeing all phases of equipment package installations for new store projects of a national chain. This role entails planning, coordinating, and supervising the procurement, shipment, and installation of equipment packages. You will serve as the primary liaison between the General Contractor, subcontractors, and internal teams to ensure project success. ESSENTIAL FUNCTIONS & RESPONSIBILITIES: Project Management: Plan, monitor, coordinate, and supervise all aspects of equipment package installations from procurement to completion. Manage the opening equipment package process, including procurement, consolidation, shipments, and installations, ensuring adherence to timelines and quality standards. Collaboration and Coordination: Collaborate with internal teams (e.g., Design, Sales Operations, Distribution) to align on customer needs and ensure timely delivery of equipment and services. Review bid and contract documents to ensure compliance with contract requirements and design intent. Communication and Reporting: Participate in weekly meetings to provide project updates and address specific questions, ensuring transparency and alignment across teams. Review manufacturers' quotes and approve shop drawings to ensure compliance with design requirements. Customer Service and Relationship Management: Ensure jobs are delivered and installed on time while maximizing profitability whenever possible. Foster positive relationships with external/internal customers, vendors, and stakeholders through professional conduct and exceptional customer service. Problem Solving and Critical Thinking: Demonstrate critical thinking and problem-solving skills to address project challenges and ensure successful outcomes. Maintain attention to detail and uphold high standards of quality and accuracy in project management activities. TRAVEL REQUIRED: This position requires up to 5% travel. Flexibility in schedule is necessary to meet customer needs, including occasional overtime and weekend work. COMPETENCIES: Strong organizational skills and ability to work in a fast-paced environment. Excellent communication skills, both oral and written. Proficiency in relationship building and customer service. Ability to work independently and as part of a team, with minimal supervision. Critical thinking and problem-solving abilities. QUALIFICATIONS & EXPERIENCE: Bachelor’s degree in a related field, or equivalent military or practical experience. 2 – 4 years of project management experience, preferably in the foodservice industry. Sales/distribution experience is preferred. Ability to successfully pass a background check post offer acceptance. #SHIndeed Compensation includes the posted base salary range and does not reflect potential commission, incentive, bonus, or other additional compensation opportunities, where applicable. Total compensation is determined based on experience, skills, internal equity, geographic location, and other job-related compensatory factors. In addition to base salary, this role will be eligible for participation in TriMark’s’ benefits programs, including medical, dental, vision, 401K (with employer match), etc. Leadership positions may also qualify for participation in bonus programs commensurate with role and scope of responsibility. TriMark USA provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please direct your inquiries to . Scam Alert: TriMark will never ask an applicant for their social security number or to make a payment related to a job application or job offer, or to pay for workplace equipment. Further, all communications with TriMark recruiters will come from an e-mail address ending in TriMarkUSA.com. If you have any concerns about the legitimacy of a job posting or recruiting contact, please contact . Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/trimark-usa-llc/jobs/commercial-kitchen-project-manager?utm_source=api",
+    "salary": "USD 80,000–95,000 / annual",
+    "evidence_at": "2026-10-19T20:02:38+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 51,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -736,7 +831,7 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -912,6 +1007,25 @@
     "status": "older"
   },
   {
+    "key": "3569d52b80ec6a3ad38f6ba8",
+    "company": "Lynker Corporation",
+    "source_type": "himalayas",
+    "title": "Project Engineer",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "Overview Lynker Corporation is a leading provider of innovative solutions in weather and climate science. With a commitment to excellence and a passion for innovation, Lynker leverages cutting-edge technologies and scientific expertise to support the creation and delivery of improved operational weather forecasts. Lynker is seeking experienced Project Engineers to support the development, integration, testing, and evaluation of emerging capabilities. The Project Engineer will work as part of a multidisciplinary team supporting engineering activities from early concept development through integration and operational evaluation. This position requires an individual who can work effectively across engineering, program management, operations, government, and industry teams to address technical requirements and support project execution. Responsibilities Duties of the Project Engineer will include the following: Qualifications The Project Engineer selected should have the following: Support technical planning, engineering, integration, testing, and evaluation activities. Assist in translating operational requirements into technical objectives and executable engineering activities. Coordinate with internal and external engineering teams to support system and subsystem integration. Develop and review technical documentation, plans, schedules, requirements, and engineering products. Participate in technical reviews, demonstrations, test events, and other program activities. Identify technical risks, integration challenges, and potential solutions. Support collection and analysis of technical and operational data. Coordinate activities across multiple technical disciplines and organizations. Prepare technical briefings, reports, and other program documentation. Work with program and safety personnel to support established readiness and safety requirements. Perform other technical and program support activities as required. Security Requirements Ability to obtain and maintain the security clearance required for assigned work. The Ideal Project Engineer will have the following: • Experience supporting Department of Defense, federal government, research and development, or complex technical programs.• Experience with prototype development, system integration, experimentation, testing, or operational evaluation.• Familiarity with government engineering and acquisition environments About Lynker Lynker is a growing, employee owned business, specializing in professional, scientific and technical services. Our continually expanding team combines scientific expertise with mature, results-driven processes and tools to achieve technically sound, cost effective solutions in hydrology/water sciences, geospatial analysis, information technology, resource management, conservation, and management and business process improvement. We focus on putting the right people in the right place to be effective. And having the right people is critical for success. Our streamlined organization enables and empowers our talented professionals to tackle our customers' scientific and technical priorities – creatively and effectively. Lynker offers a team-oriented work environment, and the opportunity to work in a culture of exceptionally skilled professionals who embrace sound science and creative solutions. Lynker's benefits include the following: Comprehensive healthcare for the employee at no monthly cost Healthcare benefit covers medical, prescription drug, dental, and vision Personal Time Off (PTO) Policy plus paid holidays Highly competitive compensation plan regularly calibrated against industry and location benchmarks 401(k) retirement plan with company-matching Employee Stock Ownership Plan (ESOP) – we're all company owners! Flexible spending accounts Employee assistance program (EAP) Short- and long-term disability insurance Life and accident insurance Tuition assistance/Training/Workforce improvement reimbursement per year Spot bonuses for exceptional performance Annual Employee Recognition Awards with bonuses Employee Referral Program Free centralized, self-directed Learning Management System to learn at your own pace Personalized career growth plans for every employee Lynker is an E-Verify employer. Lynker is an equal opportunity employer and makes all employment decisions based on merit, qualifications, and business needs. We do not discriminate on the basis of race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age, disability, genetic information, marital status, veteran status, or any other legally protected status under federal, state, or local laws. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/lynker-corporation/jobs/project-engineer?utm_source=api",
+    "salary": "",
+    "evidence_at": "2026-10-19T14:35:51+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 48,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
     "key": "d366f8c93e4ed163cbf835d4",
     "company": "CAI",
     "source_type": "lever",
@@ -964,7 +1078,7 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -983,7 +1097,7 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1002,7 +1116,7 @@
     "remote": 1,
     "score": 47,
     "first_seen": "2026-10-19T00:47:46+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -1045,6 +1159,25 @@
     "status": "older"
   },
   {
+    "key": "cb0e2989b9a86ed674904f04",
+    "company": "DYOPATH",
+    "source_type": "himalayas",
+    "title": "Project Manager",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "Lead Projects That Turn Strategy into Results At DYOPATH , we’re looking for a Project Manager who knows how to bring structure to complex initiatives, align teams around common goals, and drive projects from planning through successful delivery. This role supports strategic initiatives, new business implementations, and revenue-generating client engagements, with responsibility for maintaining strong client relationships while delivering against established timelines, budgets, and business objectives. You won’t simply track tasks. You’ll help establish the plan, engage the right stakeholders, manage resources and risk, drive accountability, and keep projects moving forward. Role Details Location (Remote) Schedule: Standard Business Hours Travel: Periodic based on business & client needs Pay Rate: $110,000-$120,000 (annually) Focus: Strategic Initiatives, New Business Implementations & Client Engagements Industry Experience: Information Technology or Manufacturing What You’ll Actually Be Doing You’ll lead projects from initiation and planning through execution and completion, working across operational teams, subject matter experts, business leaders, vendors, and clients. Depending on the project, you could be establishing scope with executive sponsors, building a project schedule, reviewing resource requirements, monitoring costs, addressing risks, coordinating a client implementation, or reporting progress to key stakeholders. Your responsibilities will include: Partnering with executive and operational sponsors to define business goals, project scope, and deliverables. Engaging stakeholders early to establish expectations and project-specific objectives. Developing comprehensive project management plans covering resources, costs, schedules, risks, materials, vendors, and stakeholder requirements. Building work breakdown structures and defining roles, responsibilities, dependencies, and task assignments. Preparing and maintaining project schedules using established DYOPATH standards and project management tools. Establishing baseline project budgets and schedules and escalating risks or issues that may affect delivery. Maintaining accurate schedules, cost information, resource utilization, and project documentation throughout the project lifecycle. Tracking project revenues and expenses. Reporting project status, activities, risks, and progress to clients and DYOPATH leadership. Coordinating project activities across internal teams, clients, suppliers, and third-party vendors. Training project resources on the standards, tools, and processes necessary to successfully execute assigned work. Serving as a primary client and stakeholder contact based on project scope. Coordinating site-specific training for clients, employees, and managers. Supporting recruiting activities associated with new business opportunities. Facilitating lessons learned and incorporating continuous improvement into future project delivery. Applying the DYOPATH FMS Operating System and Delivery Transformation Model throughout project execution. This Role Sits at the Intersection of Project Management Client Delivery Strategic Initiatives New Business Implementation Operational Leadership Financial Management Resource Coordination Stakeholder Management Risk Management Continuous Improvement We’re Looking for a Project Leader We’re looking for someone who can take ownership of a project, bring people together around a plan, and maintain momentum even when priorities, resources, or circumstances change. Someone who can: Translate business objectives into actionable project plans. Build alignment across cross-functional teams and stakeholders. Motivate teams to produce quality results within established timelines. Hold project resources accountable while leading with tact and a servant-leadership mindset. Identify and escalate risks before they jeopardize cost, schedule, or delivery. Manage multiple project components without losing sight of the broader business objective. Develop strong relationships with clients and internal stakeholders. Adapt to organizational change and identify opportunities for improvement. Learn new technologies, systems, and ways of working. What Makes Project Managers Successful Here? You may be a strong fit if you bring: An associate degree and four years of related experience, or an equivalent combination of education and experience. At least three years of professional experience within Information Technology or Manufacturing. At least one year of related operational leadership experience. At least one year of experience working within a quality-based operating system. Strong knowledge of team dynamics and cross-functional collaboration. The ability to balance client expectations with project scope, resources, timelines, and costs. Experience coordinating work across internal resources, clients, vendors, and other stakeholders. The ability to drive accountability while maintaining productive working relationships. Aptitude with Microsoft Office 365 and associated applications. Additional project management certifications are a plus. Why This Role Matters Successful projects require more than schedules and status reports. They require someone who can connect strategy, people, resources, financial considerations, and client expectations and turn them into an executable plan. Your work will directly support: Strategic business initiatives New client implementations Revenue-generating engagements Project financial performance Client satisfaction Resource readiness Operational consistency Continuous improvement You’ll have the opportunity to work across the organization and help ensure important initiatives move from concept to successful execution. Why DYOPATH ? At DYOPATH , project delivery is about more than completing a checklist. It’s about providing a high level of service, creating accountability, strengthening client relationships, and continuously improving how we deliver. If you enjoy bringing structure to complex initiatives, collaborating across teams, solving problems, and seeing a project through from planning to completion, this is an opportunity to make a visible impact. The Bottom Line We’re looking for a Project Manager who can lead, organize, communicate, and execute. Someone who can understand the objective, build the plan, align the right people, manage the details, address challenges, and keep stakeholders informed through successful delivery. This job is open to applicants residing in the U.S. only. Equal Opportunity Employer DYOPATH is committed to a work environment free of all forms of discrimination. DYOPATH recruits and hires without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic. For more information about DYOPATH , please visit our website at . The above information has been designed to indicate the general nature and level of work performed by employees in this classification. It is not designed to contain or to be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of the employee assigned to this job. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/dyopath/jobs/project-manager?utm_source=api",
+    "salary": "USD 110,000–120,000 / annual",
+    "evidence_at": "2026-10-19T15:25:21+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 47,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
     "key": "4a4744eccbcd0780a5565867",
     "company": "CloudMasonry",
     "source_type": "himalayas",
@@ -1083,6 +1216,25 @@
     "status": "recent_aggregator"
   },
   {
+    "key": "18fee16038d9273f186a2fe3",
+    "company": "MOXFIVE",
+    "source_type": "ashby",
+    "title": "Project Manager (Incident Response)",
+    "location": "Remote",
+    "employment": "FullTime",
+    "description": "Project Manager (Incident Response) Who You Are You are the person who makes chaos look manageable. When a cyberattack hits and five workstreams are spinning at once, you're the one holding the center, tracking every moving part, keeping every stakeholder informed, and making sure nothing falls through the cracks. You don't need to speak fluent threat actor, but you know exactly what needs to happen next and who needs to know about it. You speak with clients just as fluently as you speak with the technical team. You know the difference between a status update that actually helps and one that just creates more questions. You've managed projects under pressure before, and you've learned that in high-stakes environments, precision and calm are superpowers. You're wired for complexity. Juggling 5–8 concurrent engagements doesn't overwhelm you, it's where you do your best work. You care about the details that others overlook, because you know those details are what keep a response on track and a client's trust intact. Why You Matter You'll be joining MOXFIVE as a Project Manager supporting our Incident Response practice - the operational backbone that keeps our engagements running when organizations need us most. When ransomware strikes, the technical work is only part of the story. Forensics, restoration, remediation, legal documentation, client communications all must move simultaneously, and someone has to orchestrate it all. That's you. You're the reason our technical teams can stay focused on the response itself, our clients stay informed without feeling lost, and our engagements close with the precision and professionalism MOXFIVE is known for. Your work doesn't just keep projects organized. It directly shapes how organizations experience one of the most stressful moments they'll ever face. What You'll Do - Coordinate incident response projects across concurrent technical workstreams keeping everything and everyone aligned - Serve as the connection between clients, technical teams, legal counsel, and internal MOXFIVE stakeholders - Own project documentation: trackers, status reports, milestone logs, deliverable schedules, call cadence. They must be accurate, complete, and always current - Generate Statements of Work, change orders, and level of efforts with clear scope and pricing - Compile and distribute timely status updates that tell the story of where an engagement stands - Monitor project budgets, track time and expenses, and flag potential scope creep before they become a problem - Coordinate scheduling for client meetings, technical activities, and stakeholder briefings across a portfolio of active engagements - Identify and surface project risks early, working with stakeholders to keep things on course - Participate in a rotating on-call schedule (roughly once every six weeks) to support active incident response operations - Contribute to the ongoing improvement of MOXFIVE's project management processes and systems What You'll Bring - 3+ years of project coordination or project management experience, ideally in consulting, professional services, or technology environments - Exceptional organizational skills and meticulous attention to detail, you manage multiple concurrent projects without losing track of what matters - Strong written and verbal communication skills, with the ability to create clear, confident status reports and client-facing documentation - Proficiency with project management platforms - Advanced skills in Microsoft Office, particularly Excel and PowerPoint - Comfort interfacing with clients, partners, and senior stakeholders in fast-moving, high-pressure situations - Financial tracking experience - budget monitoring, time tracking, and basic project accounting - A process-oriented mindset with an eye for where things can be done better - Bachelor's degree in business, communications, or a related field. Or the equivalent in real-world experience Bonus points for: - Background in consulting, professional services, or client-facing coordination roles - Exposure to cybersecurity, IT services, or incident response environments - Experience generating SOWs, proposals, or contract documentation - Familiarity with legal or insurance-related project requirements - Experience with CRM systems like Salesforce or HubSpot - CAPM, PMP, CSM, or other project management certification (or actively working toward one)",
+    "url": "https://jobs.ashbyhq.com/moxfive/67da822e-6f01-4495-be15-23a58c291040/application",
+    "salary": "$80K - $120K",
+    "evidence_at": "2026-06-08T15:14:31+00:00",
+    "evidence_kind": "last_published",
+    "remote": 1,
+    "score": 46,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "older"
+  },
+  {
     "key": "7aea308237a879bc87120e31",
     "company": "IXOPAY",
     "source_type": "himalayas",
@@ -1100,6 +1252,25 @@
     "last_seen": "2026-10-17T04:05:58+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
+  },
+  {
+    "key": "36db8109f239be6b9951d23d",
+    "company": "Nabi",
+    "source_type": "ashby",
+    "title": "Billing, Credentialing & Back-Office Operations Coordinator",
+    "location": "Remote",
+    "employment": "FullTime",
+    "description": "Location: Remote Hours: Full-time preferred (40 hours/week); minimum 30 hours/week ABOUT NABI HEALTH At Nabi Health, we provide weight-inclusive nutrition care for people navigating eating disorders, disordered eating, and body distress. Our clinical model is supported by a strong operational backbone that ensures patients and providers have seamless, reliable, and ethical care experiences. We are seeking a Billing, Credentialing & Back-Office Operations Coordinator to support revenue cycle operations, provider onboarding, and administrative workflows that enable our clinicians to deliver high-quality care at scale. This role is ideal for someone who is detail-oriented, systems-driven, and excited to help build operational processes in a growing, mission-driven healthcare startup. WHAT YOU’LL DO - Billing & Revenue Cycle Management - Manage day-to-day billing workflows, including claims submission, reconciliation, and follow-up - Track and resolve claim denials and follow up with payers to ensure timely reimbursement - Maintain accurate billing, insurance, and provider records within EMR and practice management systems - Support revenue cycle reporting and collaborate with operations leadership to improve efficiency Credentialing & Provider Enrollment - Manage credentialing and payer enrollment for new Registered Dietitians (RDs) - Track credentialing timelines to ensure clinicians are onboarded and billable as efficiently as possible - Maintain up-to-date provider licenses, credentials, and payer statuses - Ensure provider capacity keeps pace with patient growth Back-Office & Administrative Operations - Support onboarding of clinicians into EMRs, billing systems, and administrative workflows - Maintain accurate provider and administrative data across internal systems - Assist with scheduling, data entry, and clinician administrative support as needed - Collaborate with leadership to streamline workflows and build scalable operational processes Compliance & Communication - Ensure compliance with HIPAA and payer requirements across all workflows - Serve as a point of contact for clinicians and patients regarding administrative and billing questions - Communicate clearly, professionally, and empathetically in a patient-centered care environment WHAT YOU BRING Required - 1+ years of healthcare administration experience - Prior experience with medical billing, insurance claims, denials, or RCM workflows - Strong organizational skills and exceptional attention to detail - Comfort with EMRs, billing software, spreadsheets, and Google Workspace - Ability to work independently in a fast-paced, fully remote environment Preferred - Experience with credentialing, payer enrollment, or provider onboarding - Experience in behavioral health, nutrition, or eating disorder practices - Familiarity with EMRs such as SimplePractice, Healthie, or similar systems - Working knowledge of CPT and ICD-10 codes What We’re Looking For - A problem-solver with a process-first mindset - Highly reliable, proactive, and detail-oriented - Comfortable with ambiguity and rapid growth environments - Clear, timely communicator and strong collaborator - Committed to equity, respect, and patient-centered care What We Offer - Competitive pay - Health, dental, and vision insurance (for full-time roles) - Home technology reimbursement - Flexible scheduling within core business hours - Professional growth opportunities within a rapidly scaling health organization",
+    "url": "https://jobs.ashbyhq.com/nabihealth/ff5368b5-2bf4-4461-9ff0-84b0e4a779bd/application",
+    "salary": "",
+    "evidence_at": "2026-01-19T08:43:41+00:00",
+    "evidence_kind": "last_published",
+    "remote": 1,
+    "score": 45,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "older"
   },
   {
     "key": "8b6829fcf73497c356d8a29c",
@@ -1135,7 +1306,26 @@
     "remote": 1,
     "score": 44,
     "first_seen": "2026-10-19T00:47:46+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
+    "key": "7abc4de81fa253fa2ae64c73",
+    "company": "Epiq",
+    "source_type": "himalayas",
+    "title": "Client Services Project Specialist",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "At Epiq , your work contributes to complex, global legal outcomes. You’ll join a values‑driven community where integrity guides decisions, relentless service sets the bar, and we thrive on big challenges together. We invest in your growth with enterprise‑wide learning and mobility. We celebrate who you are, and we respect life beyond work with flexibility that’s recognized externally. Enabled by modern platforms and AI, you’ll do the most meaningful work of your career and see your impact at scale. Job Description: Job Summary: Project Attorneys respond to complex inquiries from customers and client across a variety of communication methods. This role is expected to be an escalation route to review consumer facing inquiries or issues that cannot be resolved by standardized processes. Essential Job Responsibilities Respond to complex inquiries from customers and clients across a variety of communication methods: phone, email, written correspondence Adhere to standard protocols, procedures, and instructions from the Project Manager and Supervisors, as well as implementing feedback as required Work effectively in a highly collaborative environment with a variety of business partners Create, monitor, and update scripting and procedures for claims and correspondence teams to ensure the work they are doing is furthering the goals of the project Assist the Supervisor or Project Manager in resolving any issues that might arise Monitor the overall health of the case by identifying any errors and creating solutions for resolution Qualifications & Certifications JD from an accredited US law school or foreign law degree and LLM Flexible and customer service focused Outstanding written and verbal communication skills are required. Ability to clearly communicate complex ideas to diverse audiences. Ability to handle changing or competing priorities to support business needs Strong technical orientation, excellent computer skills, exceptional planning and organizational skills, critical thinking and a keen attention to detail are all required. Experience with MS Office Suite, specifically Word, Excel, Access and Outlook Your specific salary will be determined based on several factors: Location-based market rate for the role Your abilities in relation to the job specification Performance during screening and interview Pay parity with the wider team in the considered location Further details about the package will be provided during the initial screening call with the Talent Acquisition Team. Click here to learn about Epiq 's Benefits. Epiq Leadership Compass Fosters Relationships & Collaboration Builds trust and alignment through open communication, shared goals, and strong partnerships to drive collective success. Build trust-based partnerships Nurture long-term relationships Remove collaboration barriers Celebrate cross-team success Engages & Influences Inspires action and alignment through clear communication, purposeful influence, and a compelling vision. Use storytelling to build buy-in Align communication with organizational goals Guild alignment through strong engagement Maximizes Performance Sets and reinforces performance standards that drive results, ensure accountability, and align with Epiq ’s goals. Use data to identify improvement opportunities Make informed decisions Align team goals with boarder strategy Empower teams to manage their own goals Translate vision into clear priorities Prepare for disruptions with strong change management Achieves Operational Success Drives continuous improvement and operational excellence through smart processes, data insights, and quality execution. Improve workflows for team efficiency Use clear documentation and expectations Resolve issues quickly using data and feedback It is Epiq ’s policy to comply with all applicable equal employment opportunity laws by making all employment decisions without unlawful regard or consideration of any individual’s race, religion, ethnicity, color, sex, sexual orientation, gender identity or expressions, transgender status, sexual and other reproductive health decisions, marital status, age, national origin, genetic information, ancestry, citizenship, physical or mental disability, veteran or family status or any other basis protected by applicable national, federal, state, provincial or local law. Epiq ’s policy prohibits unlawful discrimination based on any of these impermissible bases, as well as any bases or grounds protected by applicable law in each jurisdiction. In addition Epiq will take affirmative action for minorities, women, covered veterans and individuals with disabilities. If you need assistance or an accommodation during the application process because of a disability, it is available upon request. Epiq is pleased to provide such assistance and no applicant will be penalized as a result of such a request. Pursuant to relevant law, where applicable, Epiq will consider for employment qualified applicants with arrest and conviction records. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/epiq/jobs/client-services-project-specialist?utm_source=api",
+    "salary": "",
+    "evidence_at": "2026-10-19T01:22:40+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 44,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -1211,7 +1401,7 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1235,6 +1425,25 @@
     "status": "recent_aggregator"
   },
   {
+    "key": "60bf927648f3e717be7cdf18",
+    "company": "Mercy",
+    "source_type": "himalayas",
+    "title": "Legal Operations Analyst - St. Louis, MO",
+    "location": "Remote - USA",
+    "employment": "Full Time",
+    "description": "Find your calling at Mercy ! Join Mercy ’s Legal Department in a role where organization, curiosity, technology, and problem-solving come together. As a Legal Operations Analyst, you’ll help manage claims and litigation matters, turn data into meaningful insights, and identify new ways to make legal operations more efficient and effective. Position Details: Responsibilities: Manage claims and litigation matters from opening through closure, ensuring information, documentation, deadlines, and financial activity remain accurate and current. Track active matters, follow up on outstanding items, and partner with attorneys and other stakeholders to keep work moving forward. Prepare reports, dashboards, presentations, and analyses that highlight trends, costs, outcomes, and other insights for leadership. Support insurance activities, including coverage verification, claim histories, carrier reporting, and audit preparation. Help improve processes through standardization, technology, automation, and approved AI tools. Develop practical templates, prompts, workflows, and guides that make work more efficient and consistent. Qualifications: Bachelor’s degree in any field. Ability to analyze information, solve problems, and manage changing priorities. Strong communication and collaboration skills. Comfort with spreadsheets, data, reporting tools, and technology, with the ability to learn new systems quickly. No Legal Experience Required Previous experience in claims, litigation, a law firm, or paralegal work is not required. We are looking for someone with strong learning ability, initiative, technical aptitude, and curiosity who is excited to grow into the role. Why Mercy ? From day one, Mercy offers outstanding benefits - including medical, dental, and vision coverage, paid time off, tuition support, and matched retirement plans for team members working 32+ hours per pay period. Join a caring, collaborative team where your voice matters. At Mercy , you'll help shape the future of healthcare through innovation, technology, and compassion. As we grow, you'll grow with us. Originally posted on Himalayas",
+    "url": "https://himalayas.app/companies/mercy/jobs/legal-operations-analyst-st-louis-mo?utm_source=api",
+    "salary": "",
+    "evidence_at": "2026-10-19T08:02:04+00:00",
+    "evidence_kind": "aggregator_publication",
+    "remote": 1,
+    "score": 43,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "recent_aggregator"
+  },
+  {
     "key": "6dc85b975642dd5c2c7ea600",
     "company": "EVERSANA",
     "source_type": "himalayas",
@@ -1249,7 +1458,7 @@
     "remote": 1,
     "score": 42,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "recent_aggregator"
   },
@@ -1306,9 +1515,9 @@
     "remote": 1,
     "score": 40,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
-    "status": "recent_publication"
+    "status": "older"
   },
   {
     "key": "4ace545e5bfcb2414c88f157",
@@ -1325,7 +1534,7 @@
     "remote": 1,
     "score": 40,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1344,7 +1553,26 @@
     "remote": 1,
     "score": 40,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
+    "match_reason": "",
+    "status": "older"
+  },
+  {
+    "key": "10471275062a81143cde4a73",
+    "company": "Moxie",
+    "source_type": "ashby",
+    "title": "Practice Marketing Project Manager (PH)",
+    "location": "Remote - Philippines",
+    "employment": "FullTime",
+    "description": "At Moxie, we empower ambitious aesthetic entrepreneurs to build profitable, independent practices—without burnout, overwhelm, or guesswork. In just a few years, we've grown from an idea to a global, remote-first team now supporting 700+ practices nationwide. Our purpose is simple: to unlock sustainable success for aesthetic entrepreneurs, at every stage of their journey. THE ROLE We're looking for a Practice Marketing Project Manager to give our Practice Marketing team the project management muscle it needs to grow. Right now, the team's own bandwidth is the ceiling on how many accounts we can service well — this role raises that ceiling. You'll keep our top accounts on track, hold timelines and deliverables accountable, and free up our Practice Marketing Managers to spend their time on strategy and client relationships instead of chasing tasks. You'll also be stepping into the role of process-builder for the department — the systems and templates you create won't just serve today's accounts, they'll become the backbone the team scales on as Moxie takes on more clients. This is a foundational hire for the team: half the job is running today's accounts cleanly, and half is building the infrastructure that lets Practice Marketing grow without sacrificing quality. OUR OBJECTIVES FOR THE ROLE - Bring full visibility to our top accounts by standing up a project tracking system and owning status reporting, so timelines, deliverables, and owners are always clear — without a manager needing to chase for updates - Build and roll out a standardized project plan template that every new account runs on, so onboarding and delivery are consistent across the whole department - Measurably improve delivery performance by reducing missed deadlines and late deliverables across top accounts, with a clear before-and-after tied to account retention - Stand up a capacity planning process that shows the team's real workload, so leadership always knows when there's room to take on a new account - Grow into a trusted operator who brings data-backed recommendations to leadership and takes on a piece of account load independently — positioning this role for growth into a Senior Project Manager or team lead track If things go even better than expected, you become the reason our top accounts run without fire drills — and the model we point to as we open new markets and bring on new clients. WE'RE LOOKING FOR - A systems builder, not just a tracker. You don't just maintain a project tracker — you've built one from scratch, templated a process, or standardized a workflow that other people then adopted. - Comfort owning accountability without owning the relationship. You can hold timelines and deliverables firm with marketing managers and clients without being the strategic or client-facing lead yourself. - A bias toward visibility. You default to making status, risk, and ownership obvious to everyone — not just tracked in your own head or inbox. - Judgment on when to flag versus when to solve. You can tell the difference between a risk that needs to be escalated now and one you can quietly resolve yourself. - Early-career hunger for ownership. You want a role that stretches past \"coordinate the calendar\" and are motivated by building something that outlasts you. WHY JOIN US? - Above all, we're in this to empower small business owners to own and grow their businesses. If you succeed, MedSpas remain the opportunity for independent owner-operators instead of being dominated by a small number of large chains. If that speaks to you, speak to us. - Real ownership, early. You won't be buried in busywork — you'll build the systems a growing marketing team runs on. - Direct access to US-based leadership and clients, with your fingerprints on how Moxie scales. - A clear growth path from Project Manager into a leadership track, with clear metrics to show your progress along the way. - Competitive salary At Moxie, we believe in creating a workplace where everyone feels valued, trusted, and included. Our team lives by our values: act as owners, give more than we take, move with speed and care, and simplify and learn every day. We welcome people of all backgrounds, experiences, and perspectives to apply. If you require any accommodations to fully participate in the interview process, please let us know, we’re happy to assist.",
+    "url": "https://jobs.ashbyhq.com/moxie/b91a047f-5ed7-4a68-929e-a6f674794ed2/application",
+    "salary": "",
+    "evidence_at": "2026-10-01T20:04:17+00:00",
+    "evidence_kind": "last_published",
+    "remote": 1,
+    "score": 40,
+    "first_seen": "2026-10-20T01:33:56+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1420,7 +1648,7 @@
     "remote": 1,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "date_unknown"
   },
@@ -1439,7 +1667,7 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1496,7 +1724,7 @@
     "remote": 1,
     "score": 34,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "new_created"
   },
@@ -1515,7 +1743,7 @@
     "remote": 1,
     "score": 34,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1534,7 +1762,7 @@
     "remote": 1,
     "score": 33,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   },
@@ -1553,7 +1781,7 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-19T00:47:46+00:00",
+    "last_seen": "2026-10-20T01:33:56+00:00",
     "match_reason": "",
     "status": "older"
   }
