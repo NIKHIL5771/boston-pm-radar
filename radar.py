@@ -31,8 +31,13 @@ NOW = lambda: datetime.now(timezone.utc)
 
 class StripHTML(HTMLParser):
     def __init__(self):
-        super().__init__(); self.parts = []
-    def handle_data(self, data): self.parts.append(data)
+        super().__init__(); self.parts = []; self.hidden = 0
+    def handle_starttag(self, tag, attrs):
+        if tag in ('script','style','template','noscript'): self.hidden += 1
+    def handle_endtag(self, tag):
+        if tag in ('script','style','template','noscript') and self.hidden: self.hidden -= 1
+    def handle_data(self, data):
+        if not self.hidden: self.parts.append(data)
     def get_text(self): return ' '.join(' '.join(self.parts).split())
 
 def strip_html(s):
@@ -283,7 +288,8 @@ NO_SPONSOR = re.compile(
  r'\b(?:only|must be)\s+(?:a\s+)?(?:us|u\.s\.)\s+citizen|'
  r'\bwithout\s+(?:the\s+need\s+for\s+)?(?:current\s+or\s+future\s+)?(?:visa|immigration)\s+sponsorship|'+
  r'\b(?:sponsorship\s+(?:now\s+or\s+in\s+the\s+future)\s+is\s+not\s+available)|'+
- r'\bwithout\s+sponsorship\s+(?:now|currently|in\s+the\s+future)' ,re.I|re.S)
+ r'\bwithout\s+sponsorship\s+(?:now|currently|in\s+the\s+future)|'+
+ r'\bsponsorship\s+for\s+(?:u\.?s\.?\s+)?employment\s+authorization\s+is\s+not\s+available' ,re.I|re.S)
 
 SETTINGS={}
 def likely_title(title):
