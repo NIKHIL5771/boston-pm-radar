@@ -56,6 +56,29 @@ class TestFilters(unittest.TestCase):
     def test_multiple_job_locations(self):
         self.assertTrue(radar.nearby('Boston, MA / San Francisco, CA',False,SETTINGS))
         self.assertFalse(radar.nearby('Cambridge, Ontario / Reading, PA',False,SETTINGS))
+    def test_greater_boston_locations_without_nationwide_remote(self):
+        metro={**SETTINGS,
+          'local_cities':['Boston','Marlborough','Framingham','Rockland','Waltham'],
+          'allow_us_remote':False}
+        for place in ('Boston, MA','Marlborough, MA','Framingham, Massachusetts','Rockland, MA','Waltham, MA'):
+            self.assertTrue(radar.nearby(place,False,metro),place)
+        for place in ('Rockland, ME','Framingham, NY','Remote - USA','Seattle, WA'):
+            self.assertFalse(radar.nearby(place,True,metro),place)
+
+    def test_saved_results_obey_updated_location_settings(self):
+        metro={**SETTINGS,'local_cities':['Boston','Framingham','Rockland'],'allow_us_remote':False}
+        with sqlite3.connect(':memory:') as db:
+            db.row_factory=sqlite3.Row
+            radar.setup_db(db)
+            for name,loc in [('boston','Boston, MA'),('framingham','Framingham, MA'),
+                             ('rockland','Rockland, MA'),('remote','Remote - USA'),
+                             ('oldcity','Waltham, MA')]:
+                candidate=job(key=name,location=loc,remote=name=='remote')
+                candidate['score']=80
+                radar.save(db,candidate,radar.iso(NOW))
+            rows=radar.query_current(db,NOW,metro)
+            self.assertEqual({j['key'] for j in rows},{'boston','framingham','rockland'})
+
     def test_first_published_in_seven_days(self):
         j=job(evidence_at=radar.iso(NOW-timedelta(days=3)),evidence_kind='created')
         self.assertEqual(radar.recent_status(j,NOW,168),'new_created')
