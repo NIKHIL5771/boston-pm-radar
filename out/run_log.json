@@ -1,15 +1,11 @@
 {
-  "run_utc": "2026-10-21T22:12:18+00:00",
+  "run_utc": "2026-10-21T22:51:44+00:00",
   "sources_total": 456,
   "sources_ok": 397,
   "sources_failed": 59,
-  "raw_jobs": 8365,
+  "raw_jobs": 8368,
   "eligible": 19,
   "errors": [
-    {
-      "name": "Anduril Industries",
-      "error": "Unterminated string starting at: line 1 column 39952660 (char 39952659)"
-    },
     {
       "name": "Bamboo Health",
       "error": "HTTP Error 404: Not Found"
@@ -67,15 +63,19 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "name": "Anduril Industries",
+      "error": "Unterminated string starting at: line 1 column 39954282 (char 39954281)"
+    },
+    {
       "name": "Ramp Health",
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Rippling",
+      "name": "Coda",
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Coda",
+      "name": "Rippling",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -91,15 +91,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Locus Robotics",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "name": "Catalant",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "name": "Handshake",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -107,7 +99,19 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "name": "Locus Robotics",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
       "name": "Formlabs",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Muck Rack",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Benchling",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -123,11 +127,11 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Gong",
+      "name": "Charles River",
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Charles River",
+      "name": "Gong",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -135,11 +139,19 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Benchling",
+      "name": "Zapier",
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Zapier",
+      "name": "Sourcegraph",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Calendly",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "Handshake",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -151,10 +163,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Webflow",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "name": "Iterable",
       "error": "HTTP Error 404: Not Found"
     },
@@ -163,15 +171,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "name": "Muck Rack",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "name": "Sourcegraph",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "name": "Calendly",
+      "name": "Webflow",
       "error": "HTTP Error 404: Not Found"
     },
     {
@@ -252,13 +252,6 @@
       "matching": 2
     },
     {
-      "employer": "SOCOTEC",
-      "provider": "smartrecruiters",
-      "ok": true,
-      "raw": 1,
-      "matching": 1
-    },
-    {
       "employer": "CAI",
       "provider": "lever",
       "ok": true,
@@ -270,6 +263,20 @@
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "SOCOTEC",
+      "provider": "smartrecruiters",
+      "ok": true,
+      "raw": 1,
+      "matching": 1
+    },
+    {
+      "employer": "AHEAD",
+      "provider": "lever",
+      "ok": true,
+      "raw": 147,
       "matching": 0
     },
     {
@@ -287,13 +294,6 @@
       "matching": 0
     },
     {
-      "employer": "AHEAD",
-      "provider": "lever",
-      "ok": true,
-      "raw": 147,
-      "matching": 0
-    },
-    {
       "employer": "Lincoln Property Company",
       "provider": "greenhouse",
       "ok": true,
@@ -308,18 +308,18 @@
       "matching": 0
     },
     {
-      "employer": "InterSystems",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 2,
-      "matching": 1
-    },
-    {
       "employer": "Jukebox Health",
       "provider": "greenhouse",
       "ok": true,
       "raw": 1,
       "matching": 0
+    },
+    {
+      "employer": "InterSystems",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 2,
+      "matching": 1
     },
     {
       "employer": "Preload",
@@ -343,12 +343,11 @@
       "matching": 0
     },
     {
-      "employer": "Anduril Industries",
+      "employer": "Syner-G",
       "provider": "greenhouse",
-      "ok": false,
+      "ok": true,
       "raw": 0,
-      "matching": 0,
-      "error": "Unterminated string starting at: line 1 column 39952660 (char 39952659)"
+      "matching": 0
     },
     {
       "employer": "FormativGroup",
@@ -358,7 +357,7 @@
       "matching": 0
     },
     {
-      "employer": "Syner-G",
+      "employer": "Verista",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -373,11 +372,11 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Verista",
+      "employer": "Apex Companies",
       "provider": "greenhouse",
       "ok": true,
-      "raw": 0,
-      "matching": 0
+      "raw": 6,
+      "matching": 1
     },
     {
       "employer": "Toast",
@@ -401,11 +400,11 @@
       "matching": 0
     },
     {
-      "employer": "Apex Companies",
+      "employer": "Anthropic",
       "provider": "greenhouse",
       "ok": true,
-      "raw": 6,
-      "matching": 1
+      "raw": 0,
+      "matching": 0
     },
     {
       "employer": "Oscar Health",
@@ -414,13 +413,6 @@
       "raw": 0,
       "matching": 0,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Anthropic",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
     },
     {
       "employer": "Aledade",
@@ -452,14 +444,14 @@
       "matching": 0
     },
     {
-      "employer": "Scale AI",
+      "employer": "Maven Clinic",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "Maven Clinic",
+      "employer": "Scale AI",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -472,6 +464,20 @@
       "raw": 0,
       "matching": 0,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Figma",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "AECOM",
+      "provider": "smartrecruiters",
+      "ok": true,
+      "raw": 11,
+      "matching": 4
     },
     {
       "employer": "Miro",
@@ -490,22 +496,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Figma",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Ramp",
-      "provider": "greenhouse",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Vanta",
       "provider": "greenhouse",
       "ok": false,
       "raw": 0,
@@ -520,7 +511,7 @@
       "matching": 0
     },
     {
-      "employer": "Postman",
+      "employer": "Vanta",
       "provider": "greenhouse",
       "ok": false,
       "raw": 0,
@@ -528,11 +519,12 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Asana",
+      "employer": "Postman",
       "provider": "greenhouse",
-      "ok": true,
+      "ok": false,
       "raw": 0,
-      "matching": 0
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "employer": "Braze",
@@ -542,11 +534,11 @@
       "matching": 0
     },
     {
-      "employer": "AECOM",
-      "provider": "smartrecruiters",
+      "employer": "Asana",
+      "provider": "greenhouse",
       "ok": true,
-      "raw": 11,
-      "matching": 4
+      "raw": 0,
+      "matching": 0
     },
     {
       "employer": "Attentive",
@@ -564,19 +556,19 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Celonis",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Eversource",
       "provider": "greenhouse",
       "ok": false,
       "raw": 0,
       "matching": 0,
       "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Celonis",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
     },
     {
       "employer": "Airtable",
@@ -616,18 +608,18 @@
       "matching": 0
     },
     {
-      "employer": "Pointr",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 16,
-      "matching": 0
-    },
-    {
       "employer": "WHOOP",
       "provider": "ashby",
       "ok": true,
       "raw": 168,
       "matching": 1
+    },
+    {
+      "employer": "Pointr",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 16,
+      "matching": 0
     },
     {
       "employer": "BuildingWorks",
@@ -651,6 +643,13 @@
       "matching": 0
     },
     {
+      "employer": "Harvey",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 350,
+      "matching": 0
+    },
+    {
       "employer": "Retool",
       "provider": "ashby",
       "ok": false,
@@ -666,10 +665,10 @@
       "matching": 0
     },
     {
-      "employer": "Harvey",
+      "employer": "Clerk",
       "provider": "ashby",
       "ok": true,
-      "raw": 349,
+      "raw": 2,
       "matching": 0
     },
     {
@@ -680,13 +679,6 @@
       "matching": 0
     },
     {
-      "employer": "Clerk",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 2,
-      "matching": 0
-    },
-    {
       "employer": "Replit",
       "provider": "ashby",
       "ok": true,
@@ -694,11 +686,12 @@
       "matching": 0
     },
     {
-      "employer": "Watershed",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 39,
-      "matching": 0
+      "employer": "Anduril Industries",
+      "provider": "greenhouse",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "Unterminated string starting at: line 1 column 39954282 (char 39954281)"
     },
     {
       "employer": "Figma",
@@ -712,6 +705,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 170,
+      "matching": 0
+    },
+    {
+      "employer": "Watershed",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 39,
       "matching": 0
     },
     {
@@ -730,13 +730,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Vercel",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Rillet",
       "provider": "ashby",
       "ok": true,
@@ -744,7 +737,14 @@
       "matching": 0
     },
     {
-      "employer": "Rippling",
+      "employer": "Vercel",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Coda",
       "provider": "ashby",
       "ok": false,
       "raw": 0,
@@ -752,7 +752,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Coda",
+      "employer": "Rippling",
       "provider": "ashby",
       "ok": false,
       "raw": 0,
@@ -782,6 +782,13 @@
       "matching": 0
     },
     {
+      "employer": "Plaid",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 131,
+      "matching": 0
+    },
+    {
       "employer": "Brex",
       "provider": "ashby",
       "ok": false,
@@ -798,30 +805,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Plaid",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 131,
-      "matching": 0
-    },
-    {
-      "employer": "Locus Robotics",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "employer": "Catalant",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Handshake",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -844,7 +828,31 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
+      "employer": "Locus Robotics",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
       "employer": "Formlabs",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Muck Rack",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Benchling",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -876,7 +884,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Gong",
+      "employer": "Charles River",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -884,7 +892,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Charles River",
+      "employer": "Gong",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -900,7 +908,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Benchling",
+      "employer": "Zapier",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -908,7 +916,23 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Zapier",
+      "employer": "Sourcegraph",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Calendly",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Handshake",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -932,31 +956,7 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Webflow",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "employer": "Iterable",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Aurora",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Muck Rack",
       "provider": "lever",
       "ok": false,
       "raw": 0,
@@ -971,27 +971,19 @@
       "matching": 0
     },
     {
+      "employer": "Aurora",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
       "employer": "Turner & Townsend",
       "provider": "smartrecruiters",
       "ok": true,
       "raw": 0,
       "matching": 0
-    },
-    {
-      "employer": "Sourcegraph",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Calendly",
-      "provider": "lever",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
     },
     {
       "employer": "Ramboll",
@@ -1001,14 +993,22 @@
       "matching": 0
     },
     {
-      "employer": "Publicis Groupe",
+      "employer": "Bosch",
       "provider": "smartrecruiters",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "Bosch",
+      "employer": "Webflow",
+      "provider": "lever",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "employer": "Publicis Groupe",
       "provider": "smartrecruiters",
       "ok": true,
       "raw": 0,
@@ -1064,14 +1064,14 @@
       "matching": 0
     },
     {
-      "employer": "Epsilon",
+      "employer": "Sodexo",
       "provider": "smartrecruiters",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "Sodexo",
+      "employer": "Epsilon",
       "provider": "smartrecruiters",
       "ok": true,
       "raw": 0,
@@ -1134,8 +1134,8 @@
       "matching": 0
     },
     {
-      "employer": "Jobicy US Remote",
-      "provider": "jobicy",
+      "employer": "Remotive US Remote",
+      "provider": "remotive",
       "ok": true,
       "raw": 0,
       "matching": 0
@@ -1148,8 +1148,8 @@
       "matching": 0
     },
     {
-      "employer": "Remotive US Remote",
-      "provider": "remotive",
+      "employer": "Jobicy US Remote",
+      "provider": "jobicy",
       "ok": true,
       "raw": 0,
       "matching": 0
@@ -1170,13 +1170,6 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Carbon Health",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Benchling",
       "provider": "ashby",
       "ok": true,
@@ -1184,10 +1177,17 @@
       "matching": 0
     },
     {
+      "employer": "Carbon Health",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
       "employer": "ClickUp",
       "provider": "ashby",
       "ok": true,
-      "raw": 44,
+      "raw": 45,
       "matching": 0
     },
     {
@@ -1226,17 +1226,17 @@
       "matching": 0
     },
     {
-      "employer": "LaunchDarkly",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Hims & Hers",
       "provider": "ashby",
       "ok": true,
       "raw": 152,
+      "matching": 0
+    },
+    {
+      "employer": "LaunchDarkly",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 0,
       "matching": 0
     },
     {
@@ -1296,15 +1296,15 @@
       "matching": 0
     },
     {
-      "employer": "ZeroRFI",
-      "provider": "ashby",
+      "employer": "Acquia",
+      "provider": "greenhouse",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "Acquia",
-      "provider": "greenhouse",
+      "employer": "ZeroRFI",
+      "provider": "ashby",
       "ok": true,
       "raw": 0,
       "matching": 0
@@ -1359,10 +1359,17 @@
       "matching": 0
     },
     {
-      "employer": "Coveo",
-      "provider": "greenhouse",
+      "employer": "Himalayas US Remote",
+      "provider": "himalayas",
       "ok": true,
-      "raw": 0,
+      "raw": 22,
+      "matching": 0
+    },
+    {
+      "employer": "Himalayas US Remote",
+      "provider": "himalayas",
+      "ok": true,
+      "raw": 22,
       "matching": 0
     },
     {
@@ -1373,7 +1380,7 @@
       "matching": 0
     },
     {
-      "employer": "Databricks",
+      "employer": "Coveo",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1381,6 +1388,13 @@
     },
     {
       "employer": "Elastic",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Databricks",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1408,13 +1422,6 @@
       "matching": 0
     },
     {
-      "employer": "Formlabs",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 2,
-      "matching": 2
-    },
-    {
       "employer": "Hometap",
       "provider": "greenhouse",
       "ok": true,
@@ -1429,21 +1436,21 @@
       "matching": 0
     },
     {
-      "employer": "Himalayas US Remote",
-      "provider": "himalayas",
-      "ok": true,
-      "raw": 22,
-      "matching": 0
-    },
-    {
-      "employer": "Himalayas US Remote",
-      "provider": "himalayas",
-      "ok": true,
-      "raw": 22,
-      "matching": 0
-    },
-    {
       "employer": "Iterable",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Formlabs",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 2,
+      "matching": 2
+    },
+    {
+      "employer": "klaviyo",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1458,13 +1465,6 @@
     },
     {
       "employer": "LaunchDarkly",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
-      "employer": "klaviyo",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1513,14 +1513,14 @@
       "matching": 0
     },
     {
-      "employer": "okta",
+      "employer": "SmartBear",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "SmartBear",
+      "employer": "okta",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1534,13 +1534,6 @@
       "matching": 0
     },
     {
-      "employer": "Sourcegraph",
-      "provider": "greenhouse",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "SharkNinja",
       "provider": "greenhouse",
       "ok": true,
@@ -1548,14 +1541,14 @@
       "matching": 0
     },
     {
-      "employer": "Stripe",
+      "employer": "Sourcegraph",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
       "matching": 0
     },
     {
-      "employer": "Vercel",
+      "employer": "Stripe",
       "provider": "greenhouse",
       "ok": true,
       "raw": 0,
@@ -1576,6 +1569,13 @@
       "matching": 0
     },
     {
+      "employer": "Vercel",
+      "provider": "greenhouse",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
       "employer": "Zocdoc",
       "provider": "greenhouse",
       "ok": true,
@@ -1590,10 +1590,10 @@
       "matching": 0
     },
     {
-      "employer": "Aledade",
+      "employer": "Brighton Jones",
       "provider": "lever",
       "ok": true,
-      "raw": 38,
+      "raw": 47,
       "matching": 0
     },
     {
@@ -1611,20 +1611,6 @@
       "matching": 0
     },
     {
-      "employer": "Brighton Jones",
-      "provider": "lever",
-      "ok": true,
-      "raw": 47,
-      "matching": 0
-    },
-    {
-      "employer": "eGenesis",
-      "provider": "lever",
-      "ok": true,
-      "raw": 12,
-      "matching": 0
-    },
-    {
       "employer": "ezCater",
       "provider": "lever",
       "ok": true,
@@ -1639,10 +1625,10 @@
       "matching": 0
     },
     {
-      "employer": "LevelUp",
+      "employer": "eGenesis",
       "provider": "lever",
       "ok": true,
-      "raw": 9,
+      "raw": 12,
       "matching": 0
     },
     {
@@ -1653,17 +1639,24 @@
       "matching": 0
     },
     {
+      "employer": "Commonwealth Fusion Systems",
+      "provider": "lever",
+      "ok": true,
+      "raw": 125,
+      "matching": 0
+    },
+    {
+      "employer": "LevelUp",
+      "provider": "lever",
+      "ok": true,
+      "raw": 9,
+      "matching": 0
+    },
+    {
       "employer": "Massachusetts Institute of Technology",
       "provider": "lever",
       "ok": true,
       "raw": 0,
-      "matching": 0
-    },
-    {
-      "employer": "Commonwealth Fusion Systems",
-      "provider": "lever",
-      "ok": true,
-      "raw": 124,
       "matching": 0
     },
     {
@@ -1682,10 +1675,10 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Ro",
+      "employer": "Aledade",
       "provider": "lever",
       "ok": true,
-      "raw": 47,
+      "raw": 38,
       "matching": 0
     },
     {
@@ -1703,13 +1696,6 @@
       "matching": 0
     },
     {
-      "employer": "Whoop",
-      "provider": "lever",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Spectrum",
       "provider": "lever",
       "ok": true,
@@ -1717,17 +1703,24 @@
       "matching": 0
     },
     {
+      "employer": "Whoop",
+      "provider": "lever",
+      "ok": true,
+      "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Lyra Health",
+      "provider": "lever",
+      "ok": true,
+      "raw": 476,
+      "matching": 0
+    },
+    {
       "employer": "Outpost",
       "provider": "ashby",
       "ok": true,
       "raw": 14,
-      "matching": 0
-    },
-    {
-      "employer": "Woodard & Curran",
-      "provider": "lever",
-      "ok": true,
-      "raw": 63,
       "matching": 0
     },
     {
@@ -1773,13 +1766,6 @@
       "matching": 0
     },
     {
-      "employer": "Overtone",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 1,
-      "matching": 0
-    },
-    {
       "employer": "Overflow",
       "provider": "ashby",
       "ok": true,
@@ -1787,10 +1773,17 @@
       "matching": 0
     },
     {
-      "employer": "Overview Corporation",
+      "employer": "Overtone",
       "provider": "ashby",
       "ok": true,
-      "raw": 58,
+      "raw": 1,
+      "matching": 0
+    },
+    {
+      "employer": "Woodard & Curran",
+      "provider": "lever",
+      "ok": true,
+      "raw": 63,
       "matching": 0
     },
     {
@@ -1801,10 +1794,10 @@
       "matching": 0
     },
     {
-      "employer": "Owkin",
+      "employer": "Overview Corporation",
       "provider": "ashby",
       "ok": true,
-      "raw": 6,
+      "raw": 58,
       "matching": 0
     },
     {
@@ -1812,6 +1805,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 51,
+      "matching": 0
+    },
+    {
+      "employer": "Owkin",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 6,
       "matching": 0
     },
     {
@@ -1823,17 +1823,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Oxeon",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 3,
-      "matching": 0
-    },
-    {
       "employer": "OXIO Corporation",
       "provider": "ashby",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Oxeon",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 3,
       "matching": 0
     },
     {
@@ -1879,13 +1879,6 @@
       "matching": 0
     },
     {
-      "employer": "Lyra Health",
-      "provider": "lever",
-      "ok": true,
-      "raw": 476,
-      "matching": 0
-    },
-    {
       "employer": "Palette Media",
       "provider": "ashby",
       "ok": true,
@@ -1904,6 +1897,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 7,
+      "matching": 0
+    },
+    {
+      "employer": "Ro",
+      "provider": "lever",
+      "ok": true,
+      "raw": 47,
       "matching": 0
     },
     {
@@ -1936,17 +1936,17 @@
       "matching": 0
     },
     {
-      "employer": "Paradigm",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 8,
-      "matching": 0
-    },
-    {
       "employer": "Panther Life Sciences",
       "provider": "ashby",
       "ok": true,
       "raw": 5,
+      "matching": 0
+    },
+    {
+      "employer": "Paradigm",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 8,
       "matching": 0
     },
     {
@@ -1985,17 +1985,17 @@
       "matching": 0
     },
     {
-      "employer": "Parallel Fluidics, Inc.",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 1,
-      "matching": 0
-    },
-    {
       "employer": "Parallel Web Systems",
       "provider": "ashby",
       "ok": true,
       "raw": 26,
+      "matching": 0
+    },
+    {
+      "employer": "Parallel Fluidics, Inc.",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 1,
       "matching": 0
     },
     {
@@ -2021,13 +2021,6 @@
       "matching": 0
     },
     {
-      "employer": "Parspec",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 1,
-      "matching": 0
-    },
-    {
       "employer": "Pariveda",
       "provider": "ashby",
       "ok": true,
@@ -2039,6 +2032,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 13,
+      "matching": 0
+    },
+    {
+      "employer": "Parspec",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 1,
       "matching": 0
     },
     {
@@ -2098,17 +2098,17 @@
       "matching": 0
     },
     {
-      "employer": "Patreon",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 18,
-      "matching": 0
-    },
-    {
       "employer": "Pave (Lever)",
       "provider": "ashby",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Patreon",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 18,
       "matching": 0
     },
     {
@@ -2126,24 +2126,17 @@
       "matching": 0
     },
     {
-      "employer": "Paxos Labs",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 8,
-      "matching": 0
-    },
-    {
-      "employer": "Payabli",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 10,
-      "matching": 0
-    },
-    {
       "employer": "Paxos",
       "provider": "ashby",
       "ok": true,
       "raw": 21,
+      "matching": 0
+    },
+    {
+      "employer": "Paxos Labs",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 8,
       "matching": 0
     },
     {
@@ -2154,17 +2147,17 @@
       "matching": 0
     },
     {
+      "employer": "Payabli",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 10,
+      "matching": 0
+    },
+    {
       "employer": "Payscale",
       "provider": "ashby",
       "ok": true,
       "raw": 9,
-      "matching": 0
-    },
-    {
-      "employer": "PeakMetrics",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 2,
       "matching": 0
     },
     {
@@ -2175,6 +2168,13 @@
       "matching": 0
     },
     {
+      "employer": "PeakMetrics",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 2,
+      "matching": 0
+    },
+    {
       "employer": "Pear VC",
       "provider": "ashby",
       "ok": true,
@@ -2182,17 +2182,17 @@
       "matching": 0
     },
     {
-      "employer": "Pearl Health",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 4,
-      "matching": 0
-    },
-    {
       "employer": "Pearl",
       "provider": "ashby",
       "ok": true,
       "raw": 9,
+      "matching": 0
+    },
+    {
+      "employer": "Pearl Health",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 4,
       "matching": 0
     },
     {
@@ -2210,13 +2210,6 @@
       "matching": 0
     },
     {
-      "employer": "Peec AI",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 38,
-      "matching": 0
-    },
-    {
       "employer": "Pebl",
       "provider": "ashby",
       "ok": true,
@@ -2224,17 +2217,17 @@
       "matching": 0
     },
     {
+      "employer": "Peec AI",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 38,
+      "matching": 0
+    },
+    {
       "employer": "Peek",
       "provider": "ashby",
       "ok": true,
       "raw": 11,
-      "matching": 0
-    },
-    {
-      "employer": "Pennylane SAS",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 166,
       "matching": 0
     },
     {
@@ -2252,17 +2245,17 @@
       "matching": 0
     },
     {
+      "employer": "Pennylane SAS",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 166,
+      "matching": 0
+    },
+    {
       "employer": "PeopleLoop",
       "provider": "ashby",
       "ok": true,
       "raw": 2,
-      "matching": 0
-    },
-    {
-      "employer": "Perchwell",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 4,
       "matching": 0
     },
     {
@@ -2288,19 +2281,19 @@
       "matching": 0
     },
     {
+      "employer": "Perchwell",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 4,
+      "matching": 0
+    },
+    {
       "employer": "Perfectly",
       "provider": "ashby",
       "ok": false,
       "raw": 0,
       "matching": 0,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "Periodic Labs",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 34,
-      "matching": 0
     },
     {
       "employer": "Pergolux",
@@ -2315,6 +2308,13 @@
       "ok": true,
       "raw": 137,
       "matching": 2
+    },
+    {
+      "employer": "Periodic Labs",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 34,
+      "matching": 0
     },
     {
       "employer": "Permutive",
@@ -2359,17 +2359,17 @@
       "matching": 0
     },
     {
-      "employer": "Pharos",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 3,
-      "matching": 0
-    },
-    {
       "employer": "Pharsalus Capital",
       "provider": "ashby",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Pharos",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 3,
       "matching": 0
     },
     {
@@ -2416,17 +2416,17 @@
       "matching": 0
     },
     {
-      "employer": "Phylo, Inc.",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 6,
-      "matching": 0
-    },
-    {
       "employer": "Phylax Systems",
       "provider": "ashby",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Phylo, Inc.",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 6,
       "matching": 0
     },
     {
@@ -2444,17 +2444,17 @@
       "matching": 0
     },
     {
-      "employer": "Picogrid",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 21,
-      "matching": 0
-    },
-    {
       "employer": "Pika",
       "provider": "ashby",
       "ok": true,
       "raw": 15,
+      "matching": 0
+    },
+    {
+      "employer": "Picogrid",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 21,
       "matching": 0
     },
     {
@@ -2565,17 +2565,17 @@
       "matching": 0
     },
     {
-      "employer": "Platformed",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 1,
-      "matching": 0
-    },
-    {
       "employer": "Plasmidsaurus",
       "provider": "ashby",
       "ok": true,
       "raw": 17,
+      "matching": 0
+    },
+    {
+      "employer": "Platformed",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 1,
       "matching": 0
     },
     {
@@ -2621,14 +2621,14 @@
       "matching": 0
     },
     {
-      "employer": "Pliant",
+      "employer": "Pleo",
       "provider": "ashby",
       "ok": true,
       "raw": 32,
       "matching": 0
     },
     {
-      "employer": "Pleo",
+      "employer": "Pliant",
       "provider": "ashby",
       "ok": true,
       "raw": 32,
@@ -2691,10 +2691,10 @@
       "matching": 0
     },
     {
-      "employer": "Podium Automation",
+      "employer": "Point",
       "provider": "ashby",
       "ok": true,
-      "raw": 7,
+      "raw": 0,
       "matching": 0
     },
     {
@@ -2705,10 +2705,10 @@
       "matching": 0
     },
     {
-      "employer": "Point",
+      "employer": "Podium Automation",
       "provider": "ashby",
       "ok": true,
-      "raw": 0,
+      "raw": 7,
       "matching": 0
     },
     {
@@ -2719,17 +2719,17 @@
       "matching": 0
     },
     {
-      "employer": "PointOne",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 16,
-      "matching": 0
-    },
-    {
       "employer": "Polar",
       "provider": "ashby",
       "ok": true,
       "raw": 2,
+      "matching": 0
+    },
+    {
+      "employer": "PointOne",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 16,
       "matching": 0
     },
     {
@@ -2769,17 +2769,17 @@
       "matching": 0
     },
     {
-      "employer": "Poolside",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 2,
-      "matching": 0
-    },
-    {
       "employer": "Polymarket",
       "provider": "ashby",
       "ok": true,
       "raw": 44,
+      "matching": 0
+    },
+    {
+      "employer": "Poolside",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 2,
       "matching": 0
     },
     {
@@ -2825,17 +2825,17 @@
       "matching": 0
     },
     {
-      "employer": "Posthog",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 10,
-      "matching": 0
-    },
-    {
       "employer": "Post.",
       "provider": "ashby",
       "ok": true,
       "raw": 4,
+      "matching": 0
+    },
+    {
+      "employer": "Posthog",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 10,
       "matching": 0
     },
     {
@@ -2846,17 +2846,17 @@
       "matching": 0
     },
     {
-      "employer": "Powerline",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 2,
-      "matching": 0
-    },
-    {
       "employer": "pplwise",
       "provider": "ashby",
       "ok": true,
       "raw": 17,
+      "matching": 0
+    },
+    {
+      "employer": "Powerline",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 2,
       "matching": 0
     },
     {
@@ -2874,19 +2874,19 @@
       "matching": 0
     },
     {
+      "employer": "praxipal",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 9,
+      "matching": 0
+    },
+    {
       "employer": "PreemptiveAI, Inc.",
       "provider": "ashby",
       "ok": false,
       "raw": 0,
       "matching": 0,
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "employer": "praxipal",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 9,
-      "matching": 0
     },
     {
       "employer": "Prefect",
@@ -2901,6 +2901,13 @@
       "ok": true,
       "raw": 7,
       "matching": 1
+    },
+    {
+      "employer": "Pragmatike",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 74,
+      "matching": 0
     },
     {
       "employer": "Prelude",
@@ -2918,17 +2925,17 @@
       "error": "HTTP Error 404: Not Found"
     },
     {
-      "employer": "Primary",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 4,
-      "matching": 0
-    },
-    {
       "employer": "Preply",
       "provider": "ashby",
       "ok": true,
       "raw": 124,
+      "matching": 0
+    },
+    {
+      "employer": "Primary",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 4,
       "matching": 0
     },
     {
@@ -2966,6 +2973,14 @@
       "ok": true,
       "raw": 3,
       "matching": 0
+    },
+    {
+      "employer": "ProCure, LLC",
+      "provider": "ashby",
+      "ok": false,
+      "raw": 0,
+      "matching": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "employer": "Procurement Sciences",
@@ -3038,14 +3053,6 @@
       "matching": 0
     },
     {
-      "employer": "ProCure, LLC",
-      "provider": "ashby",
-      "ok": false,
-      "raw": 0,
-      "matching": 0,
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "employer": "Promise",
       "provider": "ashby",
       "ok": true,
@@ -3060,17 +3067,17 @@
       "matching": 0
     },
     {
-      "employer": "Propel",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 7,
-      "matching": 0
-    },
-    {
       "employer": "Prompt",
       "provider": "ashby",
       "ok": true,
       "raw": 49,
+      "matching": 0
+    },
+    {
+      "employer": "Propel",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 7,
       "matching": 0
     },
     {
@@ -3102,17 +3109,17 @@
       "matching": 0
     },
     {
-      "employer": "Prosper AI",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 11,
-      "matching": 0
-    },
-    {
       "employer": "Protege",
       "provider": "ashby",
       "ok": true,
       "raw": 9,
+      "matching": 0
+    },
+    {
+      "employer": "Prosper AI",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 11,
       "matching": 0
     },
     {
@@ -3166,17 +3173,17 @@
       "matching": 0
     },
     {
-      "employer": "Proximal",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Proxima Fusion",
       "provider": "ashby",
       "ok": true,
       "raw": 53,
+      "matching": 0
+    },
+    {
+      "employer": "Proximal",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 0,
       "matching": 0
     },
     {
@@ -3187,17 +3194,17 @@
       "matching": 0
     },
     {
-      "employer": "Pulse",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 10,
-      "matching": 0
-    },
-    {
       "employer": "Public Cloud Group",
       "provider": "ashby",
       "ok": true,
       "raw": 0,
+      "matching": 0
+    },
+    {
+      "employer": "Pulse",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 10,
       "matching": 0
     },
     {
@@ -3320,13 +3327,6 @@
       "matching": 0
     },
     {
-      "employer": "Quantstamp",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 0,
-      "matching": 0
-    },
-    {
       "employer": "Quantum",
       "provider": "ashby",
       "ok": true,
@@ -3334,10 +3334,10 @@
       "matching": 0
     },
     {
-      "employer": "Quarks",
+      "employer": "Quantstamp",
       "provider": "ashby",
       "ok": true,
-      "raw": 6,
+      "raw": 0,
       "matching": 0
     },
     {
@@ -3345,6 +3345,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 31,
+      "matching": 0
+    },
+    {
+      "employer": "Quarks",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 6,
       "matching": 0
     },
     {
@@ -3440,13 +3447,6 @@
       "matching": 0
     },
     {
-      "employer": "Radiant Industries",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 99,
-      "matching": 0
-    },
-    {
       "employer": "Raft",
       "provider": "ashby",
       "ok": true,
@@ -3454,10 +3454,10 @@
       "matching": 0
     },
     {
-      "employer": "Raiku",
+      "employer": "Radiant Industries",
       "provider": "ashby",
       "ok": true,
-      "raw": 2,
+      "raw": 99,
       "matching": 0
     },
     {
@@ -3465,6 +3465,13 @@
       "provider": "ashby",
       "ok": true,
       "raw": 7,
+      "matching": 0
+    },
+    {
+      "employer": "Raiku",
+      "provider": "ashby",
+      "ok": true,
+      "raw": 2,
       "matching": 0
     },
     {
@@ -3487,13 +3494,6 @@
       "ok": true,
       "raw": 65,
       "matching": 0
-    },
-    {
-      "employer": "Pragmatike",
-      "provider": "ashby",
-      "ok": true,
-      "raw": 74,
-      "matching": 0
     }
   ],
   "employer_watchlist_size": 664,
@@ -3503,14 +3503,18 @@
   "catalog_priority_selected": 81,
   "catalog_rotation_selected": 250,
   "catalog_extra_pool": 9799,
-  "last_week_posted_or_updated": 2,
+  "application_links_checked": 19,
+  "expired_links_removed": 0,
+  "application_pages_accessible": 12,
+  "application_links_unverified": 7,
+  "last_week_posted_or_updated": 1,
   "first_published_week_ats": 0,
-  "published_week_ats": 2,
+  "published_week_ats": 1,
   "published_week_aggregator": 0,
   "updated_week_only": 0,
   "weekly_employment_unverified": 0,
-  "weekly_fulltime_confirmed": 2,
+  "weekly_fulltime_confirmed": 1,
   "target_weekly_jobs": 50,
-  "weekly_dated_posts": 2,
+  "weekly_dated_posts": 1,
   "target_met": false
 }
