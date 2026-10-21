@@ -402,6 +402,9 @@ def query_current(db,now,settings):
     # Fresh listings should be shown, plus older/undated still-active listings as a separately labelled queue.
     cutoff=iso(now-timedelta(days=settings.get('recent_seen_days',7)))
     rows=[dict(r) for r in db.execute('SELECT * FROM jobs WHERE last_seen>=? ORDER BY score DESC',(cutoff,))]
+    # Re-check saved postings against CURRENT location preferences. Previously
+    # scanned nationwide-remote/old-scope jobs must not leak into the new dashboard.
+    rows=[j for j in rows if nearby(j['location'],bool(j['remote']),settings)]
     for j in rows:
         j['status']=recent_status(j,now,settings['freshness_hours'])
     return rows
@@ -459,7 +462,7 @@ def generate_html(jobs,stats,now, settings):
     <div class='employer-grid'>{''.join(entries)}</div></details>"""
     generated=now.strftime('%Y-%m-%d %H:%M UTC')
     return '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Boston PM Radar</title><style>
+<title>Greater Boston PM Radar</title><style>
 :root{font-family:Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#e7edf7;background:#0b1020}
 *{box-sizing:border-box}body{max-width:1100px;margin:auto;padding:26px 18px 80px}header{padding:30px 0 20px}h1{margin:0;font-size:clamp(32px,5vw,54px);letter-spacing:-.05em}
 .sub{color:#a7b6d2;line-height:1.55}.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:13px;margin:26px 0}
@@ -471,8 +474,8 @@ h3{font-size:19px;margin:8px 0 10px}.company{font-size:13px;color:#97bdf4}.score
 .meta{display:flex;gap:14px;flex-wrap:wrap;color:#b2bfd4;font-size:12px}.summary{font-size:13px;color:#aebdd1;line-height:1.55;max-height:6em;overflow:hidden}
 .apply{display:inline-block;margin-top:8px;color:#a5cbff;font-weight:600;text-decoration:none}.apply:hover{text-decoration:underline}
 .employers{margin-top:38px;border:1px solid #364563;border-radius:16px;padding:22px}.employers summary{font-size:19px;font-weight:700;cursor:pointer}.employer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(285px,1fr));gap:7px;margin-top:14px;max-height:620px;overflow-y:auto}.employer{border:1px solid #26334b;background:#131d32;padding:10px 12px;border-radius:10px;display:flex;gap:5px;flex-direction:column}.employer small{color:#aebdd1}.employer a{color:#97bdf4;font-size:12px}.note{border:1px solid #46516a;padding:15px;border-radius:13px;color:#c5cede;background:#121d31;line-height:1.5}.empty{color:#9ba8bc;font-size:14px}.footer{color:#8394b2;margin-top:36px;font-size:12px}
-</style></head><body><header><div class="company">PERSONAL JOB SEARCH OPERATIONS</div><h1>Boston PM Radar</h1>
-<p class="sub">Entry-level project management, project controls, PMO and coordination jobs, collected from public employer recruiting feeds. Updated '''+escape(generated)+'''.</p></header>
+</style></head><body><header><div class="company">PERSONAL JOB SEARCH OPERATIONS</div><h1>Greater Boston PM Radar</h1>
+<p class="sub">Greater Boston city and town search · Entry-level project management, project controls, PMO and coordination jobs, collected from public employer recruiting feeds. Updated '''+escape(generated)+'''.</p></header>
 <div class="stats"><div class="stat"><strong>'''+str(stats['sources_ok'])+'''</strong><span>Sources checked successfully (of '''+str(stats.get('sources_total', stats['sources_ok']))+''')</span></div>
 <div class="stat"><strong>'''+str(stats['eligible'])+'''</strong><span>Relevant roles across ALL dates (some employment types unverified)</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
 <div class="stat"><strong>'''+str(counters['recent_aggregator'])+'''</strong><span>Posted on aggregators in 7d</span></div><div class="stat"><strong>'''+str(counters['date_unknown'])+'''</strong><span>Original date not supplied</span></div></div>
