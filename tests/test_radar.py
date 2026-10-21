@@ -35,6 +35,24 @@ class TestFilters(unittest.TestCase):
         self.assertFalse(radar.screening(job(title='Senior Project Manager'),SETTINGS)[0])
     def test_explicit_no_sponsorship(self):
         self.assertFalse(radar.screening(job(description='We cannot provide visa sponsorship for this role. Full-time.'),SETTINGS)[0])
+    def test_no_employment_authorization_sponsorship(self):
+        candidate=job(description='Sponsorship for US employment authorization is not available now or in the future for this position.')
+        self.assertFalse(radar.screening(candidate,SETTINGS)[0])
+
+    def test_closed_text_in_hidden_script_is_not_expiry(self):
+        from io import BytesIO
+        class Response:
+            status=200
+            headers={'Content-Type':'text/html'}
+            def __enter__(self):return self
+            def __exit__(self,*args):return False
+            def read(self,n):
+                return (b'<html><script>this job is no longer available</script>'
+                        b'<main>Submit your application</main></html>')
+        with patch.object(radar,'urlopen',return_value=Response()):
+            result,_=radar.check_application_link('https://jobs.example.com/current')
+        self.assertEqual(result,'accessible')
+
     def test_vague_sponsorship_question_not_rejected(self):
         self.assertTrue(radar.screening(job(description='Will you require sponsorship now or in the future? Full time.'),SETTINGS)[0])
     def test_en_dash_10_to_15_years_rejected(self):
