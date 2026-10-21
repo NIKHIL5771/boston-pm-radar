@@ -399,15 +399,95 @@ def save(db,j,run_at):
        evidence_kind=excluded.evidence_kind''',data)
 
 def query_current(db,now,settings):
-    # Fresh listings should be shown, plus older/undated still-active listings as a separately labelled queue.
-    cutoff=iso(now-timedelta(days=settings.get('recent_seen_days',7)))
-    rows=[dict(r) for r in db.execute('SELECT * FROM jobs WHERE last_seen>=? ORDER BY score DESC',(cutoff,))]
+    # Only listings returned by a SUCCESSFUL source fetch in THIS run can be
+    # treated as current. last_seen >= 7 days quietly retained removed jobs.
+    # SQLite still keeps the history for first_seen and deduplication.
+    rows=[dict(r) for r in db.execute('SELECT * FROM jobs WHERE last_seen=? ORDER BY score DESC',(iso(now),))]
     # Re-check saved postings against CURRENT location preferences. Previously
     # scanned nationwide-remote/old-scope jobs must not leak into the new dashboard.
     rows=[j for j in rows if nearby(j['location'],bool(j['remote']),settings)]
     for j in rows:
         j['status']=recent_status(j,now,settings['freshness_hours'])
     return rows
+
+CLOSED_APPLICATION = re.compile(
+    r'\b(?:this|the)\s+(?:job|position|posting|opportunity)\s+'
+    r'(?:is|has been|was)\s+'
+    r'(?:no\s+longer\s+(?:available|open|accepting\s+applications)|closed|filled|expired|removed)\b'
+    r'|\b(?:job|position|posting)\s+(?:has\s+)?expired\b'
+    r'|\bwe\s+(?:are\s+)?no\s+longer\s+accepting\s+applications\b',
+    re.I
+)
+
+def check_application_link(url, timeout=10):
+    """Three-valued check: accessible, expired, or unverified.
+
+    HTTP 403/429, bot challenges, timeouts and other indeterminate responses
+    are NEVER interpreted as proof a job is closed or open.
+    The result 'accessible' means only that the page loads without an obvious
+    closed-position notice; the applicant should still check the form.
+    """
+    parsed=urlparse(url or '')
+    if parsed.scheme not in ('http','https') or not parsed.netloc:
+        return 'unverified','No valid application URL'
+    req=Request(url,headers={
+        'User-Agent':'Mozilla/5.0 (compatible; BostonPMRadar/2.2; public listing checker)',
+        'Accept':'text/html,application/xhtml+xml;q=0.9,*/*;q=0.8',
+        'Accept-Encoding':'identity'})
+    try:
+        with urlopen(req,timeout=timeout) as response:
+            status=getattr(response,'status',200)
+            if status in (404,410):return 'expired',f'HTTP {status}'
+            if status>=400:return 'unverified',f'HTTP {status}'
+            ctype=(response.headers.get('Content-Type') or '').lower()
+            # Check explicit closed-job notices, not merely an HTTP 200,
+            # as some ATS providers serve a branded expiry page with 200.
+            if 'html' in ctype or not ctype:
+                content=response.read(240_000).decode('utf-8',errors='replace')
+                page_text=strip_html(content)
+                if CLOSED_APPLICATION.search(page_text):
+                    return 'expired','Closed or expired notice on application page'
+            return 'accessible','Application page responded successfully'
+    except HTTPError as err:
+        if err.code in (404,410):return 'expired',f'HTTP {err.code}'
+        return 'unverified',f'HTTP {err.code}: automated access uncertain'
+    except (URLError,TimeoutError,OSError,ValueError) as err:
+        return 'unverified',f'Could not check automatically: {type(err).__name__}'
+
+def verify_current_links(jobs,now,stats,settings):
+    """Inspect current-run application links and keep confirmed closures out.
+
+    A job remains in the employer job feed until it disappears. No guessing
+    about unverified links: disclose uncertainty directly in every report.
+    """
+    checked=iso(now)
+    limit=max(1,min(5,int(settings.get('max_concurrent_sources',4))))
+    if jobs:
+        with ThreadPoolExecutor(max_workers=limit) as pool:
+            future_map={pool.submit(check_application_link,j['url']):j for j in jobs}
+            for future in as_completed(future_map):
+                j=future_map[future]
+                try:
+                    status,reason=future.result()
+                except Exception as err:
+                    status,reason='unverified',f'Automated check failed: {type(err).__name__}'
+                j['application_status']=status
+                j['application_check_detail']=reason
+                j['application_checked_at']=checked
+    expired=[j for j in jobs if j.get('application_status')=='expired']
+    remaining=[j for j in jobs if j.get('application_status')!='expired']
+    stats['application_links_checked']=len(jobs)
+    stats['expired_links_removed']=len(expired)
+    stats['application_pages_accessible']=sum(j.get('application_status')=='accessible' for j in remaining)
+    stats['application_links_unverified']=sum(j.get('application_status')=='unverified' for j in remaining)
+    # Report separate, auditable rejected records. Never display them as open.
+    with (OUT/'expired_jobs.csv').open('w',newline='',encoding='utf-8') as file:
+        writer=csv.writer(file)
+        writer.writerow(['company','title','location','url','reason','checked_at'])
+        for j in expired:
+            writer.writerow([j['company'],j['title'],j['location'],j['url'],
+                             j['application_check_detail'],checked])
+    return remaining
 
 def escape(s):return html.escape(str(s or ''),quote=True)
 
@@ -416,7 +496,7 @@ def generate_html(jobs,stats,now, settings):
     # No native network requests or JS external assets: works offline.
     data=[]
     for j in jobs:
-        data.append({k:j.get(k) for k in ('company','title','location','employment','salary','url','score','status','evidence_at','evidence_kind','first_seen','last_seen','description')})
+        data.append({k:j.get(k) for k in ('company','title','location','employment','salary','url','score','status','evidence_at','evidence_kind','first_seen','last_seen','description','application_status','application_checked_at','application_check_detail')})
     days=settings['freshness_hours']//24
     groups=[('new_created',f'Employer first-published in last {days} days (Greenhouse)'),
             ('recent_publication',f'Employer published / released in last {days} days'),
@@ -438,7 +518,8 @@ def generate_html(jobs,stats,now, settings):
             <div class="head"><div><div class="company">{escape(j['company'])} · {escape(j['location'])}</div>
             <h3>{escape(j['title'])}</h3></div><span class="score">{int(j['score'])}/100 fit</span></div>
             <div class="meta"><span>{escape(j['salary'] or 'Salary not listed')}</span><span>Employment: {escape(j.get('employment') or 'Unspecified')}</span><span>{escape(ev)}</span>
-            <span>Evidence: {escape(j['evidence_kind'].replace('_',' '))}</span><span>Source: {escape(j['source_type'])}</span><span>Last checked by radar: {escape(j.get('last_seen','')[:16].replace('T',' '))} UTC</span></div>
+            <span>Evidence: {escape(j['evidence_kind'].replace('_',' '))}</span><span>Source: {escape(j['source_type'])}</span><span>Checked in employer feed: {escape(j.get('last_seen','')[:16].replace('T',' '))} UTC</span>
+            <span>Application link: {escape('page accessible; verify form' if j.get('application_status')=='accessible' else 'not independently verifiable — check manually')}</span></div>
             <p class="summary">{escape(snippet)}</p><a class="apply" href="{escape(j['url'])}" target="_blank" rel="noopener noreferrer">View listing / application ↗</a></article>''')
         render.append(f'''<section class="section" data-section="{status}"><h2>{escape(label)} <span class="count">{len(subset)}</span></h2>{''.join(parts) if parts else '<p class="empty">None from the latest run</p>'}</section>''')
     # A watchlist is NOT evidence of a live opening or employer sponsorship.
@@ -477,17 +558,18 @@ h3{font-size:19px;margin:8px 0 10px}.company{font-size:13px;color:#97bdf4}.score
 </style></head><body><header><div class="company">PERSONAL JOB SEARCH OPERATIONS</div><h1>Greater Boston PM Radar</h1>
 <p class="sub">Greater Boston city and town search · Entry-level project management, project controls, PMO and coordination jobs, collected from public employer recruiting feeds. Updated '''+escape(generated)+'''.</p></header>
 <div class="stats"><div class="stat"><strong>'''+str(stats['sources_ok'])+'''</strong><span>Sources checked successfully (of '''+str(stats.get('sources_total', stats['sources_ok']))+''')</span></div>
-<div class="stat"><strong>'''+str(stats['eligible'])+'''</strong><span>Relevant roles across ALL dates (some employment types unverified)</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
+<div class="stat"><strong>'''+str(len(jobs))+'''</strong><span>Current-scan listings after expired-link checks</span></div><div class="stat"><strong>'''+str(counters.get('new_created',0)+counters['recent_publication'])+'''</strong><span>ATS first-published / released last 7d</span></div>
 <div class="stat"><strong>'''+str(counters['recent_aggregator'])+'''</strong><span>Posted on aggregators in 7d</span></div><div class="stat"><strong>'''+str(counters['date_unknown'])+'''</strong><span>Original date not supplied</span></div></div>
-<p class="note"><strong>External ATS company catalog: </strong>'''+str(stats.get('external_catalog_rows',0))+''' mapped employer boards (LastRound AI directory, July–August 2026, CC BY 4.0). Only sources counted as successfully checked were visited today. <a href='https://github.com/fyrosofttech/lastroundai-hiring-data' target='_blank' rel='noopener noreferrer'>Source and attribution ↗</a>. <strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' potential roles with a recent publication signal (employer releases and aggregator dates separately). Of these, '''+str(stats.get('weekly_employment_unverified',0))+''' have employment type NOT verified and must be checked before applying. This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
+<p class="note"><strong>Expiry protection:</strong> Only listings returned in the latest scan appear here. '''+str(stats.get('expired_links_removed',0))+''' links with definite closure evidence were excluded, '''+str(stats.get('application_pages_accessible',0))+''' application pages loaded, and '''+str(stats.get('application_links_unverified',0))+''' could not be automatically verified. HTTP 403/429 does not prove a job is closed. A page loading does not guarantee its application form still accepts submissions. <strong>External ATS company catalog: </strong>'''+str(stats.get('external_catalog_rows',0))+''' mapped employer boards (LastRound AI directory, July–August 2026, CC BY 4.0). Only sources counted as successfully checked were visited today. <a href='https://github.com/fyrosofttech/lastroundai-hiring-data' target='_blank' rel='noopener noreferrer'>Source and attribution ↗</a>. <strong>Weekly target: </strong>'''+str(counters.get('new_created',0)+counters['recent_publication']+counters['recent_aggregator'])+''' / '''+str(settings.get('target_weekly_jobs',50))+''' potential roles with a recent publication signal (employer releases and aggregator dates separately). Of these, '''+str(stats.get('weekly_employment_unverified',0))+''' have employment type NOT verified and must be checked before applying. This is a target, not a guaranteed result. <strong>Freshness rule:</strong> 7-day window (168 hours). Published / released does not prove original creation: ATS timestamps record publication or release, not necessarily the first appearance. Aggregator timestamps refer to publication on Jobicy/Himalayas/Remotive, not the employer's original date. Greenhouse job details supply first_published when available; otherwise Greenhouse supplies update times only. Lever supplies no publication time. We never inflate the weekly count with older or unknown-date listings. <strong>Source errors:</strong> '''+str(stats['sources_failed'])+''' board(s) failed and were not silently counted as checked.</p>
 <div class="controls"><input id="search" placeholder="Filter company, role or city..." aria-label="Filter jobs">
 <select id="group" aria-label="Show job group"><option value="week" selected>Published this week (employer + aggregator)</option><option value="all">All date-evidence groups</option><option value="recent_publication">Recently published</option><option value="new_created">First-published this week</option><option value="recent_aggregator">Aggregator published this week</option><option value="recent_update_only">Recent updates</option><option value="date_unknown">Unknown date</option><option value="older">Older archive</option></select><label style="display:flex;align-items:center;gap:8px;color:#c9d7ee"><input type="checkbox" id="newonly" style="min-width:unset">New to MY radar only (not necessarily new online)</label></div>
-'''+''.join(render)+employer_markup+'''<footer class="footer">Prepared by Boston PM Radar. Some roles may have been observed up to seven days earlier through rotating company feeds. Always open the listing to confirm it is still active and check OPT/sponsorship eligibility. The system never applies on your behalf.</footer>
+'''+''.join(render)+employer_markup+'''<footer class="footer">Prepared by Greater Boston PM Radar. Listings must have appeared in the current successful feed scan; expired links are excluded where detected. Some rotating employer boards will not be checked today. Always confirm the application form is active and check OPT/sponsorship eligibility. The system never applies on your behalf.</footer>
 <script>function filter(){let s=document.getElementById('search').value.toLowerCase(),v=document.getElementById('group').value,n=document.getElementById('newonly').checked;document.querySelectorAll('.section').forEach(x=>{let show=v==='all'||x.dataset.section===v||(v==='week'&&['new_created','recent_publication','recent_aggregator'].includes(x.dataset.section));x.style.display=show?'':'none';x.querySelectorAll('.job').forEach(j=>j.style.display=(j.dataset.text.includes(s)&&(!n||j.dataset.new==='yes'))?'':'none')})}document.getElementById('search').addEventListener('input',filter);document.getElementById('group').addEventListener('change',filter);document.getElementById('newonly').addEventListener('change',filter);const es=document.getElementById('employer-search');if(es){es.addEventListener('input',()=>{let q=es.value.toLowerCase();document.querySelectorAll('.employer').forEach(x=>x.style.display=x.dataset.emp.includes(q)?'':'none')})}filter();</script></body></html>'''
 
 def write_reports(db,now,stats,settings):
     OUT.mkdir(parents=True,exist_ok=True)
     jobs=query_current(db,now,settings)
+    jobs=verify_current_links(jobs,now,stats,settings)
     statuses={'new_created','recent_publication','recent_aggregator','recent_update_only'}
     stats['last_week_posted_or_updated']=sum(j['status'] in statuses for j in jobs)
     stats['first_published_week_ats']=sum(j['status']=='new_created' for j in jobs)
@@ -500,7 +582,7 @@ def write_reports(db,now,stats,settings):
     stats['weekly_dated_posts']=stats['first_published_week_ats']+stats['published_week_ats']+stats['published_week_aggregator']
     stats['target_met']=stats['weekly_dated_posts']>=stats['target_weekly_jobs']
     (OUT/'index.html').write_text(generate_html(jobs,stats,now,settings),encoding='utf-8')
-    cols=['company','title','location','salary','score','status','evidence_at','evidence_kind','first_seen','url']
+    cols=['company','title','location','salary','score','status','evidence_at','evidence_kind','first_seen','url','application_status','application_checked_at','application_check_detail']
     with (OUT/'jobs.csv').open('w',newline='',encoding='utf-8-sig') as file:
         w=csv.DictWriter(file,fieldnames=cols);w.writeheader();w.writerows({c:j.get(c,'') for c in cols} for j in jobs)
     (OUT/'jobs.json').write_text(json.dumps(jobs,indent=2,ensure_ascii=False),encoding='utf-8')
