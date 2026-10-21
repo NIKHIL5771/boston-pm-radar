@@ -1,1 +1,1 @@
-Run Boston-city-only job scan, strictly Boston Massachusetts listings, no US-wide remote postings. User explicitly requested ONLY BOSTON on 2026-10-20.
+Run full Greater Boston area scan requested 2026-10-21 around 18:09 EDT. Include Marlborough, Framingham, Rockland and all 136 configured nearby cities/towns. Reject nationwide remote-only postings; apply current location rules to historical saved results too.
