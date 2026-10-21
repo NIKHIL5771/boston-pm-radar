@@ -1,1 +1,1 @@
-Run full Greater Boston area scan requested 2026-10-21 around 18:09 EDT. Include Marlborough, Framingham, Rockland and all 136 configured nearby cities/towns. Reject nationwide remote-only postings; apply current location rules to historical saved results too.
+Run Greater Boston scan with freshness guard and expired application link check, requested October 21 2026. Confirm all unit tests pass; regenerate active jobs, app-check details and expired_jobs.csv audit.
