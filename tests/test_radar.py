@@ -126,7 +126,10 @@ class TestFilters(unittest.TestCase):
             with patch.object(radar,'OUT',Path(tmp)):
                 a=dict(job(key='one'),status='date_unknown')
                 b=dict(job(key='two'),status='date_unknown')
-                with patch.object(radar,'check_application_link',side_effect=[('expired','HTTP 410'),('unverified','HTTP 403')]):
+                a['url']='https://jobs.example.com/expired'
+                b['url']='https://jobs.example.com/blocked'
+                checker=lambda url: ('expired','HTTP 410') if url.endswith('/expired') else ('unverified','HTTP 403')
+                with patch.object(radar,'check_application_link',side_effect=checker):
                     stats={}
                     result=radar.verify_current_links([a,b],NOW,stats,SETTINGS)
                 self.assertEqual(1,len(result))
