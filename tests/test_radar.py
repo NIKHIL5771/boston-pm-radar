@@ -79,6 +79,61 @@ class TestFilters(unittest.TestCase):
             rows=radar.query_current(db,NOW,metro)
             self.assertEqual({j['key'] for j in rows},{'boston','framingham','rockland'})
 
+    def test_old_listing_from_last_scan_not_shown_today(self):
+        with sqlite3.connect(':memory:') as db:
+            db.row_factory=sqlite3.Row
+            radar.setup_db(db)
+            candidate=job(key='stale',location='Boston, MA')
+            candidate['score']=80
+            radar.save(db,candidate,radar.iso(NOW-timedelta(days=1)))
+            self.assertEqual([],radar.query_current(db,NOW,SETTINGS))
+            radar.save(db,candidate,radar.iso(NOW))
+            self.assertEqual(1,len(radar.query_current(db,NOW,SETTINGS)))
+
+    def test_http_404_is_expired(self):
+        from urllib.error import HTTPError
+        error=HTTPError('https://jobs.example.com/expired',404,'Not found',None,None)
+        with patch.object(radar,'urlopen',side_effect=error):
+            result,reason=radar.check_application_link('https://jobs.example.com/expired')
+        self.assertEqual(result,'expired')
+
+    def test_http_403_is_not_assumed_expired(self):
+        from urllib.error import HTTPError
+        error=HTTPError('https://jobs.example.com/blocked',403,'Forbidden',None,None)
+        with patch.object(radar,'urlopen',side_effect=error):
+            result,reason=radar.check_application_link('https://jobs.example.com/blocked')
+        self.assertEqual(result,'unverified')
+
+    def test_expired_notice_on_http_200(self):
+        from io import BytesIO
+        class Response:
+            status=200
+            headers={'Content-Type':'text/html; charset=utf-8'}
+            def __init__(self,body):
+                self.body=BytesIO(body.encode())
+            def __enter__(self):return self
+            def __exit__(self,*args):return False
+            def read(self,n):return self.body.read(n)
+        with patch.object(radar,'urlopen',return_value=Response('<html>This position is no longer accepting applications</html>')):
+            status,_=radar.check_application_link('https://jobs.example.com/expired')
+        self.assertEqual(status,'expired')
+        with patch.object(radar,'urlopen',return_value=Response('<html>Submit your application</html>')):
+            status,_=radar.check_application_link('https://jobs.example.com/current')
+        self.assertEqual(status,'accessible')
+
+    def test_expired_rows_removed_from_live_results(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with patch.object(radar,'OUT',Path(tmp)):
+                a=dict(job(key='one'),status='date_unknown')
+                b=dict(job(key='two'),status='date_unknown')
+                with patch.object(radar,'check_application_link',side_effect=[('expired','HTTP 410'),('unverified','HTTP 403')]):
+                    stats={}
+                    result=radar.verify_current_links([a,b],NOW,stats,SETTINGS)
+                self.assertEqual(1,len(result))
+                self.assertEqual('unverified',result[0]['application_status'])
+                self.assertEqual(stats['expired_links_removed'],1)
+                self.assertTrue((Path(tmp)/'expired_jobs.csv').exists())
+
     def test_first_published_in_seven_days(self):
         j=job(evidence_at=radar.iso(NOW-timedelta(days=3)),evidence_kind='created')
         self.assertEqual(radar.recent_status(j,NOW,168),'new_created')
