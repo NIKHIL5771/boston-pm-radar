@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "recent_publication",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "3aa495549cd9dcc71cee0354",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -102,56 +102,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
-  },
-  {
-    "key": "98bdea15500532e60de7b7e5",
-    "company": "Perk",
-    "source_type": "ashby",
-    "title": "Implementation Specialist, Travel - US",
-    "location": "Chicago / Boston",
-    "employment": "FullTime",
-    "description": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, with real impact. We're trusted by more than 12,000 companies worldwide, including Bolt, GoCardless, and Fabletics, and we're tackling the 7 hours of lost productivity per employee each week, a $1.7 trillion problem https://www.perk.com/shadow-work-report. Founded in 2015, Perk has grown into a global company of more than 1,800 people across 12 offices globally, with headquarters in London and Boston. We combine innovation, control, and simplicity to transform how businesses work and how people feel at work. At Perk, we're driven by our values, like being an owner, delivering a 7-star experience, and working as one team. We value curiosity, purpose, and mindset, not just knowledge, to unlock the power in your potential. Our talent team brings together leading minds from the travel, fintech, and SaaS industries, representing over 70 countries. If you're excited about having a real impact and shaping how millions of people experience work, we'd love you on the team. Visit www.perk.com http://www.perk.com to learn more. The Role The Implementation team is responsible for the onboarding of all our Premium and Pro customers on the TravelPerk platform. The Implementation team takes new customers from signup to launch, providing administrative, technical, and educational support to maximize the client’s experience with the TravelPerk platform. What you’ll be doing: You will ensure that new clients are fully prepared to use TravelPerk to book their business travel, in both technical configuration and user readiness. You will configure client accounts to their specifications & requirements and set them up to meet client needs. You will also coordinate, tailor, and perform training sessions with Admins, Travelers, and other key client stakeholders to optimize their use of TravelPerk, as well as provide client-specific recommendations for how they execute their rollout, guiding their implementation and roll-out timeline, and internal communications. The Implementation Specialist role requires strong project and change management skills and excellent problem-solving skills. This role requires keen attention to detail, creativity in solutions, and proactivity to identify areas where they can provide improvements to their clients & their internal team. Implementation specialists work across multiple teams in a collaborative environment both internally & externally, manage key internal and external stakeholders, and use change management to drive successful client rollouts and enable long-term success. Your responsibilities include: - Providing the first impression of TravelPerk to all customers in your portfolio and serving as the first point of contact for clients during the implementation process. - Carrying out consultative conversations with customers to collect their requirements. - Answering client requirements with your experience & data-driven best practice recommendations. - Managing the rollout of a new platform for your clients; providing guides, templates, and recommendations to the client for how to ensure adoption & long-term success of the platform. - Coordinating & conducting training sessions for newly onboarded customers, including executive-level stakeholders and company-wide training. - Providing technical support to clients as they set up integrations to marketplace partners or custom-built API solutions. - Validating client configuration & account satisfaction by monitoring client booking behavior post-implementation & proactively offering support or recommendations. - Collaborating with multiple different departments in the TK organization, including within the Revenue organization (Sales and Account Management), Product, Builders (Engineering), and Finance. - Analyzing completed implementation work to find ways to improve your own process & that of the team. - Embracing a pattern of execute, assess, improve, repeat & evolving as the team & organization evolves. What we look for: - A customer-first mentality; you’ll focus on ensuring a smooth onboarding for your clients and must understand what they need to be a happy customer for the long term. - Proven track record of successfully managing and delivering complex projects in a fast-paced environment. - Demonstrated ability to work with C-level stakeholders to collect their requirements and or concerns in a clear, concise, and professional manner. - Ability to develop relationships with all levels of the organization, both internally and externally, and adapt communication & approach accordingly. - A proactive approach to making recommendations to both clients & internal stakeholders. - Willingness to seek out ways to improve & a mindset of continuous improvement. - Excited by challenges and have a personal drive to make a difference. What do we offer? - Receive competitive compensation and equity ownership in Perk - Rest and recharge with our generous allocation of 20 vacation days and 12 public holidays - Enjoy the flexibility of three medical plans to choose from, with company contributions and an HSA when enrolling in an HDHP medical plan - Take control of your physical health with additional comprehensive benefit plans, covering dental, vision and Wellhub’s gym subscription from your start date - Rest assured that you’re covered by life and disability policies from your start date, with options to add extra protection through voluntary buy-up plans - Plan for your future with our 401(k) plan with company matching contributions - Care for your furry friends through partner discounts on pet insurance - Join our unforgettable Perk events, including our spectacular annual summer party - Always feel supported with Spring Health, our market-leading wellbeing partner, providing fast, comprehensive access to 12x therapy and 12x coaching sessions for you and your loved ones - Focus on your family with 12-16 weeks’ paid parental leave - Contribute to your community with 16 paid hours per year to spend volunteering for your dearest charitable causes - Broaden your horizons with up to 20 \"Work from Anywhere\" days per year Compensation: Compensation for this role is a combination of salary, commissions, and stock options. The base salary is $79,000, and the OTE is $91,000 (base + commission), plus equity. The commission structure will be tied to achieving revenue & retention targets. AI at Perk AI is embedded in how we work across every function. The tools you'll use day-to-day are AI-enabled so you can move faster and spend more time on the work that matters. In practice, that means using AI to research and prioritise accounts, draft and refine outreach, handle customer interactions more effectively, synthesise information, and cut through shadow work - the invisible tasks that pull people away from the work only they can do - so you can focus on relationships and outcomes. How We Work At Perk, we take an IRL-first approach to work, where our team works together in-person 3 days a week. As such, this role requires you to be based within commuting distance of our hubs. We fundamentally believe in the value of meeting in real life to improve connectivity, productivity, creativity and ultimately making us a great place to work. For certain roles, we can help with relocation from anywhere in the world, English is the official language at the office. Please submit your resume in English if you choose to apply. Do not forget to submit an updated portfolio and/or resume. Perk is a global company with a diverse customer base, and we want to make sure the people behind our product reflect that. We’re an equal opportunity employer, which means you’re welcome at Perk regardless of how you look, where you’re from, or anything else that makes you, well, you. Protect Yourself from Recruitment Scams All official communication from Perk will always come from email addresses ending in @perk.com http://perk.com or @externalperk.com http://externalperk.com, our verified social media channels, or recruiters listed on our official LinkedIn page. We will never ask you to pay for equipment, training, or fees, request sensitive personal information such as bank details early in the process, or communicate through unofficial apps like WhatsApp, Telegram, or Signal. If you receive a message claiming to be from Perk that seems suspicious, please do not respond. Forward it to security [at] perk .com, and we will confirm whether it is legitimate. #LI-Hybrid",
-    "url": "https://jobs.ashbyhq.com/perk/927ddcd4-6f29-4e89-8891-78ac4410af4a/application",
-    "salary": "$91K",
-    "evidence_at": "2026-09-24T13:22:30+00:00",
-    "evidence_kind": "last_published",
-    "remote": 1,
-    "score": 56,
-    "first_seen": "2026-10-21T01:16:15+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
-  },
-  {
-    "key": "f9b9b82c88cf71e18880ed29",
-    "company": "Perk",
-    "source_type": "ashby",
-    "title": "Implementation Specialist, Travel - US",
-    "location": "Boston",
-    "employment": "FullTime",
-    "description": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hours, erodes morale, and saps innovation, we're on a mission to power real work, with real impact. We're trusted by more than 12,000 companies worldwide, including Bolt, GoCardless, and Fabletics, and we're tackling the 7 hours of lost productivity per employee each week, a $1.7 trillion problem https://www.perk.com/shadow-work-report. Founded in 2015, Perk has grown into a global company of more than 1,800 people across 12 offices globally, with headquarters in London and Boston. We combine innovation, control, and simplicity to transform how businesses work and how people feel at work. At Perk, we're driven by our values, like being an owner, delivering a 7-star experience, and working as one team. We value curiosity, purpose, and mindset, not just knowledge, to unlock the power in your potential. Our talent team brings together leading minds from the travel, fintech, and SaaS industries, representing over 70 countries. If you're excited about having a real impact and shaping how millions of people experience work, we'd love you on the team. Visit www.perk.com http://www.perk.com to learn more. The Role The Implementation team is responsible for the onboarding of all our Premium and Pro customers on the TravelPerk platform. The Implementation team takes new customers from signup to launch, providing administrative, technical, and educational support to maximize the client’s experience with the TravelPerk platform. What you’ll be doing: You will ensure that new clients are fully prepared to use TravelPerk to book their business travel, in both technical configuration and user readiness. You will configure client accounts to their specifications & requirements and set them up to meet client needs. You will also coordinate, tailor, and perform training sessions with Admins, Travelers, and other key client stakeholders to optimize their use of TravelPerk, as well as provide client-specific recommendations for how they execute their rollout, guiding their implementation and roll-out timeline, and internal communications. The Implementation Specialist role requires strong project and change management skills and excellent problem-solving skills. This role requires keen attention to detail, creativity in solutions, and proactivity to identify areas where they can provide improvements to their clients & their internal team. Implementation specialists work across multiple teams in a collaborative environment both internally & externally, manage key internal and external stakeholders, and use change management to drive successful client rollouts and enable long-term success. Your responsibilities include: - Providing the first impression of TravelPerk to all customers in your portfolio and serving as the first point of contact for clients during the implementation process. - Carrying out consultative conversations with customers to collect their requirements. - Answering client requirements with your experience & data-driven best practice recommendations. - Managing the rollout of a new platform for your clients; providing guides, templates, and recommendations to the client for how to ensure adoption & long-term success of the platform. - Coordinating & conducting training sessions for newly onboarded customers, including executive-level stakeholders and company-wide training. - Providing technical support to clients as they set up integrations to marketplace partners or custom-built API solutions. - Validating client configuration & account satisfaction by monitoring client booking behavior post-implementation & proactively offering support or recommendations. - Collaborating with multiple different departments in the TK organization, including within the Revenue organization (Sales and Account Management), Product, Builders (Engineering), and Finance. - Analyzing completed implementation work to find ways to improve your own process & that of the team. - Embracing a pattern of execute, assess, improve, repeat & evolving as the team & organization evolves. What we look for: - A customer-first mentality; you’ll focus on ensuring a smooth onboarding for your clients and must understand what they need to be a happy customer for the long term. - Proven track record of successfully managing and delivering complex projects in a fast-paced environment. - Demonstrated ability to work with C-level stakeholders to collect their requirements and or concerns in a clear, concise, and professional manner. - Ability to develop relationships with all levels of the organization, both internally and externally, and adapt communication & approach accordingly. - A proactive approach to making recommendations to both clients & internal stakeholders. - Willingness to seek out ways to improve & a mindset of continuous improvement. - Excited by challenges and have a personal drive to make a difference. What do we offer? - Receive competitive compensation and equity ownership in Perk - Rest and recharge with our generous allocation of 20 vacation days and 12 public holidays - Enjoy the flexibility of three medical plans to choose from, with company contributions and an HSA when enrolling in an HDHP medical plan - Take control of your physical health with additional comprehensive benefit plans, covering dental, vision and Wellhub’s gym subscription from your start date - Rest assured that you’re covered by life and disability policies from your start date, with options to add extra protection through voluntary buy-up plans - Plan for your future with our 401(k) plan with company matching contributions - Care for your furry friends through partner discounts on pet insurance - Join our unforgettable Perk events, including our spectacular annual summer party - Always feel supported with Spring Health, our market-leading wellbeing partner, providing fast, comprehensive access to 12x therapy and 12x coaching sessions for you and your loved ones - Focus on your family with 12-16 weeks’ paid parental leave - Contribute to your community with 16 paid hours per year to spend volunteering for your dearest charitable causes - Broaden your horizons with up to 20 \"Work from Anywhere\" days per year Compensation: Compensation for this role is a combination of salary, commissions, and stock options. The base salary is $79,000, and the OTE is $91,000 (base + commission), plus equity. The commission structure will be tied to achieving revenue & retention targets. AI at Perk AI is embedded in how we work across every function. The tools you'll use day-to-day are AI-enabled so you can move faster and spend more time on the work that matters. In practice, that means using AI to research and prioritise accounts, draft and refine outreach, handle customer interactions more effectively, synthesise information, and cut through shadow work - the invisible tasks that pull people away from the work only they can do - so you can focus on relationships and outcomes. How We Work At Perk, we take an IRL-first approach to work, where our team works together in-person 3 days a week. As such, this role requires you to be based within commuting distance of our hubs. We fundamentally believe in the value of meeting in real life to improve connectivity, productivity, creativity and ultimately making us a great place to work. For certain roles, we can help with relocation from anywhere in the world, English is the official language at the office. Please submit your resume in English if you choose to apply. Do not forget to submit an updated portfolio and/or resume. Perk is a global company with a diverse customer base, and we want to make sure the people behind our product reflect that. We’re an equal opportunity employer, which means you’re welcome at Perk regardless of how you look, where you’re from, or anything else that makes you, well, you. Protect Yourself from Recruitment Scams All official communication from Perk will always come from email addresses ending in @perk.com http://perk.com or @externalperk.com http://externalperk.com, our verified social media channels, or recruiters listed on our official LinkedIn page. We will never ask you to pay for equipment, training, or fees, request sensitive personal information such as bank details early in the process, or communicate through unofficial apps like WhatsApp, Telegram, or Signal. If you receive a message claiming to be from Perk that seems suspicious, please do not respond. Forward it to security [at] perk .com, and we will confirm whether it is legitimate. #LI-Hybrid",
-    "url": "https://jobs.ashbyhq.com/perk/cb64f28f-ffa8-46ad-b6ff-deecfba0a2fe/application",
-    "salary": "$91K",
-    "evidence_at": "2026-09-24T13:22:25+00:00",
-    "evidence_kind": "last_published",
-    "remote": 1,
-    "score": 56,
-    "first_seen": "2026-10-21T01:16:15+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -168,12 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "01b1997084b29d4312d084e9",
@@ -190,12 +146,12 @@
     "remote": 0,
     "score": 53,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "4986394faa6aad223926a534",
@@ -212,34 +168,12 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
-  },
-  {
-    "key": "d02d1685fb848ac13274c9aa",
-    "company": "Prelim",
-    "source_type": "ashby",
-    "title": "Project Manager, Implementations",
-    "location": "New York / Chicago / San Francisco / Los Angeles / Seattle / Atlanta / Austin / Boston",
-    "employment": "FullTime",
-    "description": "Transform how banks serve their customers Prelim is revolutionizing how financial institutions onboard and serve their customers. Our platform powers critical banking operations for institutions across the U.S., from community banks to multi-billion dollar credit unions. We're a fast-growing, remote-first startup on a mission to make banking more accessible for everyone. Why We're Looking for You We're looking for a Project Manager, Implementations to join our Implementation team and lead banks through their digital transformation journey. You'll manage multiple high-stakes deployments simultaneously, coordinate cross-functional teams, and ensure our banking clients successfully launch on time. This is a hands-on role where organization meets execution. You'll be the conductor orchestrating complex implementations while building trusted relationships with banking executives and operations teams. What You'll Do - Manage multiple concurrent bank implementations with overlapping timelines, tracking dependencies and risks while driving projects to on-time completion - Lead client calls and build trusted relationships with stakeholders from C-suite executives to operations staff, handling difficult conversations and managing expectations - Coordinate cross-functional teams including Implementation Architects, Software Engineers, and Customer Success to ensure smooth project execution and post-launch transitions - Translate complex technical requirements between clients and internal teams while protecting your implementation team from scope creep - Jump in to help with hands-on configuration and debugging when needed, keeping projects moving forward during resource constraints - Document solutions and identify process improvements to enhance future deployments and team efficiency - Escalate strategically to sales and leadership when additional support is needed to unblock critical issues What We're Looking For - Background in software implementations or professional services - Technical aptitude, ability to understand platform capabilities and limitations - Familiarity with no-code platforms or integration projects - Proven ability to manage multiple complex projects simultaneously - Grace under pressure, you stay calm when clients are stressed and deadlines are tight - Exceptional organizational skills, you live by your task lists and calendars - Strong communication abilities with both technical and non-technical audiences - Natural problem solver who finds creative solutions within constraints - Self-starter who takes ownership without waiting for direction - Legally authorized to work in the United States and located within the continental United States Nice to Haves - Experience in financial services, banking, or fintech - Technical skills in a scripting language - Previous experience managing aggressive timelines with fixed deadlines About Prelim Prelim is a San Francisco and New York City-based startup that operates with fully remote positions across the US, helping banks onboard their customers. Our platform is designed to streamline the account opening process for both consumers and businesses, accelerating speed-to-market and enhancing the customer experience for financial institutions. If you’re excited to help shape the future of the banking industry, we encourage you to apply and join our team at Prelim. We are seeking individuals who are driven, ambitious, and eager to make a real impact in a traditional industry ready for technological innovation. We offer equity, a sponsored 401K, parental leave, and fully paid health, vision, and dental insurance. Additional benefits include unlimited PTO, a remote work stipend, a life-style stipend, and twice-yearly company retreats. Prelim values diversity and inclusion; people of all backgrounds are welcome to join our mission to transform banking.",
-    "url": "https://jobs.ashbyhq.com/prelim/01c8e7de-4340-4965-88cb-966a95309b32/application",
-    "salary": "$130K - $140K",
-    "evidence_at": "2026-07-23T13:23:06+00:00",
-    "evidence_kind": "last_published",
-    "remote": 1,
-    "score": 49,
-    "first_seen": "2026-10-21T01:16:15+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -256,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -278,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "aad4befb9a43d91fa7c14c58",
@@ -300,12 +234,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +256,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,11 +278,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-21T22:54:29+00:00",
+    "last_seen": "2026-10-22T01:11:59+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-21T22:54:29+00:00"
+    "application_checked_at": "2026-10-22T01:11:59+00:00"
   }
 ]
