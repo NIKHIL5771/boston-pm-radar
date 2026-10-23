@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
-    "status": "recent_publication",
+    "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "3aa495549cd9dcc71cee0354",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "01b1997084b29d4312d084e9",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 53,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "4986394faa6aad223926a534",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -212,34 +212,34 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
-    "key": "aad4befb9a43d91fa7c14c58",
+    "key": "cedac1ea57071fb8d8a04652",
     "company": "Formlabs",
     "source_type": "greenhouse",
     "title": "Mechanical Project Manager",
-    "location": "Somerville, MA",
+    "location": "Boston, MA",
     "employment": "Full-time",
-    "description": "<p><strong>About Formlabs:</strong></p> <p>To reinvent an industry, you have to build the best team. Join Formlabs if you want to join us in our mission to build the tools that make it possible for anyone to bring their ideas to life. </p> <p>Formlabs is looking for highly motivated individuals to join us as we bring groundbreaking professional 3D printers to every designer, engineer, factory floor and medical institution throughout the world! Companies like Google, Tesla, Gillette, and New Balance rely on the products and services that Formlabs provides, and the list is always growing. Join the exciting 3D printing industry where the possibilities are endless, innovation is at the core of what we do, and we strive to solve unique customer challenges.</p> <p>R&D: Join a dynamic R&D team, comprising top-tier mechatronics, software and systems engineers. We’re a collaborative group driven by innovation and great product development to develop the Formlabs printing process and bring transformative products to market. </p> <p><strong>Your Impact: </strong></p> <p>The mechanical project manager makes sure our prototyping and development process is efficient and executed firmly. At Formlabs we’re constantly iterating on our products and building new prototypes. As the engineering project manager you’ll work with the mechanical engineering team and the engineering team broadly to bring these prototypes to life and once they’re built to make sure they’re being maintained and used effectively. You’ll also work closely with the mechanical engineering team to support the complexities of developing hardware such as managing BOMs, inventory and product configurations. This is a role that benefits from energizing your peers and has high visibility as your results are our highly coveted prototype products.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Be the glue to pull disparate teams together to hit key milestones and goals through the product development process</li> <li>Manage (in conjunction with the G$ team) the Bill of Materials for our products making sure it is up to date and usable for ordering, cost analysis and useful for tracking development status.</li> <li>Push ECOs through the release process and make sure they’re implemented in a controlled manner.</li> <li>Develop spaces for builds including workspace, tools, shelving for inventory and finished goods</li> <li>Manage inventory for prototype and integration builds including receiving parts, managing incoming quality control, stocking parts and prepping for builds.</li> <li>Make sure that prototype builds happen smoothly and as quickly as possible. Run daily standups or other methods of work tracking and motivation to make sure builds remain unblocked. </li> <li>Organize and plan work. Motivate team members. Track progress and issues. Communicate with stakeholders and close out issues.</li> <li>Manage the configuration of our fleet of prototype printers. Maintain an up to date inventory of prototype printers, their configuration, status and use. Ensure that reworks and retrofits happen quickly and successfully.</li> <li>Improve processes across mechanical engineering to support the smooth development of products</li> <li>Broadly support the mechanical engineering team and mechanical engineering manager as project manager embedded in that team</li> </ul> <p><strong>About You:</strong></p> <ul> <li>Demonstrates motivation to bring amazing products to life by pushing yourself, your peers and the development process forward</li> <li>Consistent and organized to make sure we’re doing everything we can to succeed</li> <li>Ready to get your hands dirty filling gaps and leading by example</li> <li>Can jump between organizing data to organizing people and back during the course of a day</li> <li>A working knowledge of technical documentation and the desire to keep learning in this area</li> <li>Build bridges between team leads and key doers on teams to quickly solve problems and blockages</li> </ul> <p><strong>Bonus Skills: </strong></p> <ul> <li>Depth in mechanical engineering, electrical engineering or integration software</li> <li>Data analysis and spreadsheet wizardry</li> <li>Experience with PLM systems</li> </ul> <p><strong>Our Benefits & Perks:</strong></p> <ul> <li>Robust equity program to build future wealth through RSUs</li> <li>Comprehensive healthcare coverage (Medical, Dental, Vision)</li> <li>401K matching and access to financial advisors</li> <li>Generous paid Parental Leave (up to 16 weeks)</li> <li>Tenure-based paid Sabbatical Leave (up to 6 weeks)</li> <li>Flexible Out of Office Plan – Take time when you need it</li> <li>Ample on-site parking & pre-tax commuter benefits</li> <li>Healthy on-site lunches, snacks, beverages, & treats</li> <li>Regular sponsored professional development opportunities</li> <li>Many opt-in culture events across our diverse community</li> <li>And of course… unlimited 3D prints</li> </ul> <p><em>We are an equal opportunity employer and value diversity at our company.  We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.  </em></p> <p><strong>Even if you don't check every box, but see yourself contributing, please apply.</strong> Help us build an inclusive community that will change the face of 3D printing.</p> <p>Our Candidate AI Guidelines are available<a href=\"https://careers.formlabs.com/ai-guidelines/\"> <strong>here</strong></a>. Please give them a read.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-sheets-root=\"1\"><strong>Compensation</strong><br><br>Every Formlabs employee receives equity because everyone contributes to building the company. You’ll have the opportunity to share financially in the value we create together, with a shared incentive to build a business that succeeds over the long term. Equity will be a significant portion of your total compensation, and will increase over time in proportion to your impact. The base pay will be determined by your skills, qualifications, experience, location, and expected impact on the organization.</span></p></div><div class=\"title\">The annual base pay range for this role is:</div><div class=\"pay-range\"><span>$60,000</span><span class=\"divider\">—</span><span>$95,000 USD</span></div></div></div>",
+    "description": "<p><strong>About Formlabs:</strong></p> <p>A 3D printer is one of the most demanding machines you can build.</p> <p>Lasers, optics, precision motion, thermals, airflow, materials handling, chemistry, sensing, controls, and software all have to work at micron-scale precision, for thousands of layers, with almost no tolerance for error. Making that work reliably is an extraordinary engineering problem.</p> <p>That’s what we do.</p> <p>At Formlabs, we’re building 3D printers that are changing the way things get made. We have the smartest minds across every engineering discipline, and the technology they’re building is deployed at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA.</p> <p><strong>Your Impact: </strong></p> <p>The Mechanical Project Manager makes sure our prototyping and development process is efficient and executed firmly. At Formlabs we’re constantly iterating on our products and building new prototypes. As the engineering project manager you’ll work with the mechanical engineering team and the engineering team broadly to bring these prototypes to life and once they’re built to make sure they’re being maintained and used effectively. You’ll also work closely with the mechanical engineering team to support the complexities of developing hardware such as managing BOMs, inventory and product configurations. This is a role that benefits from energizing your peers and has high visibility as your results are our highly coveted prototype products.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Be the glue to pull disparate teams together to hit key milestones and goals through the product development process</li> <li>Manage (in conjunction with the G$ team) the Bill of Materials for our products making sure it is up to date and usable for ordering, cost analysis and useful for tracking development status.</li> <li>Push ECOs through the release process and make sure they’re implemented in a controlled manner.</li> <li>Develop spaces for builds including workspace, tools, shelving for inventory and finished goods</li> <li>Manage inventory for prototype and integration builds including receiving parts, managing incoming quality control, stocking parts and prepping for builds.</li> <li>Make sure that prototype builds happen smoothly and as quickly as possible. Run daily standups or other methods of work tracking and motivation to make sure builds remain unblocked. </li> <li>Organize and plan work. Motivate team members. Track progress and issues. Communicate with stakeholders and close out issues.</li> <li>Manage the configuration of our fleet of prototype printers. Maintain an up to date inventory of prototype printers, their configuration, status and use. Ensure that reworks and retrofits happen quickly and successfully.</li> <li>Improve processes across mechanical engineering to support the smooth development of products</li> <li>Broadly support the mechanical engineering team and mechanical engineering manager as project manager embedded in that team</li> </ul> <p><strong>About You:</strong></p> <ul> <li>Demonstrates motivation to bring amazing products to life by pushing yourself, your peers and the development process forward</li> <li>Consistent and organized to make sure we’re doing everything we can to succeed</li> <li>Ready to get your hands dirty filling gaps and leading by example</li> <li>Can jump between organizing data to organizing people and back during the course of a day</li> <li>A working knowledge of technical documentation and the desire to keep learning in this area</li> <li>Build bridges between team leads and key doers on teams to quickly solve problems and blockages</li> </ul> <p><strong>Bonus Skills: </strong></p> <ul> <li>Depth in mechanical engineering, electrical engineering or integration software</li> <li>Data analysis and spreadsheet wizardry</li> <li>Experience with PLM systems</li> </ul> <p><strong>Our Perks & Benefits:</strong></p> <ul> <li>Unlimited 3D printing with any Formlabs material on any Formlabs printer</li> <li>An equity program that will let you build wealth through RSUs</li> <li>Healthcare coverage (medical, dental, vision) that includes a totally free employee-only plan, effective starting on your first day on the job</li> <li>401K matching with no vesting or tenure requirement</li> <li>Generous parental leave (fully paid up to 16 weeks)</li> <li>Flexible time off so you can take time when you need it</li> <li>Six-week fully paid sabbatical after hitting tenure milestones (with the option to take an additional six weeks after that)</li> <li>Free on-site parking & pre-tax commuter benefits</li> <li>Free on-site lunch, snacks, beverages, treats, beer kegs, and employee-favorite local coffee and espresso</li> <li>Self-driven professional development opportunities like conferences, trade shows, and hackathons</li> <li>One-of-a-kind activities and events like monthly socials, the annual weekend summer camp, a can’t-miss company hackathon, and lots of other social opportunities</li> </ul> <p><strong>You don’t need to check every box to apply for a role. If you love working with hardware, spending time with smart people, solving hard problems, and winning, we want to hear from you.</strong></p> <p>Our Candidate AI Guidelines are available<a href=\"https://careers.formlabs.com/ai-guidelines/\"> <strong>here</strong></a>. Please give them a read.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-sheets-root=\"1\"><strong>Compensation</strong><br><br>Every Formlabs employee receives equity because everyone contributes to building the company. You’ll have the opportunity to share financially in the value we create together, with a shared incentive to build a business that succeeds over the long term. Equity will be a significant portion of your total compensation, and will increase over time in proportion to your impact. The base pay will be determined by your skills, qualifications, experience, location, and expected impact on the organization.</span></p></div><div class=\"title\">The annual base pay range for this role is:</div><div class=\"pay-range\"><span>$90,000</span><span class=\"divider\">—</span><span>$120,000 USD</span></div></div></div>",
     "url": "https://careers.formlabs.com/job/8221617/apply/?gh_jid=8221617",
     "salary": "",
     "evidence_at": "2026-09-22T14:50:14+00:00",
     "evidence_kind": "created",
     "remote": 0,
     "score": 43,
-    "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "first_seen": "2026-10-23T01:11:27+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -256,12 +256,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -278,11 +278,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-22T01:11:59+00:00",
+    "last_seen": "2026-10-23T01:11:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-22T01:11:59+00:00"
+    "application_checked_at": "2026-10-23T01:11:27+00:00"
   }
 ]
