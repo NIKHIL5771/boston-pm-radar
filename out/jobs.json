@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "01b1997084b29d4312d084e9",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 53,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "4986394faa6aad223926a534",
@@ -146,56 +146,12 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
-  },
-  {
-    "key": "91451882835170de08a0f353",
-    "company": "BETA Technologies",
-    "source_type": "greenhouse",
-    "title": "Construction Project Manager, Facilities",
-    "location": "South Burlington, Vermont, United States",
-    "employment": "Full-time",
-    "description": "<div class=\"content-intro\"><p>At BETA Technologies, we apply our intellectual curiosity, passion for aviation, and commitment to sustainability toward a shared mission of revolutionizing electric aviation. Regardless of the position one holds, each team member brings their talent and desire to positively impact the environment and lives of others in a refreshing, vibrant, and inclusive culture.</p></div><p>BETA’s Construction Project Manager will serve as the direct liaison between BETA and external Construction Managers (CM) on all capital projects and will have oversight of coordination, construction practices, schedule, people-power, quality assurance, and on-site safety. BETA’s Construction Project Manager will foster positive, professional relationships through exemplary communication and proactive problem solving and contribute to our exciting growth.</p> <p><strong>How you will contribute to revolutionizing electric aviation:</strong></p> <ul> <li>Assist in the review of electrical, mechanical, structural, landscape, architecture, and interior design drawings at each step of the design process to ensure all are properly coordinated. Management of the design team during construction.</li> <li>Coordinate the shop drawing and submittal review process including the review of critical shop drawings to ensure conformance with project design and quality expectations.</li> <li>Provide schedule reviews including jobsite progress assessments and CPM schedule update reviews submitted by Contractor.</li> <li>Assist in the preparation of monthly and quarterly reports on all construction activities and conduct regularly scheduled status reviews with leadership.</li> <li>Manage all aspects of the RFI and PCO process and other reviews relative to the CM’s activities.</li> <li>Manage permitting and approvals and ensure that the project is in compliance with all permits throughout the course of the project.</li> <li>Assist in the preparation of budgets and review of job costs.</li> <li>Support and implement company wide construction policies and procedures including proper bonding and insurance documentation including accounting guidelines.</li> <li>Provide problem solving duties involving Ownership, Designer and Contractor. Provide specific constructability assessments as needed.</li> <li>Assist with management of FF&E Installation and coordination.</li> <li>Other duties as assigned.</li> </ul> <p><strong>Minimum Qualifications:</strong></p> <ul> <li>Bachelor's degree preferred, preferably in engineering or construction management, or related fields.</li> <li>3+ years of previous work experience in construction management having served in a project management role for a general contractor, developer, owner, or municipality.</li> <li>Skilled and knowledgeable with procurement, permitting, planning, construction methods and design of significant new construction projects.</li> <li>Experience with the full cycle of physical vertical construction process, including design and engineering matters for project of institutional size and quality.</li> <li>Excellent written and oral communication capabilities which demonstrate appropriate interpersonal and team-building skills in interfacing with internal and external client, consultant and public/private relationships.</li> <li>Energetic self-starter with strong leadership skills, organizational skills, work ethic and highest level of integrity.</li> <li>Ability to function independently and accept direction from other members of the Capital Projects & Facilities team and construction management team as necessary.</li> <li>Ability to prioritize and handle multiple tasks while meeting established deadlines.</li> <li>Proficiency with Microsoft Word, Microsoft Excel, Microsoft Outlook, Microsoft PowerPoint, and Microsoft Project.</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>The wage listed here reflects our best faith estimate for this role. We pay competitively and base compensation on a variety of factors including skills, experience, industry background, and the evolving needs of the role. We remain committed to fair and equitable pay and we're happy to discuss during the interview process.</p></div><div class=\"title\">Compensation</div><div class=\"pay-range\"><span>$75,000</span><span class=\"divider\">—</span><span>$100,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><em><strong>Build electric airplanes with us!</strong></em></p> <p><em>BETA offers a competitive Total Compensation package designed to support you now and as you grow with us. This role includes both Restricted Stock Units and Performance Stock Units for all full-time team members, so everyone shares in our success. You’ll have access to onsite healthcare in Vermont, comprehensive medical coverage, dental and vision, short- and long-term disability, and paid parental leave. We also take care of the everyday details with daily lunch provided, and yes—flight lessons are part of the experience, along with a range of additional perks that make work here genuinely rewarding.</em></p> <p><em>We encourage all driven candidates to apply, even if they do not meet every listed qualification.</em></p> <p><em>We are an equal opportunity employer. Employment decisions are based on merit, competence and qualifications and will not be influenced in any manner on race, color, religion, age, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, disability, veteran or military status, genetic information, pregnancy, or any other protected characteristic under federal, state, or local law. BETA complies with all applicable federal, state and local non-discrimination laws and does not tolerate discrimination of any kind in our workplace.</em></p> <p><em>Employment offers are contingent upon the successful completion of a background check. BETA Technologies participates in E-Verify.</em></p></div>",
-    "url": "https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4362043009",
-    "salary": "",
-    "evidence_at": "2026-08-11T11:02:05+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 48,
-    "first_seen": "2026-10-27T01:48:26+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
-  },
-  {
-    "key": "5c6faee20ab57797cb3bd061",
-    "company": "Brilliant Earth",
-    "source_type": "greenhouse",
-    "title": "Retail Operations Coordinator",
-    "location": "Boston, MA",
-    "employment": "",
-    "description": "<p><span style=\"font-size: 12pt;\"><strong>Retail Operations Coordinator – Boston, MA</strong></span></p> <p><span style=\"font-size: 12pt;\">Our Retail Operations Coordinator is dedicated to providing an exceptional experience for every Brilliant Earth customer while aiding fulfillment and operational needs. The goal of the Brilliant Earth team is to create personalized experiences and build lasting relationships while sharing in the happiest moments of our customers' lives. The team operates in a fast-paced environment and is the engine which drives our company.  As a team member, you will be supporting daily operations within the showroom. In addition, you will serve as the face of the company while greeting customers and ensuring the best possible experience when visiting our showrooms. Curious about a day in the life of a Showroom Coordinator at Brilliant Earth? Learn more on our blog <a href=\"https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Funique-showroom-experience-brilliantearth%253FtrackingId%3DUcF7VCp8RMkHQC1pqzDwsg%25253D%25253D%2F%3FtrackingId%3DUcF7VCp8RMkHQC1pqzDwsg%253D%253D&data=05%7C02%7Cashley.smith%40brilliantearth.com%7C23564e39066e47eddae508ddc3af7cdb%7C069d529cd64144abab367cbdfbbec8be%7C0%7C0%7C638881880716522538%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dmWozeSoiDj79VRHGAl1qv0%2BYkdF6Q0PK3kLf%2BkoLz0%3D&reserved=0\" target=\"_blank\">here</a><em> </em>and check out a day in the life <a href=\"https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fvimeo.com%2F1097666148%3Fshare%3Dcopy&data=05%7C02%7Cashley.smith%40brilliantearth.com%7C23564e39066e47eddae508ddc3af7cdb%7C069d529cd64144abab367cbdfbbec8be%7C0%7C0%7C638881880716536041%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=Wfmi03j7cT1TFQB7FOoqS7XhTZPGoJjTjh%2B2nltgJKw%3D&reserved=0\" target=\"_blank\">here</a>!</span></p> <p><span style=\"font-size: 12pt;\"><em>The ideal candidate will be able to work a full-time schedule of Tuesday - Saturday. This role is in-person at our Seaport showroom.</em></span><br><br><span style=\"font-size: 12pt;\"><em>The targeted salary budget for this position is $22-24 per hour. This compensation budget range may be adjusted at any time at the discretion of the company.</em></span><br><span style=\"font-size: 12pt;\"> </span></p> <p><span style=\"font-size: 12pt;\"><strong>What you’ll do:</strong></span></p> <ul> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Create memorable and personalized experiences for Brilliant Earth customers by providing exceptional service and creating a welcoming environment during their visits to our showroom.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Greet and welcome guests with enthusiasm, warmth and professionalism. </span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Send and receive product from our NJ headquarters and external vendors while reconciling inventory within our computer system.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Facilitate order fulfillment, including preparing and packaging customer materials, managing inventory, and maintaining an organized packaging area.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Manage the security of goods and provide expertise on operational policy and procedure.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Maintain a luxury environment in the showroom and uphold visual merchandising and retail operations standards, including planogram maintenance and updates, seasonal roll-outs, decor and signage maintenance and regular cross-functional reviews / checkpoints. Manage and organize appointments for pick-ups, resizing, and repairs.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Assist walk-in clients by matching them with an available sales representative, or schedule them for a return visit.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Maintain a luxury environment in the showroom and uphold visual merchandising standards, including planogram maintenance and updates, seasonal roll-outs, decor and signage maintenance and regular visual merchandising reviews. </span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Consistently seek ways to improve the customer experience while adding value to and supporting the sales team.</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Gracefully enforce policies within the waiting room to ensure a safe and pleasant experience for all guests.</span></li> </ul> <p><span style=\"font-size: 12pt;\"><strong>You’re a great candidate if you have:</strong></span></p> <ul> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Robust customer service skills and experience working in a fast-paced retail or hospitality environment, preferred</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">A dedicated desire to connect with customers, solve problems, and create lasting positive experiences with each customer interaction</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Excellent written and verbal communication skills</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Strong attention to detail</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">An ability to think critically and adapt quickly in a flexible environment</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Exceptional time management skills and accountability</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">A team player mindset with an ability to work collaboratively and cross-functionally</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Strong computer and organization skills</span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\">Interest in socially and environmentally responsible organizations and products</span></li> </ul> <p><span style=\"font-size: 12pt;\"><strong>What We Offer</strong></span></p> <p><span style=\"font-size: 12pt;\">At Brilliant Earth, we’re passionate about the employee experience. That’s why we offer an excellent training program and endless opportunities for career growth! In addition, we offer competitive compensation and a robust benefits package, including:  </span></p> <ul> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Career Growth.</strong> We want to see you sparkle! Through regular 1-1’s with your manager, a variety of training opportunities, and an annual 360 review process for all employees, our leaders are dedicated to creating clear pathways for growth. Ask the hiring team for more information on how Brilliant Earth creates a culture of collaboration and growth during your interview conversations! </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Set Schedule.</strong> We offer consistent weekly hours, and 2 consecutive days off. </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Diverse, mission-minded team. </strong>We were founded to cultivate a more transparent, sustainable, compassionate, & inclusive jewelry industry. Learn more about our impact and team diversity <a href=\"https://www.brilliantearth.com/about/mission/inclusion/\" target=\"_blank\">Here!</a> </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Lifestyle Spending Account.</strong> At Brilliant Earth, we're committed to your well-being. Enjoy company reimbursements for eligible wellness expenses, such as gym memberships, massage, counseling, and more! </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Continued Education.</strong> Company-sponsored learning in leadership, professional skills, diversity & inclusion, and access to tuition reimbursement for role-specific trainings.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Employee Discounts. </strong>As an employee at Brilliant Earth, you’ll receive a generous discount on our jewelry.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Mental Wellness Perks. </strong>We offer access to mental health resources, such as self-care apps and seminars. Our Employee Assistance program offers 24/7 access to counseling! </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Giving Back and Volunteer Opportunities. </strong>In addition to our giving back programs, our teams support local initiatives and spend time together by volunteering.  </span></li> <li style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><span><strong>Medical, Dental, and Vision.</strong><span class=\"Apple-converted-space\"> </span>We offer low-cost plans to choose from, and employer HSA contributions.</span> </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>401k match. </strong>We know that saving for the future is important. That's why we offer a generous 401k match.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Paid Time Off. </strong>We know it’s important to recharge and relax - you’ll accrue 3 weeks of PTO in your first year.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Parental Leave. </strong>We aim to support our growing families. Employees can utilize our paid parental leave to bond and care for their new additions.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Disability and Life insurance. </strong>100% employer-paid.  </span></li> <li lang=\"en-us\" style=\"font-size: 12pt;\"><span style=\"font-size: 12pt;\"><strong>Pre-Tax Commuter Benefits.  </strong></span></li> </ul> <p><span style=\"font-size: 12pt;\"><strong>How to Apply & What to Expect:  </strong></span></p> <p><span style=\"font-size: 12pt;\">Everyone at Brilliant Earth has a voice – we want to hear yours! If you are interested in growing with Brilliant Earth, send us a resume and cover letter letting us know why you are interested in joining our mission and our team. Please include a sentence about your favorite shape of diamond. </span></p> <p><span style=\"font-size: 12pt;\">You’ll receive an email when we’ve received your application, and can expect an update within a week of applying. The interview process for this role includes a phone call with the recruiting team and a video interview with one of our leaders! </span></p> <p><em><span style=\"font-size: 12pt;\">#IND333</span></em></p><div class=\"content-conclusion\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\"><strong>More About Us</strong></span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">At <a href=\"https://www.brilliantearth.com/\">Brilliant Earth</a>, our mission is to cultivate a more transparent, sustainable, compassionate, & inclusive jewelry industry. We believe in creating jewelry you can feel good about wearing, without ever compromising between quality and conscience. We are hard-working team players that welcome challenges and rise to any occasion. Our community of collaboration, respect and encouragement is fostered by frequent team events, cross-departmental meetings and celebrating our wins, big and small. As one of the fastest growing e-commerce jewelers in the world, we're searching for bright and passionate people who are excited to make an impact from day one and grow with the company to take on greater responsibility over time.</span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Brilliant Earth recognizes the value of diversity and inclusion on our team, as we work together to reinvent fine jewelry in a thoughtful and modern way. At Brilliant Earth, we celebrate each other – our successes, the lessons along the way, and the unique perspectives each individual brings to our team. It is our intent to maintain a work environment and hiring process which is free of harassment or discrimination because of sex, race, religion, color, national origin, physical or mental disability, genetic information, marital status, age, sexual orientation, gender identity, military service, veteran status, or any other status protected by Federal, State or local laws. We are committed to complying with all Federal, State and local laws providing Equal Employment Opportunities, and all other employment laws and regulations.</span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\" data-teams=\"true\">When you apply for a job with Brilliant Earth, we process personal information about you. <a href=\"https://www.brilliantearth.com/security-and-privacy-policies/#privacy\" target=\"_blank\">Please see our Privacy Policy for more information. </a></span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to Los Angeles, CA Applicants: Qualified Applicants with arrest or conviction records will be considered for Employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act. </span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to San Francisco, CA Applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for Employment qualified applicants with arrest and conviction records. </span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to Colorado Applicants: There is no application deadline. Applications will be accepted on a rolling basis. </span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to Philadelphia, PA Applicants: Qualified Applicants with arrest or conviction records will be considered for Employment in accordance with the Philadelphia Fair Criminal Record Screening Standards. Any consideration of the background check will be an individualized assessment based on the Applicant or Employee’s specific record and the duties and requirements of the specific job.</span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to Massachusetts Applicants: <span data-olk-copy-source=\"MailCompose\">It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.</span></span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Notice to Maryland Applicants: <span data-olk-copy-source=\"MailCompose\">Under Maryland law, an employer may not require or demand, as a condition of employment, prospective employment, or continued employment, that an individual submit to or take a lie detector or similar test.  An employer who violates this law is guilty of a misdemeanor and subject to a fine not exceeding $100.</span></span></p> <p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">If you need assistance or reasonable accommodation completing an application or at any stage of the interview process, please reach out to us at accommodations@brilliantearth.com.</span></p></div>",
-    "url": "https://job-boards.greenhouse.io/brilliantearth/jobs/4462370009",
-    "salary": "",
-    "evidence_at": "2026-10-21T15:33:20+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 48,
-    "first_seen": "2026-10-27T01:48:26+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
-    "match_reason": "",
-    "status": "new_created",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -212,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -234,56 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
-  },
-  {
-    "key": "787fa74304da15b4114cfd32",
-    "company": "BETA Technologies",
-    "source_type": "greenhouse",
-    "title": "Project Engineer, Propulsion",
-    "location": "South Burlington, Vermont, United States",
-    "employment": "Full-time",
-    "description": "<div class=\"content-intro\"><p>At BETA Technologies, we apply our intellectual curiosity, passion for aviation, and commitment to sustainability toward a shared mission of revolutionizing electric aviation. Regardless of the position one holds, each team member brings their talent and desire to positively impact the environment and lives of others in a refreshing, vibrant, and inclusive culture.</p></div><p>In this role you will be responsible for developing, implementing, and managing product development programs within the propulsion team.  You will work with partners across the organization to gather requirements and ensure timely sharing of critical information at product launch and throughout its development.  This role requires a high energy individual, strong leadership and organizational skills, knowledge of aerospace development and manufacturing processes, and the ability to communicate effectively and collaborate with various departments. In this role, you will be responsible for speaking and presenting to leadership the status of propulsion development programs and where opportunities or alternate strategies to success may exist.</p> <p>The candidate sought for this position is self-directed, capable to operate and drive collective results in a very dynamic environment, and capable of providing tactical and strategic project management to support activities across electric propulsion programs. The candidate will be highly adept at collaborating with internal and external teams such as technical engineering (mechanical, electrical, and software), certification, supply chain, finance, quality, safety, and production systems, along with suppliers, contractors, external test houses, and external customers. We are looking for a person who enjoys working in complex technical environments involving multi-disciplinary activities. The ideal candidate is creative, curious, and will be able to contribute hands-on engineering and project leadership to deliver innovative solutions for next-generation aviation.</p> <p><strong>How you will contribute to revolutionizing electric aviation:</strong></p> <ul> <li>Helping to identify weekly goals to meet the business milestones</li> <li>Coordinate and prioritize work in an extremely dynamic environment</li> <li>Collaborate with team members to ensure schedule alignment for the overall program <ul> <li>Support development and certification timeline</li> <li>Drive improvements required in support of flight test program</li> <li>Balancing of test programs within Beta owned facilities</li> <li>Schedule outside facilities/labs as required</li> </ul> </li> <li>Budget planning and tracking (including labor)</li> <li>Provide regular executive updates on program progress, milestones, risks, and budget status across all organizational levels</li> <li>Coordinate propulsion projects with internal and external customers</li> <li>Interface with other teams on a periodic basis <ul> <li>Track propulsion deliverables to other groups</li> <li>Collect required information from other teams to facilitate propulsion team efforts</li> <li>Respond to inquiries for information or delegate as required</li> <li>Managing the engineering drawing release process for the propulsion team</li> <li>Support supply chain & planning as needed with tracking R&D parts <ul> <li>R&D hardware management (from PO to inventory management)</li> </ul> </li> <li>Coordinates engineering drawings & documents updates</li> <li>Identify, mitigate, and develop contingency plans for program risks and blockers</li> <li>Define process and procedures to standards ways of working</li> <li>Tackle new and novel challenges to progress the overall program</li> </ul> </li> </ul> <p><strong>Minimum Qualifications:</strong></p> <ul> <li>Engineering degree or equivalent</li> <li>Working knowledge of Project Management tools (MSProject, Jira, others)</li> <li>Minimum of 3 years as a project engineer or project/program manager, preferred experience in new product development, manufacturing or in an environment with a similarly intense level of quality and traceability requirements</li> <li>Familiar with Program/Project Management processes</li> <li>Strong background in problem-solving and demonstrated leadership by Influence, through business judgment, strategic and analytical thinking.</li> <li>Proven ability to manage large and complex projects and achieve results</li> <li>Ability to remain positive and mitigate risk when course corrections are required</li> <li>Excellent organizational, time management skills, and commitment to objectives and responsibilities</li> <li>Demonstrated ability to manage initiatives of a technical, financial, marketing, and general business nature</li> <li>Ability to work autonomously</li> <li>Excellent oral and written communication skills for multi-stakeholder environments</li> <li>Mental flexibility to change direction based on new information and work through unexpected roadblocks is an absolute must in our fast-paced environment</li> </ul> <p><strong>Above and Beyond Qualifications:</strong></p> <ul> <li>Experience working in aircraft and/or rotorcraft industry with a focus on development, design, and certification, and/or FAA 14 CFR Part 33 experience is ideal</li> <li>Experience working with development of inverters and/or motors for industrial or traction applications</li> <li>PMP certification is considered a plus</li> <li>Experience with Tier 1 Aerospace Suppliers</li> <li>Relevant experience in other regulated industry will be valued</li> <li>Google G-suite including Drive, Mail, Calendar, Docs, Sheets, Slides, Charts; Slack</li> <li>ERP systems</li> <li>Catia 3DX or equivalent</li> <li>Ability to identify and implement (directly or through influence) changes to processes or organization in order to maximize motor development effectiveness</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>The wage listed here reflects our best faith estimate for this role. We pay competitively and base compensation on a variety of factors including skills, experience, industry background, and the evolving needs of the role. We remain committed to fair and equitable pay and we're happy to discuss during the interview process.</p></div><div class=\"title\">Compensation</div><div class=\"pay-range\"><span>$120,000</span><span class=\"divider\">—</span><span>$150,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><em><strong>Build electric airplanes with us!</strong></em></p> <p><em>BETA offers a competitive Total Compensation package designed to support you now and as you grow with us. This role includes both Restricted Stock Units and Performance Stock Units for all full-time team members, so everyone shares in our success. You’ll have access to onsite healthcare in Vermont, comprehensive medical coverage, dental and vision, short- and long-term disability, and paid parental leave. We also take care of the everyday details with daily lunch provided, and yes—flight lessons are part of the experience, along with a range of additional perks that make work here genuinely rewarding.</em></p> <p><em>We encourage all driven candidates to apply, even if they do not meet every listed qualification.</em></p> <p><em>We are an equal opportunity employer. Employment decisions are based on merit, competence and qualifications and will not be influenced in any manner on race, color, religion, age, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, disability, veteran or military status, genetic information, pregnancy, or any other protected characteristic under federal, state, or local law. BETA complies with all applicable federal, state and local non-discrimination laws and does not tolerate discrimination of any kind in our workplace.</em></p> <p><em>Employment offers are contingent upon the successful completion of a background check. BETA Technologies participates in E-Verify.</em></p></div>",
-    "url": "https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4439230009",
-    "salary": "",
-    "evidence_at": "2026-10-09T16:59:50+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 46,
-    "first_seen": "2026-10-27T01:48:26+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
-  },
-  {
-    "key": "0432affc8121d7e9801b3ecd",
-    "company": "BETA Technologies",
-    "source_type": "greenhouse",
-    "title": "Flight Instruments Project Engineer, Systems",
-    "location": "South Burlington, Vermont, United States",
-    "employment": "Full-time",
-    "description": "<div class=\"content-intro\"><p>At BETA Technologies, we apply our intellectual curiosity, passion for aviation, and commitment to sustainability toward a shared mission of revolutionizing electric aviation. Regardless of the position one holds, each team member brings their talent and desire to positively impact the environment and lives of others in a refreshing, vibrant, and inclusive culture.</p></div><div><span style=\"font-size: 12pt;\">BETA Technologies is seeking a </span><strong style=\"font-size: 12pt;\">Technical Project Engineer</strong><span style=\"font-size: 12pt;\"> to support our growing</span><strong style=\"font-size: 12pt;\"> Flight Instruments team</strong><span style=\"font-size: 12pt;\">. In this role, you’ll be at the center of our effort to deliver certifiable avionics systems for an electric aircraft—bridging the gap between technical execution, supplier coordination, and internal schedule management.</span></div> <div> </div> <div><span style=\"font-size: 12pt;\">You’ll work closely with engineers across disciplines, lead the coordination of supplier deliverables, and help drive the team toward key certification and integration milestones. This is a highly cross-functional position with both technical and programmatic responsibilities—ideal for someone who understands avionics development and knows how to drive a project across the finish line.</span></div> <div> </div> <div><strong>How you will contribute to revolutionizing electric aviation:</strong></div> <ul> <li>Track internal technical schedules and deliverables across the Avionics & Flight Instruments team</li> <li>Task and organize team efforts to support system design, test, and certification timelines</li> <li>Coordinate with avionics suppliers to manage deliverables, reviews, and open items</li> <li>Own and maintain Statements of Work (SOWs) and development agreements, and ensure alignment on scope and expectations</li> <li>Support flight test readiness and integration efforts as part of a fast-moving certification program</li> </ul> <div><strong>Minimum Qualifications:</strong></div> <ul> <li>Bachelor’s degree in Aerospace, Electrical, Systems, or a related engineering discipline</li> <li>Familiarity with ARP 4754A, DO-178C, and DO-254</li> <li>Prior experience in aircraft system integration, preferably with avionics</li> <li>Strong organizational and communication skills, with demonstrated project coordination experience</li> <li>Experience using Polarion, JIRA, and Confluence (or equivalent tools)</li> </ul> <div><strong>Above and Beyond Qualifications:</strong></div> <ul> <li>Previous work at an aircraft OEM or avionics supplier</li> <li>Hands-on experience managing certification artifacts and processes</li> <li>Familiarity with Part 23/25 or Part 27/29 aircraft certification programs</li> <li>Experience working with FAA, DERs, or equivalent regulatory authorities</li> </ul> <div><strong>Why You’ll Love This Role:</strong></div> <ul> <li>You’ll have direct ownership and visibility in a certifying aircraft program</li> <li>You’ll work with a small, driven team that thrives on solving complex problems quickly</li> <li>You’ll play a critical part in delivering the future of sustainable aviation</li> </ul> <div><strong>Physical Requirements:</strong></div> <ul> <li>Occasional travel may be required to support supplier visits or flight test activities</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>The wage listed here reflects our best faith estimate for this role. We pay competitively and base compensation on a variety of factors including skills, experience, industry background, and the evolving needs of the role. We remain committed to fair and equitable pay and we're happy to discuss during the interview process.</p></div><div class=\"title\">Compensation</div><div class=\"pay-range\"><span>$100,000</span><span class=\"divider\">—</span><span>$150,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><em><strong>Build electric airplanes with us!</strong></em></p> <p><em>BETA offers a competitive Total Compensation package designed to support you now and as you grow with us. This role includes both Restricted Stock Units and Performance Stock Units for all full-time team members, so everyone shares in our success. You’ll have access to onsite healthcare in Vermont, comprehensive medical coverage, dental and vision, short- and long-term disability, and paid parental leave. We also take care of the everyday details with daily lunch provided, and yes—flight lessons are part of the experience, along with a range of additional perks that make work here genuinely rewarding.</em></p> <p><em>We encourage all driven candidates to apply, even if they do not meet every listed qualification.</em></p> <p><em>We are an equal opportunity employer. Employment decisions are based on merit, competence and qualifications and will not be influenced in any manner on race, color, religion, age, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, disability, veteran or military status, genetic information, pregnancy, or any other protected characteristic under federal, state, or local law. BETA complies with all applicable federal, state and local non-discrimination laws and does not tolerate discrimination of any kind in our workplace.</em></p> <p><em>Employment offers are contingent upon the successful completion of a background check. BETA Technologies participates in E-Verify.</em></p></div>",
-    "url": "https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4211278009",
-    "salary": "",
-    "evidence_at": "2026-04-09T02:57:52+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 44,
-    "first_seen": "2026-10-27T01:48:26+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -300,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +234,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,11 +256,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-27T01:48:26+00:00",
+    "last_seen": "2026-10-28T02:00:29+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-27T01:48:26+00:00"
+    "application_checked_at": "2026-10-28T02:00:29+00:00"
   }
 ]
