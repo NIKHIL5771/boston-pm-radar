@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "01b1997084b29d4312d084e9",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 53,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "4986394faa6aad223926a534",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +190,34 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
+  },
+  {
+    "key": "70b3b2b72add53bb42f4230e",
+    "company": "ERC Pathlight",
+    "source_type": "greenhouse",
+    "title": "Program Coordinator, PRN",
+    "location": "MD-Bethesda Arlington",
+    "employment": "Unverified: confirm full-time with employer",
+    "description": "<div class=\"content-intro\"><p></p> <h3 data-start=\"139\" data-end=\"157\"><strong data-start=\"143\" data-end=\"157\">Who We Are</strong></h3> <p data-start=\"159\" data-end=\"272\">At ERC Pathlight, we’re on a mission to change lives—and we’re looking for people who feel called to do the same.</p> <p data-start=\"274\" data-end=\"643\">As one of the nation’s leading treatment providers for eating disorders and mood, anxiety, and trauma-related conditions, we bring innovative, evidence-based, and deeply compassionate care to patients across the country. With multiple locations nationwide and extensive virtual programming, we meet patients exactly where they are and help them move toward lasting recovery.</p> <p data-start=\"645\" data-end=\"995\">Founded in 2008 by renowned psychiatrists and psychologists, ERC Pathlight now supports more than 6,000 patients each year. And as the need for world-class mental health care continues to rise, our commitment is stronger than ever: to expand access, elevate the standard of care, and empower every patient to rebuild their life with dignity and hope.</p> <h3 data-start=\"997\" data-end=\"1016\"><strong data-start=\"1001\" data-end=\"1016\">Why Join Us</strong></h3> <p data-start=\"1018\" data-end=\"1292\">When you join ERC Pathlight, you become part of a team that shows up every day to make a real difference. You’ll work alongside passionate clinicians, dedicated support staff, and mission-driven leaders who believe in collaboration, growth, and doing the right thing—always.</p> <p data-start=\"1294\" data-end=\"1353\">Here, your work matters. Your ideas matter. <strong data-start=\"1338\" data-end=\"1345\">You</strong> matter.</p> <p data-start=\"1355\" data-end=\"1491\">If you’re energized by purpose, motivated by impact, and ready to help transform the future of mental health treatment, you belong here.</p> <p data-start=\"1493\" data-end=\"1549\"><strong data-start=\"1493\" data-end=\"1549\">Come build hope. Come save lives. Come grow with us.</strong></p> <p></p></div><p><strong><span data-contrast=\"auto\">What you’ll be doing:</span></strong><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <p><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\">Schedule: PRN (as needed) 8am to 4:30pm OR 9:30am to 6pm</span></p> <p><span data-contrast=\"auto\">The Program Coordinator (PC I, PC II, PC III) is responsible for the direct care of inpatient, residential, and partial hospitalization patients by providing patient supervision and support. The PCs provide structure and boundaries for our patients. They provide bathroom and milieu support as well as contribute to the implementation of therapeutic programming which may include care delivery and program documentation. The PCs provide mealtime support, supporting patients with their dietary needs, and supervising patients at meals and snacks. </span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <p><span data-contrast=\"auto\">The PC should be able to: </span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"42\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"multilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Be willing and able to work at all ERC Pathlight local sites as assigned</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"42\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"multilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Be compliant with certification and regulatory requirements for each practice location</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"42\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"multilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Maintain a flexible schedule to meet organizational staffing needs</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"42\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"multilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Be available to work weekends and holidays as required</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"42\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"multilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">Be available to work on-call shifts based on business needs, in accordance with applicable federal, state, and local labor laws</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <p><strong><span data-contrast=\"auto\">Essential duties and responsibilities:</span></strong><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Milieu Management, including (but not limited to) the following:</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"2\"><span data-contrast=\"auto\">Maintains daily program structure by following program schedule</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"2\"><span data-contrast=\"auto\">Completes observation rounds and safety checks as ordered by physician</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"2\"><span data-contrast=\"auto\">Works with patients on de-escalation and implementing coping skills per treatment plan</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"2\"><span data-contrast=\"auto\">Conducts room searches and luggage searches</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"2\"><span data-contrast=\"auto\">Takes patients out on fresh air breaks and mindful movement exposures</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"6\" data-aria-level=\"2\"><span data-contrast=\"auto\">Provides ongoing bathroom monitoring</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"7\" data-aria-level=\"2\"><span data-contrast=\"auto\">Take patient vital signs, weights, urine Specific Gravity (may vary by location and program)</span> <span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Group Facilitation</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"2\"><span data-contrast=\"auto\">Participates in group facilitation</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"2\"><span data-contrast=\"auto\">Compliant with documentation in EHR for group facilitation</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"2\"><span data-contrast=\"auto\">Supports group outings</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Meal Support, including (but not limited to) the following:</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"2\"><span data-contrast=\"auto\">Participates in all meals and snacks with patients as needed per facility</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"2\"><span data-contrast=\"auto\">Provides meal support through coaching and skills per treatment team at eating disorder treatment locations (when not assigned to an eating disorder treatment location, performs other duties as assigned based on program and operational needs)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"2\"><span data-contrast=\"auto\">Provides administrative support as needed around mealtimes</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"2\"><span data-contrast=\"auto\">Ensures adherence to allergy-safety system</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Administrative Support</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"2\"><span data-contrast=\"auto\">Complete all appropriate documentation as needed in compliance with standards (some indicated above) including but not limited to patient observations, meals, and events that occur during shift</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"2\"><span data-contrast=\"auto\">Provides patient transportation as needed for medical appointments (may vary by location and program)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"2\"><span data-contrast=\"auto\">Supports additional transportation needs, including but not limited to outings, grocery shopping, or other facility needs</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"2\"><span data-contrast=\"auto\">May provide support for additional food procurement as needed once per week</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"o\" data-font=\"Courier New\" data-listid=\"44\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":1440,\"335559991\":360,\"469769226\":\"Courier New\",\"469769242\":[9675],\"469777803\":\"left\",\"469777804\":\"o\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"2\"><span data-contrast=\"auto\">Distributes mail and packages daily</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <p><strong><span data-contrast=\"auto\">Must haves:</span></strong><span data-ccp-props=\"{}\"> </span></p> <p><span data-contrast=\"auto\">Program Coordinator I (PC I)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"20\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">High School Diploma or GED (required)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"20\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Valid driver’s license with safe driving record: required only at locations operating company vehicles or requiring driving on behalf of the company (required) </span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"20\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Washington teammates must hold a state credential (may be pending at time of hire) (required)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"20\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">ServSafe certification may be required depending on state and local licensing regulations (required)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"20\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">Mental Health/Psych Tech or CNA certification (preferred)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></li> </ul> <p><span data-contrast=\"auto\">Program Coordinator II (PC II)</span><span data-ccp-props=\"{\"201341983\":0,\"335559740\":240}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"26\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">High School Diploma or GED (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"26\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Minimum of one (1) year of direct patient care experience (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"26\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Valid driver’s license with safe driving record: required only at locations operating company vehicles or requiring driving on behalf of the company (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"26\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Washington teammates must hold a state credential (may be pending at time of hire) (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"26\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">ServSafe certification may be required depending on state and local licensing regulations (required) </span><span data-ccp-props=\"{}\"> </span></li> </ul> <p><span data-contrast=\"auto\">Program Coordinator III (PC III)</span><span data-ccp-props=\"{}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"34\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Bachelor’s degree in behavioral health or related field (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"34\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Minimum of six (6) months of experience in a behavioral health or related field (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"34\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Valid driver’s license with safe driving record: required only at locations operating company vehicles or requiring driving on behalf of the company (required)</span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"34\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Washington teammates must hold a state credential (may be pending at time of hire) (required) </span><span data-ccp-props=\"{}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"34\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">ServSafe certification may be required depending on state and local licensing regulations (required) </span><span data-ccp-props=\"{}\"> </span></li> </ul> <p>#ERC</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>The compensation range for this position is based upon candidate experience and market expectations. </p></div><div class=\"title\">Maryland Pay Range</div><div class=\"pay-range\"><span>$21.45</span><span class=\"divider\">—</span><span>$29 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong><span data-contrast=\"none\">What We Offer</span></strong><span data-ccp-props=\"{}\"> </span></p> <p><span data-contrast=\"none\">At ERC Pathlight, caring for people is our mission and that begins with caring for our own team. Your well-being matters, and our benefit program is designed to support every part of your life.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":160}\"> </span></p> <p><span data-contrast=\"none\">We offer competitive compensation; comprehensive medical, dental, and vision coverage; generous Paid Time Off; Parental Leave benefits; Retirement benefits; and tuition reimbursement to help you continue growing in your career.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":160}\"> </span></p> <p><span data-contrast=\"none\">We also recognize that mental health is part of every person’s experience. That’s why we strive to create a workplace where you feel supported, seen, and encouraged—personally, professionally, and at home.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":160}\"> </span></p> <p><span data-contrast=\"none\">When you thrive, you can do your best work. And your best work changes lives.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":0,\"335559739\":160}\"> </span></p> <p> </p></div>",
+    "url": "https://job-boards.greenhouse.io/erc8585757pathlight53t353/jobs/4464901009",
+    "salary": "",
+    "evidence_at": "2026-10-23T09:59:52+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 45,
+    "first_seen": "2026-10-30T02:24:22+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
+    "match_reason": "",
+    "status": "new_created",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -205,19 +227,19 @@
     "location": "Boston, MA",
     "employment": "Full-time",
     "description": "<p><strong>About Formlabs:</strong></p> <p>A 3D printer is one of the most demanding machines you can build.</p> <p>Lasers, optics, precision motion, thermals, airflow, materials handling, chemistry, sensing, controls, and software all have to work at micron-scale precision, for thousands of layers, with almost no tolerance for error. Making that work reliably is an extraordinary engineering problem.</p> <p>That’s what we do.</p> <p>At Formlabs, we’re building 3D printers that are changing the way things get made. We have the smartest minds across every engineering discipline, and the technology they’re building is deployed at more than 50,000 industry leaders worldwide, including Apple, Google, Tesla, New Balance, and NASA.</p> <p><strong>Your Impact: </strong></p> <p>The Mechanical Project Manager makes sure our prototyping and development process is efficient and executed firmly. At Formlabs we’re constantly iterating on our products and building new prototypes. As the engineering project manager you’ll work with the mechanical engineering team and the engineering team broadly to bring these prototypes to life and once they’re built to make sure they’re being maintained and used effectively. You’ll also work closely with the mechanical engineering team to support the complexities of developing hardware such as managing BOMs, inventory and product configurations. This is a role that benefits from energizing your peers and has high visibility as your results are our highly coveted prototype products.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Be the glue to pull disparate teams together to hit key milestones and goals through the product development process</li> <li>Manage (in conjunction with the G$ team) the Bill of Materials for our products making sure it is up to date and usable for ordering, cost analysis and useful for tracking development status.</li> <li>Push ECOs through the release process and make sure they’re implemented in a controlled manner.</li> <li>Develop spaces for builds including workspace, tools, shelving for inventory and finished goods</li> <li>Manage inventory for prototype and integration builds including receiving parts, managing incoming quality control, stocking parts and prepping for builds.</li> <li>Make sure that prototype builds happen smoothly and as quickly as possible. Run daily standups or other methods of work tracking and motivation to make sure builds remain unblocked. </li> <li>Organize and plan work. Motivate team members. Track progress and issues. Communicate with stakeholders and close out issues.</li> <li>Manage the configuration of our fleet of prototype printers. Maintain an up to date inventory of prototype printers, their configuration, status and use. Ensure that reworks and retrofits happen quickly and successfully.</li> <li>Improve processes across mechanical engineering to support the smooth development of products</li> <li>Broadly support the mechanical engineering team and mechanical engineering manager as project manager embedded in that team</li> </ul> <p><strong>About You:</strong></p> <ul> <li>Demonstrates motivation to bring amazing products to life by pushing yourself, your peers and the development process forward</li> <li>Consistent and organized to make sure we’re doing everything we can to succeed</li> <li>Ready to get your hands dirty filling gaps and leading by example</li> <li>Can jump between organizing data to organizing people and back during the course of a day</li> <li>A working knowledge of technical documentation and the desire to keep learning in this area</li> <li>Build bridges between team leads and key doers on teams to quickly solve problems and blockages</li> </ul> <p><strong>Bonus Skills: </strong></p> <ul> <li>Depth in mechanical engineering, electrical engineering or integration software</li> <li>Data analysis and spreadsheet wizardry</li> <li>Experience with PLM systems</li> </ul> <p><strong>Our Perks & Benefits:</strong></p> <ul> <li>Unlimited 3D printing with any Formlabs material on any Formlabs printer</li> <li>An equity program that will let you build wealth through RSUs</li> <li>Healthcare coverage (medical, dental, vision) that includes a totally free employee-only plan, effective starting on your first day on the job</li> <li>401K matching with no vesting or tenure requirement</li> <li>Generous parental leave (fully paid up to 16 weeks)</li> <li>Flexible time off so you can take time when you need it</li> <li>Six-week fully paid sabbatical after hitting tenure milestones (with the option to take an additional six weeks after that)</li> <li>Free on-site parking & pre-tax commuter benefits</li> <li>Free on-site lunch, snacks, beverages, treats, beer kegs, and employee-favorite local coffee and espresso</li> <li>Self-driven professional development opportunities like conferences, trade shows, and hackathons</li> <li>One-of-a-kind activities and events like monthly socials, the annual weekend summer camp, a can’t-miss company hackathon, and lots of other social opportunities</li> </ul> <p><strong>You don’t need to check every box to apply for a role. If you love working with hardware, spending time with smart people, solving hard problems, and winning, we want to hear from you.</strong></p> <p>Our Candidate AI Guidelines are available<a href=\"https://careers.formlabs.com/ai-guidelines/\"> <strong>here</strong></a>. Please give them a read.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-sheets-root=\"1\"><strong>Compensation:</strong><br></span></p> <p>Equity is a big part of the compensation package at Formlabs - every employee receives equity because everyone contributes to building the company. We have a lot of confidence in the products we’re building and the impact we’re making, and you should too.</p> <p>Base pay is the other part of our compensation package, and it is carefully determined based on your skills, experience, and expected impact. Equity and base pay combine to make up your total compensation package at Formlabs.</p></div><div class=\"title\">The annual base pay range for this role is:</div><div class=\"pay-range\"><span>$90,000</span><span class=\"divider\">—</span><span>$120,000 USD</span></div></div></div>",
-    "url": "https://careers.formlabs.com/job/8221617/apply/?gh_jid=8221617",
+    "url": "https://careers.formlabs.com/job/8335610/apply/?gh_jid=8335610",
     "salary": "",
-    "evidence_at": "2026-09-22T14:50:14+00:00",
+    "evidence_at": "2026-10-29T23:00:39+00:00",
     "evidence_kind": "created",
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
-    "status": "older",
+    "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -234,12 +256,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -256,11 +278,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-10-29T02:04:58+00:00",
+    "last_seen": "2026-10-30T02:24:22+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-10-29T02:04:58+00:00"
+    "application_checked_at": "2026-10-30T02:24:22+00:00"
   }
 ]
