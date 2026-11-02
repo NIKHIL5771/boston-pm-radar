@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "31ea1f7f01a49ab7a82e8d1f",
@@ -102,12 +102,12 @@
     "remote": 1,
     "score": 56,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "4986394faa6aad223926a534",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 50,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +212,34 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
+  },
+  {
+    "key": "fed4de29aed1f5bc4922e763",
+    "company": "Holder Construction",
+    "source_type": "greenhouse",
+    "title": "Project Engineer",
+    "location": "Franklin Furnace, Ohio",
+    "employment": "",
+    "description": "<div class=\"content-intro\"><div id=\"comp-m4xa41va\" class=\"Z_l5lU ku3DBC zQ9jDz qvSjx3 Vq6kJx comp-m4xa41va wixui-rich-text\" data-testid=\"richTextElement\"> <p class=\"font_9 wixui-rich-text__text\"><span style=\"color: rgb(2, 102, 187);\"><strong>ABOUT US</strong></span></p> </div> <div id=\"comp-m4xa5ckz\" class=\"Z_l5lU ku3DBC zQ9jDz qvSjx3 Vq6kJx comp-m4xa5ckz wixui-rich-text\" data-testid=\"richTextElement\"> <p data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\"><span data-olk-copy-source=\"MessageBody\">Holder Construction is a nationally recognized leader in the construction industry, consistently ranked among the top firms on ENR’s Top 400 Contractors list. </span>We are a performance-driven company that believes in rewarding excellence and investing in our people. Our structured career development program empowers associates to grow quickly into expanded roles and responsibilities based on merit. <span data-olk-copy-source=\"MessageBody\">With operations throughout the United States, w</span>e offer a highly competitive compensation and benefits package, including:</span></p> <ul> <li style=\"color: rgb(0, 0, 0);\" data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\">Annual bonus program</span></li> <li style=\"color: rgb(0, 0, 0);\" data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\">Paid time off</span></li> <li style=\"color: rgb(0, 0, 0);\" data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\">Health, dental, vision, and life insurance</span></li> <li style=\"color: rgb(0, 0, 0);\" data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\">401(k)-retirement plan</span></li> <li style=\"color: rgb(0, 0, 0);\" data-start=\"118\" data-end=\"367\"><span style=\"color: rgb(0, 0, 0);\">Night and swing shift differential pay for select roles</span></li> </ul> </div></div><p>We are looking for a Project Engineer to join our Operations team on our project in Franklin Furnance, OH. This is a full-time, in-person position.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li>Initial responsibilities would include on site trade coordination and management, coordination of material design, fabrication, delivery and installation, ongoing interaction with field supervision, management of cost and design issues (change orders, RFI’s, document updates, etc.) and other responsibilities focused on overall project management and success.</li> <li>Read and understand Construction Design Documents and Specifications.</li> <li>Perform construction cost estimates and quantity surveys for various scopes of work.</li> <li>Overall trade management and coordination, and some level of exposure to BIM.</li> </ul> <p><strong>Qualifications</strong></p> <p>Required:</p> <ul> <li>Bachelor's degree in a construction/engineering related field OR 3+ years of equivalent work experience</li> </ul> <ul> <li>Successful candidates will also possess outstanding communication and time management skills, computer skills, and the ability to work in a collaborative environment.</li> </ul> <p>Preferred:</p> <ul> <li>Willingness to relocate as needed.</li> </ul> <p>#LI-KC1</p><div class=\"content-conclusion\"><p class=\"font_8 wixui-rich-text__text\"><span style=\"color: rgb(0, 0, 0);\"><span class=\"wixui-rich-text__text\">Holder is committed to Equal Opportunity Employment (EOE).</span></span></p> <p class=\"font_8 wixui-rich-text__text\"><span style=\"color: rgb(0, 0, 0);\"><span class=\"wixGuard wixui-rich-text__text\">​</span><span class=\"wixui-rich-text__text\">Substance abuse testing and a background screening is a condition of employment and Holder Construction does not sponsor applicants for immigration status or benefits.</span></span></p></div>",
+    "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4232586009",
+    "salary": "",
+    "evidence_at": "2026-04-24T18:53:01+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 44,
+    "first_seen": "2026-11-02T02:05:27+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -234,12 +256,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,12 +300,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -300,12 +322,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -322,11 +344,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-01T01:50:13+00:00",
+    "last_seen": "2026-11-02T02:05:27+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-01T01:50:13+00:00"
+    "application_checked_at": "2026-11-02T02:05:27+00:00"
   }
 ]
