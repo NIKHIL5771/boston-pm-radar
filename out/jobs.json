@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,34 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
+  },
+  {
+    "key": "3a22bfe950a2083def54aaf7",
+    "company": "Legend Biotech US",
+    "source_type": "greenhouse",
+    "title": "IT Project Coordinator",
+    "location": "Bridgewater, New Jersey, United States",
+    "employment": "",
+    "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Legend Biotech is a global biotechnology company dedicated to treating and, one day, curing life-threatening diseases. Headquartered in Bridgewater, New Jersey, we are advancing the next generation of cell therapy through a portfolio of innovative technologies, including autologous, allogeneic, and in vivo cell therapy approaches. Our research spans chimeric antigen receptor T-cell (CAR-T), T-cell receptor (TCR-T), natural killer (NK) cell-based therapies, and other emerging platforms designed to transform the treatment of serious diseases. From our global network of research and development sites, we are committed to discovering and developing safe, effective, and cutting-edge therapies for patients worldwide.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Legend Biotech entered into a global collaboration agreement with Johnson & Johnson to jointly develop and commercialize CARVYKTI® (ciltacabtagene autoleucel; cilta-cel). Through this strategic partnership, we combine complementary expertise and capabilities to advance innovative immunotherapies for patients living with multiple myeloma.</span></p></div><p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Legend Biotech is seeking an <strong>IT Project Coordinator (Contractor)</strong> as part of the IT team based in <strong>Bridgewater, NJ</strong>.</span></p> <p> </p> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Role Overview</span></h3> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The IT Project Coordinator supports the Global IT Project and Portfolio Management organization in planning, coordinating, and delivering small-scale, lower-complexity IT projects. The role also provides portfolio reporting, governance support, and administrative coordination across the global IT project portfolio. Working closely with project and program managers, IT teams, business stakeholders, and external partners, the coordinator helps maintain project discipline, improves visibility into delivery performance, and supports consistent execution of project management standards.</span></p> <p> </p> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Key Responsibilities</span></h3> <ul> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Project Delivery: Coordinate small-scale IT projects from initiation through closure, including scope, schedule, milestones, deliverables, dependencies, risks, issues, and action items.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Project Planning: Develop and maintain project plans, meeting schedules, status updates, decision logs, risk and issue logs, and other required project documentation.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Portfolio Reporting: Collect, validate, consolidate, and analyze project data to prepare recurring portfolio dashboards, status reports, milestone summaries, resource views, and management presentations.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Governance Support: Support intake, prioritization, project reviews, and compliance with Global IT project and portfolio management standards, templates, and processes.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Financial Tracking: Assist with monitoring project budgets, forecasts, purchase orders, invoices, and actual expenditures; identify variances and escalate concerns to the appropriate project or portfolio lead.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Meeting Coordination: Organize project and portfolio meetings, prepare agendas and materials, document decisions and action items, and follow up with owners to support timely completion.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Stakeholder Coordination: Facilitate communication among project managers, technical teams, business stakeholders, vendors, and regional teams across time zones.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Data Quality: Maintain accurate and timely information in project portfolio management tools, repositories, and reporting systems.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Risk and Issue Management: Monitor project risks, issues, dependencies, and overdue actions; support mitigation planning and timely escalation.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Continuous Improvement: Identify opportunities to streamline reporting, templates, workflows, and project coordination practices across the Global IT organization.</span></li> </ul> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Requirements</span></h3> <ul> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Bachelor’s degree in information technology, business administration, project management, or a related field, or equivalent relevant experience.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Two or more years of experience in project coordination, project administration, PMO support, business operations, or a related role.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Demonstrated ability to coordinate small projects or defined workstreams and manage multiple priorities in a structured environment.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Working knowledge of project management fundamentals, including scope, schedules, milestones, risks, issues, dependencies, budgets, and change control.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Strong analytical skills and experience preparing accurate reports, dashboards, presentations, and management updates.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Proficiency with Microsoft 365 applications, particularly Excel, PowerPoint, Word, Teams, and SharePoint.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Strong organizational skills, attention to detail, and follow-through.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Effective written and verbal communication skills, with the ability to work across technical and nontechnical teams.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Ability to collaborate in a global, cross-functional environment and coordinate activities across multiple time zones.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Ability to handle sensitive project, financial, and organizational information with appropriate discretion.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Experience supporting a global IT PMO or Project and Portfolio Management organization.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Experience with project portfolio management, work management, or reporting tools such as Microsoft Project, Smartsheet, Jira, or Power BI.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Exposure to IT infrastructure, enterprise applications, cybersecurity, digital workplace, data, or business transformation projects.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Understanding of Agile, Waterfall, or hybrid delivery methodologies.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">CAPM, PRINCE2 Foundation, Certified ScrumMaster, or a comparable project management credential.</span></li> </ul> <p> </p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">#Li-MP1</span></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">#Li-Hybrid</span></p><div class=\"content-conclusion\"><p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\"><strong>Please note: These benefits are offered exclusively to permanent full-time employees. Contractors are not eligible for benefits through Legend Biotech.</strong></span></p> <p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\"><strong>Work Authorization & Employment Eligibility</strong></span></p> <p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">Applicants must be authorized to work in the United States. As part of our commitment to maintaining a lawful workforce and ensuring compliance with federal employment regulations, we participate in the E-Verify program. If you are selected for employment, you will be required to complete the Form I-9 process, and your employment eligibility will be verified through E-Verify in accordance with applicable federal law. We are committed to providing a fair, transparent, and welcoming hiring experience for all candidates.</span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>EEO Statement</strong></span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">It is the policy of Legend Biotech to provide equal employment opportunities without regard to actual or perceived race, color, creed, religion, national origin, ancestry, citizenship status, age, sex or gender (including pregnancy, childbirth, related medical conditions and lactation), gender identity or gender expression (including transgender status), sexual orientation, marital status, military service and veteran status, disability, genetic information, or any other protected characteristic under applicable federal, state or local laws or ordinances.</span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Employment is at-will and may be terminated at any time with or without cause or notice by the employee or the company.</span></p> <div><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">For information related to our privacy notice, please review: <a href=\"https://legendbiotech.com/privacy-notice/\" target=\"_blank\">Legend Biotech Privacy Notice</a>.</span></div></div>",
+    "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4746718005",
+    "salary": "",
+    "evidence_at": "2026-10-23T15:35:07+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 72,
+    "first_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +102,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "31ea1f7f01a49ab7a82e8d1f",
@@ -102,12 +124,12 @@
     "remote": 1,
     "score": 56,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -124,12 +146,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -146,12 +168,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +234,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -234,12 +256,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,12 +300,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -300,12 +322,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -322,11 +344,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-03T03:50:19+00:00",
+    "last_seen": "2026-11-04T02:54:01+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-03T03:50:19+00:00"
+    "application_checked_at": "2026-11-04T02:54:01+00:00"
   }
 ]
