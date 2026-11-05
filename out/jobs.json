@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,34 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
-  },
-  {
-    "key": "3a22bfe950a2083def54aaf7",
-    "company": "Legend Biotech US",
-    "source_type": "greenhouse",
-    "title": "IT Project Coordinator",
-    "location": "Bridgewater, New Jersey, United States",
-    "employment": "",
-    "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Legend Biotech is a global biotechnology company dedicated to treating and, one day, curing life-threatening diseases. Headquartered in Bridgewater, New Jersey, we are advancing the next generation of cell therapy through a portfolio of innovative technologies, including autologous, allogeneic, and in vivo cell therapy approaches. Our research spans chimeric antigen receptor T-cell (CAR-T), T-cell receptor (TCR-T), natural killer (NK) cell-based therapies, and other emerging platforms designed to transform the treatment of serious diseases. From our global network of research and development sites, we are committed to discovering and developing safe, effective, and cutting-edge therapies for patients worldwide.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Legend Biotech entered into a global collaboration agreement with Johnson & Johnson to jointly develop and commercialize CARVYKTI® (ciltacabtagene autoleucel; cilta-cel). Through this strategic partnership, we combine complementary expertise and capabilities to advance innovative immunotherapies for patients living with multiple myeloma.</span></p></div><p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Legend Biotech is seeking an <strong>IT Project Coordinator (Contractor)</strong> as part of the IT team based in <strong>Bridgewater, NJ</strong>.</span></p> <p> </p> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Role Overview</span></h3> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">The IT Project Coordinator supports the Global IT Project and Portfolio Management organization in planning, coordinating, and delivering small-scale, lower-complexity IT projects. The role also provides portfolio reporting, governance support, and administrative coordination across the global IT project portfolio. Working closely with project and program managers, IT teams, business stakeholders, and external partners, the coordinator helps maintain project discipline, improves visibility into delivery performance, and supports consistent execution of project management standards.</span></p> <p> </p> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Key Responsibilities</span></h3> <ul> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Project Delivery: Coordinate small-scale IT projects from initiation through closure, including scope, schedule, milestones, deliverables, dependencies, risks, issues, and action items.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Project Planning: Develop and maintain project plans, meeting schedules, status updates, decision logs, risk and issue logs, and other required project documentation.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Portfolio Reporting: Collect, validate, consolidate, and analyze project data to prepare recurring portfolio dashboards, status reports, milestone summaries, resource views, and management presentations.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Governance Support: Support intake, prioritization, project reviews, and compliance with Global IT project and portfolio management standards, templates, and processes.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Financial Tracking: Assist with monitoring project budgets, forecasts, purchase orders, invoices, and actual expenditures; identify variances and escalate concerns to the appropriate project or portfolio lead.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Meeting Coordination: Organize project and portfolio meetings, prepare agendas and materials, document decisions and action items, and follow up with owners to support timely completion.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Stakeholder Coordination: Facilitate communication among project managers, technical teams, business stakeholders, vendors, and regional teams across time zones.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Data Quality: Maintain accurate and timely information in project portfolio management tools, repositories, and reporting systems.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Risk and Issue Management: Monitor project risks, issues, dependencies, and overdue actions; support mitigation planning and timely escalation.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Continuous Improvement: Identify opportunities to streamline reporting, templates, workflows, and project coordination practices across the Global IT organization.</span></li> </ul> <h3><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Requirements</span></h3> <ul> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Bachelor’s degree in information technology, business administration, project management, or a related field, or equivalent relevant experience.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Two or more years of experience in project coordination, project administration, PMO support, business operations, or a related role.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Demonstrated ability to coordinate small projects or defined workstreams and manage multiple priorities in a structured environment.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Working knowledge of project management fundamentals, including scope, schedules, milestones, risks, issues, dependencies, budgets, and change control.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Strong analytical skills and experience preparing accurate reports, dashboards, presentations, and management updates.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Proficiency with Microsoft 365 applications, particularly Excel, PowerPoint, Word, Teams, and SharePoint.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Strong organizational skills, attention to detail, and follow-through.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Effective written and verbal communication skills, with the ability to work across technical and nontechnical teams.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Ability to collaborate in a global, cross-functional environment and coordinate activities across multiple time zones.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Ability to handle sensitive project, financial, and organizational information with appropriate discretion.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Experience supporting a global IT PMO or Project and Portfolio Management organization.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Experience with project portfolio management, work management, or reporting tools such as Microsoft Project, Smartsheet, Jira, or Power BI.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Exposure to IT infrastructure, enterprise applications, cybersecurity, digital workplace, data, or business transformation projects.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">Understanding of Agile, Waterfall, or hybrid delivery methodologies.</span></li> <li style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">CAPM, PRINCE2 Foundation, Certified ScrumMaster, or a comparable project management credential.</span></li> </ul> <p> </p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">#Li-MP1</span></p> <p><span style=\"font-size: 12pt; font-family: arial, helvetica, sans-serif;\">#Li-Hybrid</span></p><div class=\"content-conclusion\"><p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\"><strong>Please note: These benefits are offered exclusively to permanent full-time employees. Contractors are not eligible for benefits through Legend Biotech.</strong></span></p> <p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\"><strong>Work Authorization & Employment Eligibility</strong></span></p> <p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">Applicants must be authorized to work in the United States. As part of our commitment to maintaining a lawful workforce and ensuring compliance with federal employment regulations, we participate in the E-Verify program. If you are selected for employment, you will be required to complete the Form I-9 process, and your employment eligibility will be verified through E-Verify in accordance with applicable federal law. We are committed to providing a fair, transparent, and welcoming hiring experience for all candidates.</span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>EEO Statement</strong></span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">It is the policy of Legend Biotech to provide equal employment opportunities without regard to actual or perceived race, color, creed, religion, national origin, ancestry, citizenship status, age, sex or gender (including pregnancy, childbirth, related medical conditions and lactation), gender identity or gender expression (including transgender status), sexual orientation, marital status, military service and veteran status, disability, genetic information, or any other protected characteristic under applicable federal, state or local laws or ordinances.</span></p> <p style=\"line-height: 1.2;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Employment is at-will and may be terminated at any time with or without cause or notice by the employee or the company.</span></p> <div><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">For information related to our privacy notice, please review: <a href=\"https://legendbiotech.com/privacy-notice/\" target=\"_blank\">Legend Biotech Privacy Notice</a>.</span></div></div>",
-    "url": "https://job-boards.greenhouse.io/legendcareers/jobs/4746718005",
-    "salary": "",
-    "evidence_at": "2026-10-23T15:35:07+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 72,
-    "first_seen": "2026-11-04T02:54:01+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -102,34 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
-  },
-  {
-    "key": "31ea1f7f01a49ab7a82e8d1f",
-    "company": "Real Chemistry",
-    "source_type": "greenhouse",
-    "title": "21GRAMS- Project Coordinator",
-    "location": "Boston - Massachusetts; Carmel - Indiana; Chicago - Illinois; Lambertville - New Jersey; Remote - USA",
-    "employment": "Unverified: confirm full-time with employer",
-    "description": "<div class=\"content-intro\"><p>At Real Chemistry, making the world a healthier place isn’t just an aspiration—it’s our everyday reality. Our drive to transform healthcare is informed by our blend of deep scientific expertise, human-centred creativity, and AI-driven insights, fostering a unique environment where innovation thrives and our people are impact-obsessed. As a global agency, we provide a full suite of services across healthcare communications and marketing to our clients, including top players in the pharmaceutical and biotech industries.</p> <p>Our #LifeatRealChem culture is rooted in our people—we believe we are best together and are committed to excellence for both our clients and colleagues. Whether you're a seasoned professional or just starting your career, if you share our passion for healthcare and connection, we invite you to explore our opportunities.</p> <p>Discover your purpose. Embrace innovation. Experience #LifeatRealChem.</p></div><p>Real Chemistry is looking for a Project Coordinator to join our growing team!  </p> <p> </p> <p>21GRAMS, part of Real Chemistry, takes an innovative approach to advertising, and focusing on making healthcare more human.  Not just in our work, but in the way we conduct business, approach client relationships, and treat each other. It’s a place where people subscribe to the adage, “Be good to each other, but hard on the work.” A place where people are not just in it for the paycheck, but to make a dent in the universe. Sound like you? </p> <p> </p> <p>The Project Coordinator is an entry-level role that supports the project management team in the delivery of integrated healthcare communications. This role builds core skills in scheduling, routing, documentation, and agency systems, and serves as the foundation for growth within the project management career path.</p> <p> </p> <p>This is a hybrid role, based in any of our US offices—including New York City, Boston, Chicago, Carmel, Lambertville, or San Francisco—or remotely within the US, depending on team and business needs.</p> <p> </p> <p><strong>What you’ll do:</strong> </p> <p>• Support Project Managers with day-to-day task execution across multiple projects and brands.</p> <p>• Maintain timelines, hot sheets, status reports, and project documentation with version control.</p> <p>• Route deliverables through internal departments and track review cycles, including MLR and PRC submissions and returns.</p> <p>• Assist in meeting preparation, capture detailed notes, distribute action items, and follow through on next steps.</p> <p>• Open job codes, set up folders and Teams channels, and keep filing structures organized.</p> <p>• Prepare small estimate requests and coordinate simple vendor engagements under guidance.</p> <p>• Escalate risks, blockers, or quality issues to the project lead quickly and clearly.</p> <p> </p> <p>Portfolio Management:</p> <p>• Project-focused. No revenue oversight. No new business involvement.</p> <p>Resource Management:</p> <p>• No ownership of resourcing data or personnel communications.</p> <p>• No Gantt ownership. Shadow staffing conversations to learn expectations.</p> <p>Client and Vendor Relationship Management:</p> <p>• Observer on client calls and email communications.</p> <p>• Observer on vendor communications.</p> <p>Training, Growth, Reporting:</p> <p>• Establish professional attitude, self-motivation, and organization.</p> <p>• Learn department onboarding checklists and reference documents.</p> <p>Admin Operations:</p> <p>• Learn Workfront routing, OpenAir and PowerBI basics, and timesheet review steps.</p> <p>• Support day-to-day routing and traffic of jobs.</p> <p>Execution:</p> <p>• Update hot sheets and timelines. Send meeting notes and recaps.</p> <p>• Learn project lifecycle and ask clarifying questions to build knowledge.</p> <p>Finance:</p> <p>• Open job codes. Pull basic reports for hours and OOPs.</p> <p>• Create small-scale estimates for simple tactics under supervision.</p> <p>Culture, Comms and Collaboration:</p> <p>• Maintain a positive, can-do attitude and team mindset.</p> <p><strong> </strong></p> <p><strong>This position is a perfect fit for you if:</strong> </p> <ul> <li>​Our Company values – <em>Best Together, Impact-Obsessed, Excellence Expected, Evolve Always</em> and <em>Accountability with an “I”</em> – really speak to you. </li> <li>You are adaptable, resilient, and OK with adjusting your scope, responsibilities, and focus as we grow. When things change, so do we. We’re always evolving. </li> <li>You are proactive, driven, and resourceful with strong prioritization skills and a desire to dive into the data. </li> <li>You are highly organized self-starter, able to work independently and under tight deadlines. </li> </ul> <p><strong> </strong></p> <p><strong>What you should have: </strong> </p> <p>• Bachelor’s degree in business, communications, marketing, or related field preferred.</p> <p>• Strong organization, time management, and attention to detail.</p> <p>• Clear written and verbal communication skills.</p> <p>• Proficiency with Microsoft 365. Familiarity with Workfront and Teams is a plus.</p> <p>• 0 to 2 years in marketing or agency environments including internships.</p> <p>• Demonstrated interest in healthcare communications and project management.</p> <p> </p> <p><strong>Pay Range:</strong> $55,000 - $65,000<br>This is the pay range the Company believes it will pay for this position at the time of this posting. Consistent with applicable law, compensation will be determined based on job-related, non-discriminatory factors including but not limited to work experience, skills, certifications, and geographical location. The Company reserves the right to modify this pay range at any time.</p><div class=\"content-conclusion\"><p>Real Chemistry is proud to be Great Place to Work® certified; check out what our people shared about our culture and workplace on our Great Places to Work Profile <u><a href=\"https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.greatplacetowork.com%2Fcertified-company%2F7038366&data=05%7C02%7Cclehmar%40realchemistry.com%7C1f18aaed4326491b3efc08ddd690f025%7C6fa5bfc4f95843f8bb395d382689654b%7C0%7C0%7C638902640185888156%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=pwvaCn37QXkjVQ0p6u92Oz4FA4j5NQZoNJL0ffy01qs%3D&reserved=0\">here</a>.</u></p> <p>We believe we can do our best when feeling our best, which is why we’ve put together a benefits program designed to give you the support you and your family need at every stage of life. Real Chemistry offers a comprehensive benefit program and perks, tailored to your region. Globally, this includes offices in our key markets with free snacks to keep you running all day long, generous holiday and paid time off, options for private medical, dental, and vison plans, and support in saving for the future. Other perks include mental wellness coaching and support and access to more than 13,000 online classes with LinkedIn Learning.  Learn more about our great benefits and perks and search specific offerings in your region at: <a href=\"https://www.realchemistrybenefits.com\">www.realchemistrybenefits.com</a>.</p> <p><span data-olk-copy-source=\"MessageBody\">At Real Chemistry, we believe we're at our best when we're connected. Our Real Hybrid and Regional Teams (Real HART) approach is designed to foster collaboration, learning, innovation, and meaningful relationships while providing flexibility where appropriate. </span>Because our workforce spans multiple countries, regions, and client needs, work arrangements may vary by role and location. Some positions offer hybrid or remote flexibility, while others require regular in-office presence. For example, certain teams and regions, including some of our UK operations, have office-based requirements. Your recruiter will discuss the specific expectations for the role you're pursuing during the interview process and keep you informed throughout the hiring journey. For employees located within a one-hour commute of a Real Chemistry office, we require in-person attendance two days per week, either from a Real Chemistry office or when working onsite with clients. Employees in regions without a nearby office may work remotely and come together throughout the year for collaboration, culture-building, learning, and team connection opportunities. While these guidelines reflect our current workplace model, we understand that everyone’s circumstances are unique. If you require additional flexibility, we welcome an open conversation with your recruiter and our HR team to discuss your needs and determine what may be possible.</p> <p>Real Chemistry is an Equal Opportunity employer. We continually strive to build and sustain an inclusive and equitable work environment where our employees feel empowered to leverage all they bring from their personal lived experience and professional expertise, to make our team the best in the industry. We encourage motivated and qualified applicants to apply without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity/expression, ethnic or national origin, age, physical or mental disability, genetic information, marital information, or any other characteristic protected by federal, state, or local employment discrimination laws where Real Chemistry operates. Should you require accommodations throughout the interview process please let your recruiter know.</p> <p>*Notice: Real Chemistry and its affiliates' names are being misused by scammers through messaging services, fake websites, and apps. Do not share personal or financial information or make payments to any unverified sources claiming to be connected to Real Chemistry. We are working to stop these unauthorized activities and protect our community. Read more <u><a href=\"https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.realchemistry.com%2Fscam-alert&data=05%7C02%7Cclehmar%40realchemistry.com%7C1f18aaed4326491b3efc08ddd690f025%7C6fa5bfc4f95843f8bb395d382689654b%7C0%7C0%7C638902640185967986%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vBa1KYjD6TUHgTF3FdPRQZvM8E8WUgHZqu9yHevh1%2BI%3D&reserved=0\">here</a></u>.</p></div>",
-    "url": "https://job-boards.greenhouse.io/realchemistry/jobs/5466166008",
-    "salary": "",
-    "evidence_at": "2026-10-30T15:53:19+00:00",
-    "evidence_kind": "created",
-    "remote": 1,
-    "score": 56,
-    "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
-    "match_reason": "",
-    "status": "new_created",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -146,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -168,12 +124,56 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
+  },
+  {
+    "key": "e44be4863c9784ae9e1ca4bf",
+    "company": "michelscorporation",
+    "source_type": "greenhouse",
+    "title": "Project Engineer - Michels Construction, Inc.",
+    "location": "Boston, MA",
+    "employment": "Full-time",
+    "description": "<p>If you like variety and challenge and take satisfaction from knowing your work supports modern construction, consider joining the Michels Construction, Inc. team. Michels Construction, Inc. gets projects off to strong starts by designing and constructing foundations and industrial facilities. The end product might not be a focal point, but it will be essential. Our work improves lives. Find out how a career at Michels Construction, Inc. can change yours.</p> <p>As a Project Engineer, your key responsibilities will be to serve as a key team member supporting all needs to help with a successful project completion. Your day would often start on-site with the crew ensuring they have everything they need for the day. Then you would perform all required documentation and record entry for the project and start to plan for the next days and weeks ahead to set the crew and project up for success. You will work closely and communicate with both Project Managers and Superintendents.</p> <p><strong>Why Michels Construction, Inc.?</strong></p> <ul> <li>We support dynamic and growing industries</li> <li>We are family owned and operated</li> <li>We invest an average of $5,000 per employee on training each year</li> <li>We reward hard work and dedication with limitless opportunities</li> <li>We are a part of the Michels family of companies – one of North America’s largest, most diversified energy and infrastructure contractors</li> <li>We offer a comprehensive benefits program, including Health, Dental, Life, Flexible Spending Accounts, Health Savings Account, Short Term and Long-Term Disability Insurance, 401(k) plan, Legal Plan, and Identity Theft and Monitoring Plan.  Depending on your positions and location you may participate in a different benefit plan  </li> </ul> <p><strong>Why you?</strong></p> <ul> <li>You thrive in fast-paced environments under tight deadlines</li> <li>You relish new challenges and evolving technology</li> <li>You enjoy collaborating and communicating with your teammates</li> <li>You like to know your efforts are noticed and appreciated</li> <li>You have high attention to detail</li> <li>You possess strong written and verbal communication skills</li> </ul> <p><strong>What it takes:</strong></p> <ul> <li>Bachelor’s degree in construction management or civil engineering or related and 0-3 years of related experience in Construction, or equivalent combination of both</li> <li>0-3 years of experience in heavy civil construction</li> <li>Industrial and Mechanical background preferred</li> <li>Must possess a valid driver license for the type(s) of vehicles which may be driven and an acceptable driving record</li> <li>Some travel required; 25%</li> </ul> <p> </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-teams=\"true\">This information reflects the anticipated base salary for this position based on current market data. Minimums and maximums may vary based on location. Actual pay will be adjusted based on individual’s skills, experiences, education, and other job-related factors permitted by law.</span></p></div><div class=\"title\">Expected Salary Range</div><div class=\"pay-range\"><span>$72,000</span><span class=\"divider\">—</span><span>$94,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>AA/EOE/M/W/Vet/Disability</p> <p> </p> <p><a href=\"https://www.michels.us/website-user-privacy-policy/\">https://www.michels.us/website-user-privacy-policy/</a></p></div>",
+    "url": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5015175101",
+    "salary": "",
+    "evidence_at": "2026-10-23T21:25:31+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 55,
+    "first_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
+  },
+  {
+    "key": "1e6b9c1da6c47791a3dc700a",
+    "company": "michelscorporation",
+    "source_type": "greenhouse",
+    "title": "Project Manager - Michels Construction, Inc.",
+    "location": "Boston, MA",
+    "employment": "Full-time",
+    "description": "<p>If you like variety and challenge and take satisfaction from knowing your work supports modern construction, consider joining the Michels Construction, Inc. team. Michels Construction, Inc. gets projects off to strong starts by designing and constructing the most challenge challenging foundations projects in the country.  Michels is the industry leader in geotechnical and geostructural foundation systems with state of the art equipment that gives our employees the ability to tackle any project. The end product might not be a focal point, but it will be essential. Our work improves lives. Find out how a career at Michels Construction, Inc. can change yours.</p> <p>As a Project Manager, your key responsibilities will be to manage large projects or multiple smaller projects ensuring profitable operations. This position will plan, direct, and coordinate activities of designated project to ensure that goals or objectives of project are accomplished within prescribed time frame and funding parameters. It is essential to possess excellent verbal and written communication skills. Critical for success are the abilities to work independently and as part of a team, meet deadlines, and anticipate and meet internal and external customer needs. </p> <p><strong>Why Michels Construction, Inc.?</strong></p> <ul> <li>We support dynamic and growing industries</li> <li>We are family owned and operated</li> <li>We invest an average of $5,000 per employee on training each year</li> <li>We reward hard work and dedication with limitless opportunities</li> <li>We are a part of the Michels family of companies – one of North America’s largest, most diversified energy and infrastructure contractors</li> <li>We offer a comprehensive benefits program, including Health, Dental, Life, Flexible Spending Accounts, Health Savings Account, Short Term and Long-Term Disability Insurance, 401(k) plan, Legal Plan, and Identity Theft and Monitoring Plan.  Depending on your positions and location you may participate in a different benefit plan  </li> </ul> <p><strong>Why you?</strong></p> <ul> <li>You thrive in fast-paced environments under tight deadlines</li> <li>You relish new challenges and evolving technology</li> <li>You enjoy collaborating and communicating with your teammates</li> <li>You like to know your efforts are noticed and appreciated</li> <li>You have high attention to detail</li> <li>You possess strong written and verbal communication skills</li> </ul> <p><strong>What it takes:</strong></p> <ul> <li>Bachelor’s degree in civil engineering, structural engineering, or geotechnical engineering with 10 or more years of post-college experience</li> <li>Experience in deep foundations, heavy civil, design build and/or geotechnical contracting experience</li> <li>Experience with scheduling, estimating and project controls software (preferred)</li> <li>PMP, PE Certification (desired)</li> <li>Travel up to 25%<em> </em></li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-teams=\"true\">This information reflects the anticipated base salary for this position based on current market data. Minimums and maximums may vary based on location. Actual pay will be adjusted based on individual’s skills, experiences, education, and other job-related factors permitted by law.</span></p></div><div class=\"title\">Expected Salary Range</div><div class=\"pay-range\"><span>$154,000</span><span class=\"divider\">—</span><span>$212,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>AA/EOE/M/W/Vet/Disability</p> <p> </p> <p><a href=\"https://www.michels.us/website-user-privacy-policy/\">https://www.michels.us/website-user-privacy-policy/</a></p></div>",
+    "url": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4907248101",
+    "salary": "",
+    "evidence_at": "2026-06-24T14:32:23+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 49,
+    "first_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -212,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -234,12 +234,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -256,12 +256,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -278,12 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -300,12 +300,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +322,34 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
+  },
+  {
+    "key": "1af8b3ffaa8990eca9b0b2f4",
+    "company": "Motional",
+    "source_type": "greenhouse",
+    "title": "Project Manager",
+    "location": "Boston, Massachusetts, United States",
+    "employment": "Unverified: confirm full-time with employer",
+    "description": "<p>Motional’s global headquarters are located at 100 Northern Avenue in Boston, MA. Nestled in the bustling Seaport district with sweeping views of Boston Harbor and downtown Boston, the office is located close to major transit lines and a quick walk to various restaurants and popular attractions.</p> <p>This role requires a minimum of four days per week onsite at our <strong>Boston location</strong>. <span style=\"text-decoration: underline;\"><strong>This includes in-office working days Monday through Thursday.</strong></span> Please note this may vary subject to business needs.</p> <h3><strong>Mission Summary: </strong></h3> <p>This is a high visibility role for an analytically-minded and highly organized individual to directly support the Chief of Staff (CoS) and the Office of the CEO in driving key strategic initiatives across the company. You will help align cross-functional teams, help resolve roadblocks, and ensure executives have the information they need to make decisions</p> <p>The ideal candidate will blend technical fluency with proven project management or strategy experience to effectively coordinate complex, cross-functional efforts and manage critical communication workflows. They will be comfortable working on ambiguous, fast-moving, and challenging special projects.<br><br></p> <h3><strong>What you’ll be doing: </strong></h3> <h5><strong>1. Strategic Project Coordination & Execution (~60%)</strong></h5> <ul> <li>Project Coordination Management: Coordinate, track, and communicate progress on high-priority strategic projects that span multiple internal teams (e.g., Engineering, Operations, Finance, People, Legal) and organizational levels. Partner closely with functional owners to create milestones, understand dependencies, and clarify the path forward.</li> <li>Cross-Functional Liaison: Serve as the primary point of contact for the CoS with departmental leads, proactively ensuring alignment, surfacing and unblocking roadblocks, and maintaining momentum on key initiatives.</li> <li>Meeting Management: Prepare agendas, presentations, and follow-up documentation for internal strategy reviews and project steering committee meetings with minimal guidance.</li> </ul> <h5><strong>2. Executive Communication & Stakeholder Management (~30%)</strong></h5> <ul> <li>Shareholder Communication Support: Gather, review, and synthesize inputs from across the company for high-stakes communications directed to shareholders, executive leadership, and the Board of Directors. Draft and edit materials as needed.</li> <li>Information Synthesis: Digest complex technical, financial, and operational information into clear, concise, and strategic summaries that drive executive understanding and decision-making.</li> <li>Executive Briefing: Prepare the CoS and CEO for critical meetings by delivering timely and relevant research, talking points, and data-driven insights.</li> </ul> <h5><strong>3. Operational Support (~10%)</strong></h5> <ul> <li>Prioritization Support: Partner with the CoS to manage and prioritize their calendar, coordinate, coordinate key meetings and align time and resources with the company's highest priorities.</li> <li>Process Improvement: Identify and implement efficiencies in organizational processes and reporting structures to streamline the office of the CEO operations.</li> <li>Ad-Hoc Analysis: Conduct rapid, targeted research and analysis on emerging business opportunities or threats to inform strategic planning. </li> </ul> <h3><strong>What we’re looking for:</strong></h3> <h5><strong>Required:</strong></h5> <ul> <li>Experience: 3-5 years of experience in a fast-moving environment, ideally within a strategy consulting firm, internal corporate strategy team, Business Operations, Program Management Office (PMO), or an operational role with a strategic focus.</li> <li>High Autonomy & Adaptability: Thrives in a dynamic, fluid environment. Comfortable operating with limited information, making sound judgement calls, and executing independently with minimal supervision. </li> <li>Project Coordination Acumen: Proven ability to manage complex projects, shepherd multiple stakeholders and competing priorities, and keep teams aligned from project inception to completion.</li> <li>Technical Fluency: Demonstrated understanding of technical concepts, engineering workflows, or data analysis (e.g., a degree in Engineering, Computer Science, or a related quantitative field).</li> <li>Analytical & Communication Skills: Exceptional ability to think analytically, structure complex arguments, clearly communicate (written and verbal) and to develop persuasive narratives for executive and external audiences.</li> </ul> <h5><strong>Bonus points (not required) </strong></h5> <ul> <li>Industry Experience: Experience working in a fast paced technology sector.</li> <li>Financial Literacy: Basic understanding of financial statements and corporate governance to effectively support shareholder communications.</li> </ul> <p> </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span style=\"font-weight: 400;\">The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. </span></p> <p><span style=\"font-weight: 400;\">Candidates for certain positions are eligible to participate in Motional’s benefits program. Motional’s benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more. </span></p></div><div class=\"title\">Salary Range</div><div class=\"pay-range\"><span>$109,000</span><span class=\"divider\">—</span><span>$142,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We’re driven by something more.</strong></p> <p><strong>Our journey is always people first.</strong></p> <p>We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.</p> <p><strong>Higher purpose, greater impact.</strong></p> <p>We’re creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it’s not only good for our business, it’s the right thing to do.  </p> <p><strong>Scale up, not starting up.</strong></p> <p>Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We’re driven to scale; we’re moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.</p> <p>Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  <a href=\"https://c212.net/c/link/?t=0&l=en&o=3300142-1&h=1642745316&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3253528-1%26h%3D3781125006%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3089636-1%2526h%253D3468778127%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D2881693-1%252526h%25253D646020682%252526u%25253Dhttps%2525253A%2525252F%2525252Furldefense.com%2525252Fv3%2525252F__http%2525253A%2525252Fwww.motional.com%2525252F__%2525253B!!KT8c38mO!j78LjnhAm2VK7Fu23VO6KlwqDXvVTQFMzmyzieKQqZDQksh2tpWEseK4to8eKzwsEwI%25252524%252526a%25253Dwww.Motional.com%2526a%253Dwww.Motional.com%26a%3Dwww.Motional.com&a=www.Motional.com\">www.Motional.com</a> and follow us on <a href=\"https://twitter.com/motionaldrive\">Twitter</a>, <a href=\"https://www.linkedin.com/company/67123512/\">LinkedIn</a>, <a href=\"https://www.instagram.com/motionaldrive/\">Instagram</a> and <a href=\"https://www.youtube.com/channel/UCr__mGPkBb-KMoYWbSGuA9w\">YouTube</a>.</p> <p><em>Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.</em></p></div>",
+    "url": "https://motional.com/open-positions/?gh_jid=8039499003#/8039499003",
+    "salary": "",
+    "evidence_at": "2026-10-21T01:19:57+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 35,
+    "first_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,11 +366,11 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-04T02:54:01+00:00",
+    "last_seen": "2026-11-05T03:07:58+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-04T02:54:01+00:00"
+    "application_checked_at": "2026-11-05T03:07:58+00:00"
   }
 ]
