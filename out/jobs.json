@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -124,56 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
-  },
-  {
-    "key": "e44be4863c9784ae9e1ca4bf",
-    "company": "michelscorporation",
-    "source_type": "greenhouse",
-    "title": "Project Engineer - Michels Construction, Inc.",
-    "location": "Boston, MA",
-    "employment": "Full-time",
-    "description": "<p>If you like variety and challenge and take satisfaction from knowing your work supports modern construction, consider joining the Michels Construction, Inc. team. Michels Construction, Inc. gets projects off to strong starts by designing and constructing foundations and industrial facilities. The end product might not be a focal point, but it will be essential. Our work improves lives. Find out how a career at Michels Construction, Inc. can change yours.</p> <p>As a Project Engineer, your key responsibilities will be to serve as a key team member supporting all needs to help with a successful project completion. Your day would often start on-site with the crew ensuring they have everything they need for the day. Then you would perform all required documentation and record entry for the project and start to plan for the next days and weeks ahead to set the crew and project up for success. You will work closely and communicate with both Project Managers and Superintendents.</p> <p><strong>Why Michels Construction, Inc.?</strong></p> <ul> <li>We support dynamic and growing industries</li> <li>We are family owned and operated</li> <li>We invest an average of $5,000 per employee on training each year</li> <li>We reward hard work and dedication with limitless opportunities</li> <li>We are a part of the Michels family of companies – one of North America’s largest, most diversified energy and infrastructure contractors</li> <li>We offer a comprehensive benefits program, including Health, Dental, Life, Flexible Spending Accounts, Health Savings Account, Short Term and Long-Term Disability Insurance, 401(k) plan, Legal Plan, and Identity Theft and Monitoring Plan.  Depending on your positions and location you may participate in a different benefit plan  </li> </ul> <p><strong>Why you?</strong></p> <ul> <li>You thrive in fast-paced environments under tight deadlines</li> <li>You relish new challenges and evolving technology</li> <li>You enjoy collaborating and communicating with your teammates</li> <li>You like to know your efforts are noticed and appreciated</li> <li>You have high attention to detail</li> <li>You possess strong written and verbal communication skills</li> </ul> <p><strong>What it takes:</strong></p> <ul> <li>Bachelor’s degree in construction management or civil engineering or related and 0-3 years of related experience in Construction, or equivalent combination of both</li> <li>0-3 years of experience in heavy civil construction</li> <li>Industrial and Mechanical background preferred</li> <li>Must possess a valid driver license for the type(s) of vehicles which may be driven and an acceptable driving record</li> <li>Some travel required; 25%</li> </ul> <p> </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-teams=\"true\">This information reflects the anticipated base salary for this position based on current market data. Minimums and maximums may vary based on location. Actual pay will be adjusted based on individual’s skills, experiences, education, and other job-related factors permitted by law.</span></p></div><div class=\"title\">Expected Salary Range</div><div class=\"pay-range\"><span>$72,000</span><span class=\"divider\">—</span><span>$94,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>AA/EOE/M/W/Vet/Disability</p> <p> </p> <p><a href=\"https://www.michels.us/website-user-privacy-policy/\">https://www.michels.us/website-user-privacy-policy/</a></p></div>",
-    "url": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/5015175101",
-    "salary": "",
-    "evidence_at": "2026-10-23T21:25:31+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 55,
-    "first_seen": "2026-11-05T03:07:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
-  },
-  {
-    "key": "1e6b9c1da6c47791a3dc700a",
-    "company": "michelscorporation",
-    "source_type": "greenhouse",
-    "title": "Project Manager - Michels Construction, Inc.",
-    "location": "Boston, MA",
-    "employment": "Full-time",
-    "description": "<p>If you like variety and challenge and take satisfaction from knowing your work supports modern construction, consider joining the Michels Construction, Inc. team. Michels Construction, Inc. gets projects off to strong starts by designing and constructing the most challenge challenging foundations projects in the country.  Michels is the industry leader in geotechnical and geostructural foundation systems with state of the art equipment that gives our employees the ability to tackle any project. The end product might not be a focal point, but it will be essential. Our work improves lives. Find out how a career at Michels Construction, Inc. can change yours.</p> <p>As a Project Manager, your key responsibilities will be to manage large projects or multiple smaller projects ensuring profitable operations. This position will plan, direct, and coordinate activities of designated project to ensure that goals or objectives of project are accomplished within prescribed time frame and funding parameters. It is essential to possess excellent verbal and written communication skills. Critical for success are the abilities to work independently and as part of a team, meet deadlines, and anticipate and meet internal and external customer needs. </p> <p><strong>Why Michels Construction, Inc.?</strong></p> <ul> <li>We support dynamic and growing industries</li> <li>We are family owned and operated</li> <li>We invest an average of $5,000 per employee on training each year</li> <li>We reward hard work and dedication with limitless opportunities</li> <li>We are a part of the Michels family of companies – one of North America’s largest, most diversified energy and infrastructure contractors</li> <li>We offer a comprehensive benefits program, including Health, Dental, Life, Flexible Spending Accounts, Health Savings Account, Short Term and Long-Term Disability Insurance, 401(k) plan, Legal Plan, and Identity Theft and Monitoring Plan.  Depending on your positions and location you may participate in a different benefit plan  </li> </ul> <p><strong>Why you?</strong></p> <ul> <li>You thrive in fast-paced environments under tight deadlines</li> <li>You relish new challenges and evolving technology</li> <li>You enjoy collaborating and communicating with your teammates</li> <li>You like to know your efforts are noticed and appreciated</li> <li>You have high attention to detail</li> <li>You possess strong written and verbal communication skills</li> </ul> <p><strong>What it takes:</strong></p> <ul> <li>Bachelor’s degree in civil engineering, structural engineering, or geotechnical engineering with 10 or more years of post-college experience</li> <li>Experience in deep foundations, heavy civil, design build and/or geotechnical contracting experience</li> <li>Experience with scheduling, estimating and project controls software (preferred)</li> <li>PMP, PE Certification (desired)</li> <li>Travel up to 25%<em> </em></li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span data-teams=\"true\">This information reflects the anticipated base salary for this position based on current market data. Minimums and maximums may vary based on location. Actual pay will be adjusted based on individual’s skills, experiences, education, and other job-related factors permitted by law.</span></p></div><div class=\"title\">Expected Salary Range</div><div class=\"pay-range\"><span>$154,000</span><span class=\"divider\">—</span><span>$212,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>AA/EOE/M/W/Vet/Disability</p> <p> </p> <p><a href=\"https://www.michels.us/website-user-privacy-policy/\">https://www.michels.us/website-user-privacy-policy/</a></p></div>",
-    "url": "https://job-boards.eu.greenhouse.io/michelscorporation/jobs/4907248101",
-    "salary": "",
-    "evidence_at": "2026-06-24T14:32:23+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 49,
-    "first_seen": "2026-11-05T03:07:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -190,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -212,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -234,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -256,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
-    "status": "new_created",
+    "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -278,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -300,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,34 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
-  },
-  {
-    "key": "1af8b3ffaa8990eca9b0b2f4",
-    "company": "Motional",
-    "source_type": "greenhouse",
-    "title": "Project Manager",
-    "location": "Boston, Massachusetts, United States",
-    "employment": "Unverified: confirm full-time with employer",
-    "description": "<p>Motional’s global headquarters are located at 100 Northern Avenue in Boston, MA. Nestled in the bustling Seaport district with sweeping views of Boston Harbor and downtown Boston, the office is located close to major transit lines and a quick walk to various restaurants and popular attractions.</p> <p>This role requires a minimum of four days per week onsite at our <strong>Boston location</strong>. <span style=\"text-decoration: underline;\"><strong>This includes in-office working days Monday through Thursday.</strong></span> Please note this may vary subject to business needs.</p> <h3><strong>Mission Summary: </strong></h3> <p>This is a high visibility role for an analytically-minded and highly organized individual to directly support the Chief of Staff (CoS) and the Office of the CEO in driving key strategic initiatives across the company. You will help align cross-functional teams, help resolve roadblocks, and ensure executives have the information they need to make decisions</p> <p>The ideal candidate will blend technical fluency with proven project management or strategy experience to effectively coordinate complex, cross-functional efforts and manage critical communication workflows. They will be comfortable working on ambiguous, fast-moving, and challenging special projects.<br><br></p> <h3><strong>What you’ll be doing: </strong></h3> <h5><strong>1. Strategic Project Coordination & Execution (~60%)</strong></h5> <ul> <li>Project Coordination Management: Coordinate, track, and communicate progress on high-priority strategic projects that span multiple internal teams (e.g., Engineering, Operations, Finance, People, Legal) and organizational levels. Partner closely with functional owners to create milestones, understand dependencies, and clarify the path forward.</li> <li>Cross-Functional Liaison: Serve as the primary point of contact for the CoS with departmental leads, proactively ensuring alignment, surfacing and unblocking roadblocks, and maintaining momentum on key initiatives.</li> <li>Meeting Management: Prepare agendas, presentations, and follow-up documentation for internal strategy reviews and project steering committee meetings with minimal guidance.</li> </ul> <h5><strong>2. Executive Communication & Stakeholder Management (~30%)</strong></h5> <ul> <li>Shareholder Communication Support: Gather, review, and synthesize inputs from across the company for high-stakes communications directed to shareholders, executive leadership, and the Board of Directors. Draft and edit materials as needed.</li> <li>Information Synthesis: Digest complex technical, financial, and operational information into clear, concise, and strategic summaries that drive executive understanding and decision-making.</li> <li>Executive Briefing: Prepare the CoS and CEO for critical meetings by delivering timely and relevant research, talking points, and data-driven insights.</li> </ul> <h5><strong>3. Operational Support (~10%)</strong></h5> <ul> <li>Prioritization Support: Partner with the CoS to manage and prioritize their calendar, coordinate, coordinate key meetings and align time and resources with the company's highest priorities.</li> <li>Process Improvement: Identify and implement efficiencies in organizational processes and reporting structures to streamline the office of the CEO operations.</li> <li>Ad-Hoc Analysis: Conduct rapid, targeted research and analysis on emerging business opportunities or threats to inform strategic planning. </li> </ul> <h3><strong>What we’re looking for:</strong></h3> <h5><strong>Required:</strong></h5> <ul> <li>Experience: 3-5 years of experience in a fast-moving environment, ideally within a strategy consulting firm, internal corporate strategy team, Business Operations, Program Management Office (PMO), or an operational role with a strategic focus.</li> <li>High Autonomy & Adaptability: Thrives in a dynamic, fluid environment. Comfortable operating with limited information, making sound judgement calls, and executing independently with minimal supervision. </li> <li>Project Coordination Acumen: Proven ability to manage complex projects, shepherd multiple stakeholders and competing priorities, and keep teams aligned from project inception to completion.</li> <li>Technical Fluency: Demonstrated understanding of technical concepts, engineering workflows, or data analysis (e.g., a degree in Engineering, Computer Science, or a related quantitative field).</li> <li>Analytical & Communication Skills: Exceptional ability to think analytically, structure complex arguments, clearly communicate (written and verbal) and to develop persuasive narratives for executive and external audiences.</li> </ul> <h5><strong>Bonus points (not required) </strong></h5> <ul> <li>Industry Experience: Experience working in a fast paced technology sector.</li> <li>Financial Literacy: Basic understanding of financial statements and corporate governance to effectively support shareholder communications.</li> </ul> <p> </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><span style=\"font-weight: 400;\">The salary range for this role is an estimate based on a wide range of compensation factors including but not limited to specific skills, experience and expertise, role location, certifications, licenses, and business needs. The estimated compensation range listed in this job posting reflects base salary only. This role may include additional forms of compensation such as a bonus or company equity. The recruiter assigned to this role can share more information about the specific compensation and benefit details associated with this role during the hiring process. </span></p> <p><span style=\"font-weight: 400;\">Candidates for certain positions are eligible to participate in Motional’s benefits program. Motional’s benefits include but are not limited to medical, dental, vision, 401k with a company match, health saving accounts, life insurance, pet insurance, and more. </span></p></div><div class=\"title\">Salary Range</div><div class=\"pay-range\"><span>$109,000</span><span class=\"divider\">—</span><span>$142,000 USD</span></div></div></div><div class=\"content-conclusion\"><p><strong>Motional is a driverless technology company making autonomous vehicles a safe, reliable, and accessible reality. We’re driven by something more.</strong></p> <p><strong>Our journey is always people first.</strong></p> <p>We aren't just developing driverless cars; we're creating safer roadways, more equitable transportation options, and making our communities better places to live, work, and connect. Our team is made up of engineers, researchers, innovators, dreamers and doers, who are creating a technology with the potential to transform the way we move.</p> <p><strong>Higher purpose, greater impact.</strong></p> <p>We’re creating first-of-its-kind technology that will transform transportation. To do so successfully, we must design for everyone in our cities and on our roads. We believe in building a great place to work through a progressive, global culture that is diverse, inclusive, and ensures people feel valued at every level of the organization. Diversity helps us to see the world differently; it’s not only good for our business, it’s the right thing to do.  </p> <p><strong>Scale up, not starting up.</strong></p> <p>Our team is behind some of the industry's largest leaps forward, including the first fully-autonomous cross-country drive in the U.S, the launch of the world's first robotaxi pilot, and operation of the world's longest-standing public robotaxi fleet. We’re driven to scale; we’re moving towards commercialization of our technology, and we need team members who are ready to embrace change and challenges.</p> <p>Formed as a joint venture between Hyundai Motor Group and Aptiv, Motional is fundamentally changing how people move through their lives. Headquartered in Boston, Motional has operations in the U.S and Asia. For more information, visit  <a href=\"https://c212.net/c/link/?t=0&l=en&o=3300142-1&h=1642745316&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3253528-1%26h%3D3781125006%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3089636-1%2526h%253D3468778127%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D2881693-1%252526h%25253D646020682%252526u%25253Dhttps%2525253A%2525252F%2525252Furldefense.com%2525252Fv3%2525252F__http%2525253A%2525252Fwww.motional.com%2525252F__%2525253B!!KT8c38mO!j78LjnhAm2VK7Fu23VO6KlwqDXvVTQFMzmyzieKQqZDQksh2tpWEseK4to8eKzwsEwI%25252524%252526a%25253Dwww.Motional.com%2526a%253Dwww.Motional.com%26a%3Dwww.Motional.com&a=www.Motional.com\">www.Motional.com</a> and follow us on <a href=\"https://twitter.com/motionaldrive\">Twitter</a>, <a href=\"https://www.linkedin.com/company/67123512/\">LinkedIn</a>, <a href=\"https://www.instagram.com/motionaldrive/\">Instagram</a> and <a href=\"https://www.youtube.com/channel/UCr__mGPkBb-KMoYWbSGuA9w\">YouTube</a>.</p> <p><em>Motional AD Inc. is an EOE. We celebrate diversity and are committed to creating an inclusive environment for all employees. To comply with Federal Law, we participate in E-Verify. All newly-hired employees are queried through this electronic system established by the DHS and the SSA to verify their identity and employment eligibility.</em></p></div>",
-    "url": "https://motional.com/open-positions/?gh_jid=8039499003#/8039499003",
-    "salary": "",
-    "evidence_at": "2026-10-21T01:19:57+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 35,
-    "first_seen": "2026-11-05T03:07:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -366,11 +300,33 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-05T03:07:58+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-05T03:07:58+00:00"
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
+  },
+  {
+    "key": "50c44f768a37e683f6688a6e",
+    "company": "klaviyo",
+    "source_type": "greenhouse",
+    "title": "Customer Success Operations Analyst",
+    "location": "Boston, MA; Denver, CO; San Francisco, CA",
+    "employment": "Unverified: confirm full-time with employer",
+    "description": "<div class=\"content-intro\"><p><em>At Klaviyo, we value the unique backgrounds, experiences and perspectives each Klaviyo (we call ourselves Klaviyos) brings to our workplace each and every day. We believe everyone deserves a fair shot at success and appreciate the experiences each person brings beyond the traditional job requirements. If you’re a close but not exact match with the description, we hope you’ll still consider applying. Want to learn more about life at Klaviyo? Visit <a class=\"_ymio1r31 _ypr0glyw _zcxs1o36 _mizu194a _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu18uv _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b18uv _4fpr8stv _5goinqa1 _f8pj13af _9oik18uv _1bnxglyw _jf4cnqa1 _30l313af _1nrm18uv _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1\" href=\"http://klaviyo.com/careers\" data-renderer-mark=\"true\">klaviyo.com/careers</a> to see how we empower creators to own their own destiny.</em></p></div><h3><strong>About the role</strong></h3> <p>Our Customer Success Managers and Renewals Specialists do their best work when the plan, data, and rhythm behind them are solid. This role builds and runs all three. You'll own the numbers and mechanics that tell us who covers which customers, how much capacity we have, and how the book is performing, then turn them into reporting our leaders actually use.</p> <p>You'll sit between CS leadership, Sales Ops, Finance, and Data. Some weeks you'll be modeling territory options before a quarter starts. Other weeks you'll be building the renewal ops view the team checks every morning. If you like work where the answer ships and people use it, you'll like this job.</p> <h3><strong>What you'll do</strong></h3> <p><strong>Capacity, coverage, and assignments</strong></p> <ul> <li>Maintain headcount and capacity models, and keep them current as hiring, attrition, and book growth change the picture.</li> <li>Support account assignment and territory planning for CS leadership: model options, run quarterly rebalancing, and carry out reassignments when someone leaves or a customer's needs change.</li> <li>Keep assignment data clean and consistent across Salesforce, Gainsight, and reporting, so what the field sees matches what leadership sees.</li> <li>Flag where coverage doesn't match customer value or risk, and recommend how to fix it.</li> </ul> <p><strong>Business reviews and performance reporting</strong></p> <ul> <li>Build and run the data behind weekly, monthly, and quarterly business reviews (QBR/MBR), delivering inputs on time and with a clear point of view.</li> <li>Own renewal ops reporting: upcoming renewals, renewal status and activity, at-risk accounts, and retention outcomes. Forecast and pipeline are owned elsewhere; you'll use the same definitions.</li> <li>Create and maintain CS dashboards and reports that CSMs, managers and LT rely on to run their books.</li> <li>Help drive and maintain rhythm of business reporting across all CS and Renewals segments</li> </ul> <p><strong>Analysis and improvement</strong></p> <ul> <li>Answer ad hoc questions from leaders with a recommendation, not a spreadsheet dump.</li> <li>Spot patterns in the data (churn drivers, coverage gaps, capacity strain) and bring them to the team before they're asked for.</li> <li>Automate recurring pulls and reports, and document the process so it doesn't live in one person's head.</li> <li>Work with Sales Ops, Finance, and Data teams to make sure definitions and numbers match across the company.</li> </ul> <h3><strong>Who you are</strong></h3> <ul> <li>3-5 years in Customer Success Ops, Sales/Revenue Ops, FP&A, or an analytics role supporting a go-to-market team, ideally at a SaaS company.</li> <li>Strong SQL and comfort in Tableau or a similar BI tool.</li> <li>Salesforce and Gainsight experience</li> <li>Advanced spreadsheet skills. You can build a capacity model that someone else can pick up and trust.</li> <li>Experience with territory design, account assignment, or capacity planning is a big plus.</li> <li>You explain data clearly to people who don't live in it, and you can tell a CSM, a director, and a VP what a number means for them.</li> <li>You're careful with details and still move fast. Reporting that's late or wrong doesn't help anyone.</li> <li>You're curious about why the number moved, not just what it is.</li> <li>You build tools and processes you'd want to inherit, not just ones that get you through this week.</li> </ul> <h3><strong>Nice to have</strong></h3> <ul> <li>Experience supporting renewals or retention teams.</li> <li>Familiarity with health scoring or segmentation work.</li> <li>Python or Snowflake experience.</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><strong>Massachusetts Applicants:<br></strong>It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.</p> <hr> <p>Our salary range reflects the cost of labor across various U.S. geographic markets. The range displayed below reflects the minimum and maximum target salaries for the position across all our US locations. The base salary offered for this position is determined by several factors, including the applicant’s job-related skills, relevant experience, education or training, and work location.</p> <p>In addition to base salary, our total compensation package may include participation in the company’s annual cash bonus plan, variable compensation (OTE) for sales and customer success roles, equity, sign-on payments, and a comprehensive range of health, welfare, and wellbeing benefits based on eligibility. </p> <p>Your recruiter can provide more details about the specific salary/OTE range for your preferred location during the hiring process.</p></div><div class=\"title\">Base Pay Range For US Locations:</div><div class=\"pay-range\"><span>$73,600</span><span class=\"divider\">—</span><span>$110,400 USD</span></div></div></div><div class=\"content-conclusion\"><p><em>This role may require up to 10% travel for purposes such as new hire onboarding, client or partner work if applicable, team meetings, and industry events. Travel is coordinated in advance.</em></p> <p><strong>Get to Know Klaviyo</strong></p> <p>We’re Klaviyo (pronounced clay-vee-oh). We empower creators to own their destiny by making first-party data accessible and actionable like never before. We see limitless potential for the technology we’re developing to nurture personalized experiences in ecommerce and beyond. To reach our goals, we need our own crew of remarkable creators—ambitious and collaborative teammates who stay focused on our north star: delighting our customers. If you’re ready to do the best work of your career, where you’ll be welcomed as your whole self from day one and supported with generous benefits, we hope you’ll join us.</p> <p><em>AI fluency at Klaviyo includes responsible use of AI (including privacy, security, bias awareness, and human-in-the-loop). We provide accommodations as needed. </em></p> <p><em>By participating in Klaviyo’s interview process, you acknowledge that you have read, understood, and will adhere to our <a href=\"https://www.klaviyo.com/careers/ai-guidance\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.klaviyo.com/careers/ai-guidance&source=gmail&ust=1761072778777000&usg=AOvVaw0auUcRqeYRczM9UoXAKldj\">Guidelines for using AI in the Klaviyo interview Process</a>. For more information about how we process your personal data, see our <a href=\"https://www.klaviyo.com/legal/job-applicant-privacy-notice\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.klaviyo.com/legal/job-applicant-privacy-notice&source=gmail&ust=1761072778777000&usg=AOvVaw1axMoReIM1qwTbmaPcLI_b\">Job Applicant Privacy Notice</a>.<br></em></p> <p><em>Klaviyo is committed to a policy of equal opportunity and non-discrimination. We do not discriminate on the basis of race, ethnicity, citizenship, national origin, color, religion or religious creed, age, sex (including pregnancy), gender identity, sexual orientation, physical or mental disability, veteran or active military status, marital status, criminal record, genetics, retaliation, sexual harassment or any other characteristic protected by applicable law.</em></p> <div id=\"1737752197.414839\" class=\"c-virtual_list__item\" data-qa=\"virtual-list-item\" data-item-key=\"1737752197.414839\"> <div class=\"c-message_kit__background p-message_pane_message__message c-message_kit__message\" data-qa=\"message_container\" data-qa-unprocessed=\"false\" data-qa-placeholder=\"false\"> <div class=\"c-message_kit__hover\" data-qa-hover=\"true\"> <div class=\"c-message_kit__actions c-message_kit__actions--default\"> <div class=\"c-message_kit__gutter\"> <div class=\"c-message_kit__gutter__right\" data-qa=\"message_content\"> <div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\"><em data-stringify-type=\"italic\">IMPORTANT NOTICE: Our company takes the security and privacy of job applicants very seriously. We will never ask for payment, bank details, or personal financial information as part of the application process. All our legitimate job postings can be found on our official career site. Please be cautious of job offers that come from non-company email addresses (@klaviyo.com), instant messaging platforms, or unsolicited calls.</em></div> <div class=\"p-rich_text_section\"> </div> <div class=\"p-rich_text_section\"><strong data-stringify-type=\"bold\">By clicking \"Submit Application\" you consent to Klaviyo processing your Personal Data in accordance with our Job Applicant Privacy Notice.  If you do not wish for Klaviyo to process your Personal Data, please do not submit an application.<em data-stringify-type=\"italic\">  </em></strong><em data-stringify-type=\"italic\">You can find our Job Applicant Privacy Notice </em><em data-stringify-type=\"italic\"><a class=\"c-link\" href=\"https://www.klaviyo.com/legal/job-applicant-privacy-notice\" target=\"_blank\" data-stringify-link=\"https://www.klaviyo.com/legal/job-applicant-privacy-notice\" data-sk=\"tooltip_parent\">here</a></em><em data-stringify-type=\"italic\"> and <a href=\"https://www.klaviyo.com/fr/legal/job-applicant-privacy-notice\">here</a> (FR).</em></div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div id=\"1737477146.268809\" class=\"c-virtual_list__item\" data-qa=\"virtual-list-item\" data-item-key=\"1737477146.268809\"> <div class=\"c-message_kit__background p-message_pane_message__message c-message_kit__message\" data-qa=\"message_container\" data-qa-unprocessed=\"false\" data-qa-placeholder=\"false\"> <div class=\"c-message_kit__hover\" data-qa-hover=\"true\"> <div class=\"c-message_kit__actions c-message_kit__actions--above\"> <div class=\"c-message_kit__gutter\"> <div class=\"c-message_kit__gutter__left\"> </div> </div> </div> </div> </div> </div></div>",
+    "url": "https://www.klaviyo.com/careers/jobs/8182739003?gh_jid=8182739003",
+    "salary": "",
+    "evidence_at": "2026-11-05T19:43:25+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 25,
+    "first_seen": "2026-11-06T03:08:40+00:00",
+    "last_seen": "2026-11-06T03:08:40+00:00",
+    "match_reason": "",
+    "status": "new_created",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-06T03:08:40+00:00"
   }
 ]
