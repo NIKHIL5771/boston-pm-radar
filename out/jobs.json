@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "947cdcae1cc7b3f65c927e57",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -124,34 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
-  },
-  {
-    "key": "470212697d1fd29f345a75bd",
-    "company": "Paperless Parts",
-    "source_type": "greenhouse",
-    "title": "Implementation Project Manager",
-    "location": "Boston, MA",
-    "employment": "",
-    "description": "<div class=\"content-intro\"><p class=\"p1\">Paperless Parts is the SaaS-based intelligence layer for modern manufacturing, enabling our customers to innovate faster in the physical world. From rockets to medical devices, we power the parts that move the world forward.</p></div><h4><span style=\"font-size: 12pt; font-family: helvetica, arial, sans-serif;\"><em>This position requires activities that are subject to US Export Control Laws and require US Citizenship or Green Card Holder.</em></span></h4> <h1><span style=\"font-size: 14pt;\"><strong>Implementation Project Manager</strong></span></h1> <p><strong>Location:</strong> Boston, MA (Hybrid - 3 days on-site per week) </p> <p><strong>Reports To:</strong> Senior Manager - Customer Delivery</p> <p><strong>Employment Type:</strong> Full-Time </p> <p><strong>Travel:</strong> 10–25% (1–3 customer visits per month)</p> <h3><strong>The Opportunity</strong></h3> <p>As an Implementation Project Manager, you will drive enterprise SaaS implementations, guiding custom manufacturers through complex digital transformations. You will act as a consultative partner, aligning customer business operations with platform capabilities while navigating change management.</p> <p>In this role, you will lead cross-functional engagements across customer stakeholders, executive sponsors, and internal engineering teams. By balancing tactical project execution with strategic product expertise, you will ensure seamless software adoption and accelerate long-term customer value.</p> <h3><strong>Key Responsibilities</strong></h3> <ul> <li>Lead executive status reviews, strategic meetings, and real-time issue resolution across customer and internal teams.</li> <li>Balance implementation timelines, resource allocation, scope, and budget with precision.</li> <li>Lead engaging end-user training programs and interactive workshops for enterprise customer teams to drive platform adoption and user proficiency</li> <li>Address scope creep directly while establishing clear customer boundaries and accommodating critical business shifts.</li> <li>Translate complex customer business requirements into optimal platform configurations that drive long-term value.</li> <li>Assess project health metrics continuously to identify delivery risks early and execute mitigation strategies.</li> <li>Identify operational gaps within the deployment lifecycle and create scalable workflow enhancements.</li> </ul> <h3><strong>Qualifications & Experience</strong></h3> <h4><strong>Core Requirements</strong></h4> <ul> <li>Demonstrated track record of leading enterprise software deployments in customer-facing SaaS environments</li> <li>Proven ability to build trust and navigate change management with executive sponsors and cross-functional teams.</li> <li>Capability to master complex software features quickly and translate customer business logic into technical configurations.</li> <li>Demonstrated mastery in managing multi-stream project timelines, risk frameworks, and budgets.</li> <li>Based in Boston, MA (3 days/week on-site) with willingness to travel to customer sites 1–3 times per month.</li> </ul> <h4><strong>Preferred Qualifications</strong></h4> <ul> <li>Prior experience with manufacturing operations, OEMs, supply chain management, or ERP/software integrations.</li> <li>Exposure to Lean Six Sigma methodologies or designing enterprise-level training programs.</li> </ul> <p><strong>Salary range: </strong>$80,000-$130,000<br><br>The job posting range is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. We may ultimately pay more or less than the posted range, and the range may be modified in the future. An employee’s pay position within the salary range will be based on several factors including, but not limited to, relevant education, qualifications, certifications, experience, skills, performance, sales or revenue-based metrics, and business or organizational needs.</p><div class=\"content-conclusion\"><p data-renderer-start-pos=\"2445\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong data-renderer-mark=\"true\">Paperless Parts Life</strong></span></p> <p data-renderer-start-pos=\"2467\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong data-renderer-mark=\"true\">Culture:</strong> At Paperless Parts, we value intentionality, persistence and relationships. We live and breathe these values every day. As a fast-growing company, we’re continually improving what we’ve built while still building from the ground up. </span></p> <p data-renderer-start-pos=\"2711\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong data-renderer-mark=\"true\">Boston Office: </strong>Our office is full of energy; people regularly collaborate to solve complex problems. We recognize that people work well in different environments and have intentionally designed our office to provide collaborative spaces and quiet focus areas. Our height-adjustable desks are set up with additional monitors, and employees are provided with the latest Apple technology to support productivity. </span></p> <p data-renderer-start-pos=\"3354\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Our headquarters is located in downtown Boston, MA and easily accessible to most transit routes (Red/Blue/Orange/Green Line/South Station/North Station).</span></p> <p data-renderer-start-pos=\"3653\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong data-renderer-mark=\"true\">Encinitas Office: </strong>Our California office is our newest office which seats our West Coast sales team. The office has an open floor plan with several conference rooms to encourage collaboration with your colleagues in California and TV's to connect with those sitting in Boston or remotely. The office is walking distance from Downtown Encinitas, the Coaster train stop, and tons of activities on the 101.</span></p> <p data-renderer-start-pos=\"4189\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong data-renderer-mark=\"true\">Benefits: </strong>We value you and your family. With this in mind, full-time employees are provided:</span></p> <ul class=\"ak-ul\" data-indent-level=\"1\"> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4285\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">100% coverage of health, dental, and vision for you and your dependent</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4285\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Competitive compensation philosophy</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4390\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Unlimited PTO</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4407\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">13+ paid holidays</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4469\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Company-sponsored wellness stipend</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4595\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Pre-tax Commuter and FSA/Dependent Care FSA</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4642\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">401(k) plan</span></p> </li> <li style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"> <p data-renderer-start-pos=\"4657\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Employee recognition program</span><br><br></p> </li> </ul> <p data-renderer-start-pos=\"4690\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><em data-renderer-mark=\"true\">Responsible for adherence to all security and privacy requirements, rules and regulations and implement as required.</em></span></p> <p data-renderer-start-pos=\"4690\"><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><em data-renderer-mark=\"true\">Paperless Parts is committed to cultivating an equitable, inclusive, and supportive environment for all employees. We believe this environment creates a safe space for employees to share their experiences, brainstorm ideas, and grow their careers. Paperless Parts is an Equal Opportunity & Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.</em></span></p></div>",
-    "url": "https://job-boards.greenhouse.io/paperlessparts/jobs/4733613005",
-    "salary": "",
-    "evidence_at": "2026-09-16T13:29:16+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 49,
-    "first_seen": "2026-11-07T02:32:23+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -234,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -300,12 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -322,12 +300,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -344,11 +322,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-07T02:32:23+00:00",
+    "last_seen": "2026-11-08T02:02:07+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-07T02:32:23+00:00"
+    "application_checked_at": "2026-11-08T02:02:07+00:00"
   }
 ]
