@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,34 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
-  },
-  {
-    "key": "947cdcae1cc7b3f65c927e57",
-    "company": "AECOM",
-    "source_type": "smartrecruiters",
-    "title": "Project Manager - Ports & Marine",
-    "location": "Boston, MA",
-    "employment": "Full-time",
-    "description": "Work with Us. Change the World. At AECOM, we're delivering a better world. Whether improving your commute, keeping the lights on, providing access to clean water, or transforming skylines, our work helps people and communities thrive. We are the world's trusted infrastructure consulting firm, partnering with clients to solve the world’s most complex challenges and build legacies for future generations. There has never been a better time to be at AECOM. With accelerating infrastructure investment worldwide, our services are in great demand. We invite you to bring your bold ideas and big dreams and become part of a global team of over 50,000 planners, designers, engineers, scientists, digital innovators, program and construction managers and other professionals delivering projects that create a positive and tangible impact around the world. We're one global team driven by our common purpose to deliver a better world. Join us. AECOM is actively seeking a highly experienced and motivated Project Manager for our Boston, MA office. The responsibilities of this position include, but are not limited to: Direct and manage the entire project lifecycle, providing guidance to subordinate managers, enforcing company and project policies, and serving as the primary liaison between AECOM and client interface. Ensure all project facets are constructed in accordance with design specifications, budget parameters, and established schedules. Maintain overall responsibility and management of projects from budgeting and scheduling phases through procurement and contract closeout. Exercise primary fiscal responsibility for assigned projects and serve as the key liaison with clients regarding financial and contractual matters. Develop and implement comprehensive project plans, including scope definition, resource allocation, timeline development, and risk identification and mitigation strategies. Monitor project performance against established key performance indicators (KPIs), quality standards, and contractual obligations, implementing corrective actions as needed. Manage change orders, scope modifications, and contract variations while maintaining project budget integrity and schedule adherence. Coordinate with vendors, subcontractors, and internal teams to ensure seamless project execution and timely delivery of deliverables. Prepare and present regular status reports, progress updates, and financial forecasts to senior management and clients. Minimum Qualifications: BA/BS plus ten years of relevant experience or demonstrated equivalency of experience and/or education. Preferred Qualifications: Previous experience in leading projects meeting required quality, timeliness, and budget parameters. Previous experience in maintaining client relationships. Experienced in planning, design, and construction management. Previous experience with Naval Facilities Engineering Systems Command (NAVFAC) planning and design. Sponsorship is not available for this position. Relocation assistance is not available for this position. At AECOM, we are committed to maintaining a secure and trustworthy recruitment process and take any fraudulent hiring activity seriously. To support this commitment, all newly hired employees are required to attend an in-person Day 1 onboarding at an AECOM office location as a condition of employment. About AECOM AECOM is proud to offer comprehensive benefits to meet the diverse needs of our employees. Depending on your employment status, AECOM benefits may include medical, dental, vision, life, AD&D, disability benefits, paid time off, leaves of absences, voluntary benefits, perks, flexible work options , well-being resources, employee assistance program, business travel insurance, service recognition awards, retirement savings plan, and employee stock purchase plan. AECOM is the global infrastructure leader, committed to delivering a better world. As a trusted professional services firm powered by deep technical abilities, we solve our clients’ complex challenges in water, environment, energy, transportation and buildings. Our teams partner with public- and private-sector clients to create innovative, sustainable and resilient solutions throughout the project lifecycle – from advisory, planning, design and engineering to program and construction management. AECOM is a Fortune 500 firm that had revenue of $16.1 billion in fiscal year 2025. Learn more at aecom.com. What makes AECOM a great place to work You will be part of a global team that champions your growth and career ambitions. Work on groundbreaking projects - both in your local community and on a global scale - that are transforming our industry and shaping the future. With cutting-edge technology and a network of experts, you’ll have the resources to make a real impact. Our award-winning training and development programs are designed to expand your technical expertise and leadership skills, helping you build the career you’ve always envisioned. Here, you’ll find a welcoming workplace built on respect, collaboration and community—where you have the freedom to grow in a world of opportunity. As an Equal Opportunity Employer, we believe in your potential and are here to help you achieve it. All your information will be kept confidential according to EEO guidelines.",
-    "url": "https://jobs.smartrecruiters.com/AECOM2/744000151052920-project-manager-ports-marine?oga=true",
-    "salary": "",
-    "evidence_at": "2026-09-22T14:29:48+00:00",
-    "evidence_kind": "released",
-    "remote": 0,
-    "score": 55,
-    "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "unverified",
-    "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -124,12 +102,34 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
-    "status": "new_created",
+    "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
+  },
+  {
+    "key": "e195de20d2d07ec444ce96d4",
+    "company": "stage",
+    "source_type": "greenhouse",
+    "title": "Reinsurance Operations Analyst",
+    "location": "Boston",
+    "employment": "",
+    "description": "<div class=\"content-intro\"><p><strong>COMPANY OVERVIEW</strong></p> <p>KKR is a leading global investment firm that offers alternative asset management as well as capital markets and insurance solutions. KKR aims to generate attractive investment returns by following a patient and disciplined investment approach, employing world-class people, and supporting growth in its portfolio companies and communities. KKR sponsors investment funds that invest in private equity, credit and real assets and has strategic partners that manage hedge funds. KKR’s insurance subsidiaries offer retirement, life and reinsurance products under the management of Global Atlantic Financial Group. References to KKR’s investments may include the activities of its sponsored funds and insurance subsidiaries.</p></div><p><strong>POSITION SUMMARY</strong></p> <p>KKR is seeking an Analyst to support its Reinsurance Services team. This role provides a strong foundation for a career in reinsurance operations or client services at a leading buy-side firm. The role is based in Boston and will report to the AVP, Reinsurance Services. </p> <p>The Analyst will assist with data management, reporting, cedent servicing activities, and cross-functional coordination with accounting, actuarial, treasury, technology, and compliance teams. This is a hands-on position suited for a highly organized, detail-oriented individual who is eager to learn and thrive in a fast-paced environment.  The ideal candidate will have some exposure to financial operations, accounting, liquidity management or insurance via coursework, internships or full-time roles. </p> <p>KKR is passionate about operational excellence and providing our investment and business operations colleagues with the ability to seamlessly serve clients and execute credit investments across the globe. We are committed to continuous improvement, both in the operations we perform and in the environment in which we work. We work in collaborative teams, but within the context and support of a large, global investment firm. We can offer challenging and rewarding work, opportunities for learning in both the business and operational spheres, and an attractive compensation package combined with significant opportunities for career advancement.</p> <p><strong>KEY RESPONSIBILITIES</strong></p> <p><strong>Reinsurance Services & Operational Support</strong></p> <ul> <li>Assist in the management of counterparty and cedant inquiries end-to-end triage, track, and drive to resolution, escalating as appropriate.</li> <li>Own completion and timely delivery of trust compliance certifications to cedants/counterparties, coordinating with Trust Compliance, Reinsurance and Investment Accounting, Investment Operations, and Commercial teams as needed.</li> <li>Support maintenance and accuracy of counterparty and reinsurance client data, coordinating with teams such as Actuarial, Reinsurance Accounting, and Enterprise Data/Technology.</li> <li>Help identify process inconsistencies or inefficiencies and participate in efforts to streamline and systematize workflows.</li> <li>Assist with preparing client-related materials, documentation, and internal reporting.</li> <li>Depending on team needs, may support cedant/reinsurance data ownership activities and/or new reinsurance deal operational onboarding, working alongside the broader Reinsurance Operations team.</li> </ul> <p><strong>Cross-Functional Collaboration & Projects</strong></p> <ul> <li>Build foundational understanding of reinsurance comfort trust structures and related operational processes.</li> <li>Participate in ad hoc projects supporting the broader Reinsurance Operations team.</li> <li>Assist in documenting processes, updating SOPs, and contributing to operational risk reduction efforts.</li> </ul> <p><strong>REQUIRED EXPERIENCE </strong></p> <ul> <li>Bachelor’s degree, preferably in Finance, Economics, Business, Accounting, Math, Risk or related field.</li> <li>0–2 years of experience in financial services, insurance, operations, or a related analytical function (internships included).</li> <li>Strong organizational skills with exceptional attention to detail.</li> <li>Ability to learn quickly in a dynamic, high-expectation environment.</li> <li>Strong written and verbal communication skills; comfortable interacting with multiple teams.</li> <li>Demonstrated reliability, professionalism, and a team-oriented mindset.</li> <li>Comfort using AI-powered tools to improve productivity and quality of work</li> <li>Curiosity about and openness to adopting emerging AI technologies in day-to-day workflows</li> <li>Ability to critically evaluate AI-generated outputs for accuracy and relevance</li> </ul> <p><strong>IDEAL EXPERIENCE</strong></p> <ul> <li>Exposure to financial operations, accounting, or (re)insurance</li> <li>Interest in reinsurance, trust structures, and institutional client operations</li> <li>Advanced knowledge of MS Excel. Working experience in SQL & other programming languages not required but valued</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>This is the expected annual base salary range for this Boston-based position. Actual salaries may vary based on factors, such as skill, experience, and qualification for the role. Employees may be eligible for a discretionary bonus, based on factors such as individual and team performance.</p></div><div class=\"title\">Base Salary Range</div><div class=\"pay-range\"><span>$70,000</span><span class=\"divider\">—</span><span>$90,000 USD</span></div></div></div><div class=\"content-conclusion\"><p>KKR is an equal opportunity employer.  Individuals seeking employment are considered without regard to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, sexual orientation, or any other category protected by applicable law.</p> <p>KKR will provide reasonable accommodations as required by applicable federal, state, and/or local laws. Individuals seeking an accommodation for the application or interview process should email <a href=\"mailto:Benefits@kkr.com\">Benefits@kkr.com</a>. Emails sent for unrelated issues, such as following up on an application, will not receive a response.</p> <p>If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access <a href=\"https://www.kkr.com/careers\" data-saferedirecturl=\"https://www.google.com/url?q=https://www.kkr.com/careers&source=gmail&ust=1774021690220000&usg=AOvVaw1AG2WRszai8PfCsE-FH5EJ\">https://www.kkr.com/careers</a> because of your disability. You can request reasonable accommodations by sending an email to <a href=\"mailto:Benefits@kkr.com\">Benefits@kkr.com</a>. Only emails left for this purpose will be returned.</p> <p><strong>Massachusetts Applicants:</strong> It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability. This notice applies only to applicants and employees who work or will work in Massachusetts, in accordance with applicable state law.</p></div>",
+    "url": "https://www.kkr.com/careers/career-opportunities/post?gh_jid=5995098004",
+    "salary": "",
+    "evidence_at": "2026-05-13T14:10:20+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 54,
+    "first_seen": "2026-11-10T04:28:44+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -212,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -234,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -256,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -278,12 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -300,12 +300,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -322,11 +322,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-09T02:21:36+00:00",
+    "last_seen": "2026-11-10T04:28:44+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-09T02:21:36+00:00"
+    "application_checked_at": "2026-11-10T04:28:44+00:00"
   }
 ]
