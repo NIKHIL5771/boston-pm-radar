@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "ffceae60b98020de214f9581",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -124,34 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
-  },
-  {
-    "key": "1f266f7daa04d7582c7642b9",
-    "company": "timeproofusa",
-    "source_type": "greenhouse",
-    "title": "Regional Roofing Project Manager",
-    "location": "Foxboro, MA",
-    "employment": "",
-    "description": "<p><span data-contrast=\"none\">TIMEPROOFUSA was founded by some of the home remodeling industry’s most respected leaders. We have quickly become America’s fastest-growing home improvement company—providing roofing solutions to homeowners across the country. Our rapid growth is driven by one mission: to deliver uncompromising quality, dependable service, and lasting peace of mind to every customer we serve. </span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335559738\":240,\"335559739\":240,\"335559740\":240}\"> </span></p> <p><span data-ccp-props=\"{}\"> </span></p> <p><span data-contrast=\"none\">As a </span><strong><span data-contrast=\"none\">Project Manager</span></strong><span data-contrast=\"none\">, you’ll be the driving force behind</span><strong><span data-contrast=\"none\"> TIMEPROOFUSA</span></strong><span data-contrast=\"none\"> and each project’s success, ensuring a seamless experience for our homeowners from contract to completion. You’ll take up after every project post point of sale by coordinating schedules, managing crews, communicating with clients, and upholding Timeproof’s standard of quality and excellence every step of the way!</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></p> <p><span data-ccp-props=\"{}\"> </span></p> <p><strong><span data-contrast=\"none\"><span data-ccp-parastyle=\"heading 3\">What </span><span data-ccp-parastyle=\"heading 3\">You’ll</span><span data-ccp-parastyle=\"heading 3\"> Do</span></span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"134245418\":true,\"134245529\":true,\"335559738\":280,\"335559739\":80}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Oversee </span></strong><span data-contrast=\"none\">projects from start to finish including timelines, crews, quality control, materials, and client communication.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Serve as the main point of contact for homeowners</span></strong><span data-contrast=\"none\">, ensuring they stay informed throughout their project.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Conduct site visits </span></strong><span data-contrast=\"none\">before, during, and after installation to ensure quality and adherence to company standards.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Manage </span></strong><span data-contrast=\"none\">project budgets, track job progress, and handle change orders as needed.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Collaborate</span></strong><span data-contrast=\"none\"> with the sales, operations, and leadership teams to ensure successful handoffs and flawless project delivery.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"10\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Maintain accurate documentation</span></strong><span data-contrast=\"none\"> and update project information in CRM (i.e Salesforce) and internal systems.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <p><span data-ccp-props=\"{}\"> </span></p> <p><strong><span data-contrast=\"none\"><span data-ccp-parastyle=\"heading 3\">What’s In It for You</span></span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"134245418\":true,\"134245529\":true,\"335559738\":280,\"335559739\":80}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Competitive Salary </span></strong><span data-contrast=\"none\">depending on experience</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Full benefits package</span></strong><span data-contrast=\"none\"> — Medical, Dental, Vision, 401k, and PTO</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Mileage reimbursement </span></strong><span data-contrast=\"none\">and company-provided tools</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Paid world-class training</span></strong><span data-contrast=\"none\"> and mentorship from industry-leading experts</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Growth opportunities</span></strong><span data-contrast=\"none\"> — advance to Senior Project Manager or Regional Operations positions </span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Supportive team culture</span></strong><span data-contrast=\"none\"> built on communication, collaboration, and recognition</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"11\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Full time schedule </span></strong><span data-contrast=\"none\">that comes with a W-2 employment status</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <p><span data-ccp-props=\"{}\"> </span></p> <p><span data-ccp-props=\"{}\"> </span></p> <p><span data-ccp-props=\"{}\"> </span></p> <p><strong><span data-contrast=\"none\"><span data-ccp-parastyle=\"heading 3\">What It Takes to Succeed</span></span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"134245418\":true,\"134245529\":true,\"335559738\":280,\"335559739\":80}\"> </span></p> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Strong organizational and time management skills</span></strong><span data-contrast=\"none\"> — you can juggle multiple projects with precision.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Excellent communication and interpersonal skills</span></strong><span data-contrast=\"none\"> — you know how to lead crews and build trust with homeowners.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Problem-solving mindset </span></strong><span data-contrast=\"none\">— you stay calm under pressure and find solutions fast.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Proficient computer literacy</span></strong><span data-contrast=\"none\"> — comfortable navigating CRMs (i.e. Salesforce) and Microsoft Office applications</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><strong><span data-contrast=\"none\">Valid driver’s license and reliable vehicle</span></strong><span data-contrast=\"none\"> required for site visits</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <ul> <li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"12\" data-list-defn-props=\"{\"335552541\":1,\"335559685\":720,\"335559991\":360,\"469769226\":\"Symbol\",\"469769242\":[8226],\"469777803\":\"left\",\"469777804\":\"\",\"469777815\":\"hybridMultilevel\"}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"none\">Ability to submit to a </span><strong><span data-contrast=\"none\">Background Check </span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":240,\"335559739\":240}\"> </span></li> </ul> <p><span data-ccp-props=\"{}\"> </span></p> <p><strong><span data-contrast=\"none\">About Us:</span></strong><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"335559738\":220,\"335559739\":220}\"> </span></p> <p><span data-contrast=\"none\">TIMEPROOFUSA is redefining the future of roofing. With fire-safe materials, sustainable technology, and a leadership team backed by decades of success in home remodeling, we’re building smarter, safer homes that stand the test of time.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335559738\":240,\"335559739\":240,\"335559740\":240}\"> </span></p> <p><span data-contrast=\"none\">Our core values—People First, Innovation, Customer Obsession, Integrity & Craftsmanship, and Profit Fuels Our Future—aren’t just words on a wall. They drive how we build, lead, and win together.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335559738\":240,\"335559739\":240,\"335559740\":240}\"> </span></p> <p><span data-contrast=\"none\">If you’re the kind of person who thrives on challenge, takes pride in excellence, and wants to be part of a team that’s changing the industry, this is your moment.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335559738\":240,\"335559739\":240,\"335559740\":240}\"> </span></p> <p><span data-contrast=\"none\">Apply today, take the next step in your career, and let’s build something extraordinary together.</span><span data-ccp-props=\"{\"134233117\":false,\"134233118\":false,\"201341983\":0,\"335559738\":240,\"335559739\":240,\"335559740\":240}\"> </span></p> <p> </p>",
-    "url": "https://job-boards.greenhouse.io/timeproofusa/jobs/4465258009",
-    "salary": "",
-    "evidence_at": "2026-10-29T15:40:16+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 48,
-    "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -234,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,34 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
-  },
-  {
-    "key": "57e74b0d236f620f0a000a0d",
-    "company": "Trexon",
-    "source_type": "greenhouse",
-    "title": "Sales Operations Coordinator",
-    "location": "MA - Chelsea | First Electronics Corp",
-    "employment": "Unverified: confirm full-time with employer",
-    "description": "<p style=\"text-align: center;\"><strong>Sales Operations Coordinator</strong></p> <hr> <p><strong>FLSA STATUS: </strong>Non-Exempt</p> <p><strong>Department: </strong>Sales</p> <p><strong>Supervisor: </strong>Inside Sales Manager</p> <p><strong>Direct Reports: </strong>None </p> <p style=\"text-align: center;\"><strong>Position Summary</strong> </p> <p> </p> <p>The Sales Operations Coordinator at The First Electronics Corporation (FEC) plays a vital role in our sales process by managing quotations from initial request to order entry. The key responsibilities include coordinating with internal teams to develop comprehensive quotes, delivering these quotes to customers, meticulously tracking their status, and accurately inputting confirmed orders into Epicor, our ERP system.</p> <p>The Sales Operations Coordinator demands strong organizational and administrative skills, an eye for detail, and excellent communication abilities to effectively support the internal team and ensure a seamless flow from customer inquiry to fulfillment. </p> <p> </p> <p style=\"text-align: center;\"><strong>Minimum Qualifications</strong> </p> <p> <strong>Education: </strong> </p> <ul> <li>High school diploma or equivalent required.</li> <li>Associate’s or Bachelor’s degree in a related field (Business Administration, Sales, etc.) preferred. </li> </ul> <p><strong>Experience: </strong> </p> <ul> <li>1-2 years of experience in an administrative support role, preferably within a sales or customer service environment.</li> <li>Experience with an ERP system is a plus.</li> </ul> <p><strong>Knowledge: </strong> </p> <ul> <li>Working knowledge of Microsoft Excel is preferred.</li> </ul> <p> <strong>Skills:</strong> </p> <ul> <li>Strong written and verbal communication skills.</li> <li>Excellent attention to detail and accuracy.</li> <li>Demonstrated accuracy in data entry.</li> </ul> <p><strong>Additional Requirements: </strong></p> <p>This position requires use of information or access to hardware and documents which are subject to the International Traffic in Arms Regulations (ITAR). All applicants must be U.S. persons within the meaning of ITAR. ITAR defines a U.S. person as a U.S. Citizen, U.S. Permanent Resident (i.e. 'Green Card Holder'), Political Asylee, or Refugee.</p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"><strong>Job Responsibilities</strong> </p> <ul> <li>Communicate with customers primarily via email regarding new quote requests, quote status, and general customer inquiries </li> <li>Manage the quotation process, from receiving initial customer inquiries to final order entry in Epicor (ERP System).</li> <li>Collaborate with internal teams (Inside and Outside Sales, Engineering, Production Control, Customer Service) to gather necessary information for accurate quote preparation</li> <li>Serve as central point of contact for internal sales-related administrative inquiries</li> <li>Prepare and maintain customer quotations in Epicor, coordinating with the pricing team and Engineering when additional information or review is required</li> <li>Track open quotations and follow up as needed to obtain information and provide customers with timely updates </li> <li>Review finalized purchase orders and coordinate the transition from quoting to production </li> <li>Prepare production and Quality Control folders for new orders, ensuring all required paperwork, drawings, processes, and other documentation are complete and organized</li> <li>Track the status of submitted quotations, following up with customers as needed to progress opportunities</li> <li>Communicate relevant order and documentation requirements to Production and other internal departments to support a smooth transition into manufacturing</li> <li>Maintain accurate records of quotations, customer communications, purchase orders, and production documentation</li> </ul> <p> <em>Other responsibilities, initiatives and ad-hoc projects as required. </em> </p> <p style=\"text-align: center;\"><strong>Internal and External Relationships</strong> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"><strong>Physical Requirements</strong> </p> <p> The physical demands described here are representative of those that must be met to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee is regularly required to occasionally lift or move up to 25 pounds. The noise level in the work environment is usually moderate typical of manufacturing. </p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"title\">Salary Transparency</div><div class=\"pay-range\"><span>$20</span><span class=\"divider\">—</span><span>$25 USD</span></div></div></div>",
-    "url": "https://job-boards.greenhouse.io/tpcengineeringholdingsllc/jobs/4742633007",
-    "salary": "",
-    "evidence_at": "2025-05-22T18:42:07+00:00",
-    "evidence_kind": "created",
-    "remote": 0,
-    "score": 40,
-    "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,12 +300,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -366,11 +322,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-11T02:31:29+00:00",
+    "last_seen": "2026-11-12T03:35:42+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-11T02:31:29+00:00"
+    "application_checked_at": "2026-11-12T03:35:42+00:00"
   }
 ]
