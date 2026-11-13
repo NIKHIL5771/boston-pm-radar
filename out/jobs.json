@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,34 +58,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
-  },
-  {
-    "key": "ffceae60b98020de214f9581",
-    "company": "PMA Consultants",
-    "source_type": "lever",
-    "title": "Project Controls (00524)",
-    "location": "Boston, MA",
-    "employment": "Full-Time",
-    "description": "The Project Controls professional is responsible for supporting cost and schedule management functions across capital and operational projects. Works under close supervision to collect, analyze, and report cost, schedule, and progress data. Provides support in maintaining project forecasts, identifying trends, and assisting with reporting deliverables to project managers and clients. Cost Management Assists with implementing and maintaining cost control systems and procedures. Supports cost tracking efforts including budget, actuals, commitments, and forecasts. Prepares basic cost reports under guidance, identifying variances and trends. Gathers and integrates cost-related data from multiple stakeholders. Assists with reviewing contractor invoices and tracking change order impacts. Schedule Support Supports progress updates and schedule analysis using established tools and methods. Performs entry-level critical path reviews and “what-if” scenarios with guidance. Assists with monitoring schedule performance and identifying early indicators of delay. Coordinates with schedulers to align progress data with financial updates. Reporting & Documentation Prepares data for monthly cost and schedule reports. Assists with tracking and maintaining logs of RFIs, submittals, and other project documentation. Ensures data integrity in project controls systems and tools. Contributes to the development of visual and narrative report content for internal and external stakeholders. Collaboration & Communication Interfaces with project managers, engineers, contractors, and clients to gather cost and schedule inputs. Supports internal coordination between cost and scheduling teams. Communicates status updates clearly and timely to supervisors and team members. Other duties as assigned. Bachelor’s degree in engineering, construction management, finance, or a related discipline required. 2+ years of experience supporting cost, schedule, or project management efforts in a construction, engineering, or consulting environment. Familiarity with project controls software such as Primavera P6, Microsoft Excel, and financial tracking tools preferred. Strong analytical and organizational skills with attention to detail. Ability to communicate technical information effectively to both technical and non-technical audiences. Desire to grow within the project controls discipline and develop long-term capabilities across cost, schedule, and risk functions.",
-    "url": "https://jobs.lever.co/pmaconsultants/d3d643c9-d76f-4f7a-863c-09bdb69e015b/apply",
-    "salary": "USD 88,256–132,363 / per-year-salary",
-    "evidence_at": null,
-    "evidence_kind": "unknown",
-    "remote": 0,
-    "score": 91,
-    "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
-    "match_reason": "",
-    "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_status": "unverified",
+    "application_check_detail": "HTTP 502: automated access uncertain",
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -102,12 +80,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -124,12 +102,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -146,12 +124,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -168,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -190,12 +168,34 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
+  },
+  {
+    "key": "54dbf4c9c84a844a3e486d6e",
+    "company": "Xometry",
+    "source_type": "greenhouse",
+    "title": "DFM Project Engineer",
+    "location": "Waltham, MA",
+    "employment": "Full-time",
+    "description": "<div class=\"content-intro\"><p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry’s digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.</span></p></div><div style=\"margin: 0px; padding: 0px;\"> <div style=\"margin: 0px; padding: 0px;\"> <div style=\"margin: 0px; padding: 0px;\"><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">As a DFM Project Engineer, you're primarily responsible for working with customers across an array of industries including aerospace, defense, commercial, automotive, industrial and medical devices. It is critical that you have the ability to evaluate manufacturability of customer designs and recommend solutions utilizing Xometry’s extensive portfolio of technologies. </span></div> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>How You’ll Contribute:</strong></span></p> <div style=\"margin: 0px; padding: 0px;\"> <ul style=\"margin: 0px 0px 0px 2em; padding: 0px;\"> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">You will use your expertise to develop and implement the applicable sourcing strategy</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Once an order is placed, you will be responsible to aid production in troubleshooting order execution to ensure customer success</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">To do this, you must interface directly with machine shops, sheet metal fabrication shops, internal staff members and management, as well as customers</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Additionally, you will take on special projects related to expanding the capabilities of our manufacturing partner network, working with OEM equipment makers, and our internal team of experts to improve our core competencies</span></li> </ul> </div> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>What You'll Bring to Xometry:</strong></span></p> <div style=\"margin: 0px; padding: 0px;\"> <div> <ul style=\"margin: 0px 0px 0px 2em; padding: 0px;\"> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Bachelor of Science Degree in Manufacturing Engineering, technical or related field preferred</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">2+ years in engineering and manufacturing environment</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">A minimum of 1-2 years of manufacturing engineering experience with a focus on Injection Molding</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Knowledge will include optimum equipment selections, process cycle times, material limitations and costs and geometry limitations</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Experience working with suppliers, OEM equipment providers, and customers</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Knowledge of GD&T and inspection/QA practices required</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Experience with 3D CAD modeling software is necessary (SolidWorks preferred)</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Ability to identify design for manufacturing (DFM) issues based on CAD models and drawings</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Design for manufacturing of CNC and 3D Printed components is a plus</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Injection Molding experience is a plus </span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Ability to work with customers on the fly and solve problems quickly</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Exceptional communication skills</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Able to work with Partners in troubleshooting production issues and answering partner questions</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Able to work well in a fast-paced, high volume environment</span></li> </ul> </div> <div><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><strong>Additional Experience:</strong></span></div> <div> <ul style=\"margin: 0px 0px 0px 2em; padding: 0px;\"> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Knowledge of all CNC machining and/or sheet metal fabrication practices for both high and low volume runs required including but not limited to:3/4/5 axis milling</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Turning with live tooling</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Familiarity with different types of post-processing/plating finishes for machined parts</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Familiarity with specialty processes (i.e. wire and sinker EDM, lapping, grinding, honing, and gun drilling) is a plus</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Material selection knowledge (i.e. use of press brake technology/laser/plasma/water jet cutting) is a plus</span></li> <li style=\"margin: 0px; padding: 0px; font-family: arial, helvetica, sans-serif; font-size: 10pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">Welding of various materials- hydraulic press (stamping) technology, progressive die (stamping) technology, 3D printed tooling, Hard tooling, etc.</span></li> </ul> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">The estimated base salary range for new hires into this role is $65,000 - $85,000 annually depending on factors such as job-related skills, relevant experience, and location.  We also offer a competitive benefits package, including 401(k) match, medical, dental and vision insurance; life and disability insurance; generous paid time off including vacation, sick leave, floating and fixed holidays, maternity and bonding leave; EAP, other wellbeing resources; and much more.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">#LI-Hybrid</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">#Promoted</span></p> </div> </div> </div> </div><div class=\"content-conclusion\"><p><span style=\"font-size: 10pt; font-family: arial, helvetica, sans-serif;\">Xometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 10pt;\">For US based roles: Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.</span></p></div>",
+    "url": "https://job-boards.greenhouse.io/xometry/jobs/5141549007",
+    "salary": "",
+    "evidence_at": "2026-05-19T15:40:42+00:00",
+    "evidence_kind": "created",
+    "remote": 0,
+    "score": 45,
+    "first_seen": "2026-11-13T03:07:43+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
+    "match_reason": "",
+    "status": "older",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -212,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -234,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -256,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -278,12 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -300,12 +300,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -322,11 +322,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-12T03:35:42+00:00",
+    "last_seen": "2026-11-13T03:07:43+00:00",
     "match_reason": "",
-    "status": "new_created",
+    "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-12T03:35:42+00:00"
+    "application_checked_at": "2026-11-13T03:07:43+00:00"
   }
 ]
