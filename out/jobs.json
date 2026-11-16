@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,12 +58,34 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
+  },
+  {
+    "key": "3aa495549cd9dcc71cee0354",
+    "company": "Alphabe Insight",
+    "source_type": "smartrecruiters",
+    "title": "Entry Level Project Coordinator",
+    "location": "Boston, MA",
+    "employment": "Full-time",
+    "description": "At Limitless East Marketing, we redefine possibilities through innovative, data-driven strategies that inspire and connect, ensuring measurable results for your brand. Job Description: We are seeking a motivated and detail-oriented Entry Level Project Coordinator to join our dynamic team. This role is an excellent opportunity for recent graduates or individuals looking to start their career in project management. As an Entry Level Project Coordinator, you will play a crucial role in supporting project teams by managing schedules, coordinating resources, and ensuring effective communication among stakeholders. Responsibilities: Assist in the planning and coordination of project activities and timelines. Monitor project progress and update schedules accordingly. Maintain clear and organized project documentation and records. Facilitate communication between team members and stakeholders. Support the preparation of project status reports and presentations. Identify and help resolve project issues and roadblocks. Requirements Bachelor’s degree in Business, Management, or related field. Excellent organizational and multitasking skills. Strong written and verbal communication abilities. Proficiency with Microsoft Office Suite, especially Excel and PowerPoint. Ability to work collaboratively in a team environment. Competitive salary package Opportunities for professional growth and career advancement Collaborative and innovative work environment Skill development through hands-on experience and mentorship Exposure to diverse projects and industry-leading clients",
+    "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000161695042-entry-level-project-coordinator?oga=true",
+    "salary": "",
+    "evidence_at": "2026-11-16T00:49:15+00:00",
+    "evidence_kind": "released",
+    "remote": 0,
+    "score": 69,
+    "first_seen": "2026-10-17T03:56:54+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
+    "match_reason": "",
+    "status": "recent_publication",
+    "application_status": "unverified",
+    "application_check_detail": "HTTP 403: automated access uncertain",
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -80,12 +102,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -102,78 +124,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
-  },
-  {
-    "key": "b93fa14369c3eb1b04dd25ec",
-    "company": "DN LLC",
-    "source_type": "lever",
-    "title": "Assistant Project Manager",
-    "location": "Wakefield, MA / Various Locations / East Region",
-    "employment": "Full-Time",
-    "description": "Our culture is rooted in a shared vision — to help keep the world’s most precious resource safe — and in the core values that guide us in pursuing this vision and delivering on our mission to clients. We provide the highest quality liquid storage design and construction services at the best long-term value with an unrivaled customer experience. We have built over 3,500 pre-stressed concrete liquid storage tanks over the past 90 years around the country and world, as a result we have become the leader in the industry when it comes to quality and innovation. As a Assistant Project Manager at DN, you will play a key role in helping plan, execute, and close out projects while gaining hands-on experience across all phases of project delivery. This is a pivotal role in advancing project success, requiring you to demonstrate adept organizational and multitasking skills, and efficiently overseeing a range of tasks throughout construction phases. With a focus on management and leadership, this role involves directing teams, facilitating collaboration, and reporting to the Project Manager, showcasing self-sufficiency in responsibilities. Support the Project Manager in the successful execution of projects through effective communication, coordination, and attention to detail. Manage services projects representing the company in meetings, conducting pre-job planning with superintendents, and ensuring daily project monitoring. Manage new construction projects at the discretion of the Vice President of Construction. Solicit and evaluate subcontractor pricing through pre/post bid strategies, subcontract coordination, and maintain subcontractor relationships. Proficiently utilize AutoCAD for precise casting bed and crane layout, evaluate site conditions to recommend suitable equipment usage (cranes, pumps, loaders), conduct pre-project inspections, verify site layout details, and contribute to estimating throughout pre-bid and post-construction phase. In conjunction with the Project Coordinator, manage project material submittals, approvals and lead times to ensure project timelines are met. End-to-end concrete design and management, including specification review, quality control, operational support, and post-project analysis. Manage subcontractors by ensuring performance aligns with project timelines and quality,while promoting effective communication and collaboration. Manage the coordination of crane operations, overseeing scheduling, and communication with the superintendent ensuring efficient project execution. Travel to project sites for preconstruction meetings, quality control and safety inspections. Manage costs involving initial budgeting, invoice evaluation, expense tracking, and monthlyproject billings. Assist in Project closeout meetings, ensuring documentation review, final approvals, andseamless project handover to clients. Support the project team to thoroughly execute detailed pre-job planning. Manage co-ops/interns ensuring productive contribution and professional development. 3+ years of construction field engineer, project engineer, or assistant project manager experience in a heavy civil self-performing contractor, concrete preferred. Background in sitework and utility work preferred. Civil Engineering or Construction Management degree preferred. Leadership experience demonstrated through ability to guide, motivate and develop others, and team-oriented background grounded in trust, accountability, and shared success. Our Total Rewards offerings are designed to invest in our employees and their families, including: Competitive base compensation plus eligibility for DN’s annual incentive bonus program 401(k) retirement plan consisting of a 100% employer match on the first 6% of employee contributions and an additional 3% Safe Harbor company contribution Medical coverage effective on date of hire, with DN covering 80%–85% of premiums depending on plan selection Dental coverage effective on date of hire, with DN covering 75% of premiums Voluntary vision coverage effective on date of hire Flexible Spending Account options for eligible medical, dental and dependent-care expenses Company-paid life insurance, accidental death & dismemberment coverage, and long-term disability coverage Paid time off starting at 16 days annually, increasing with tenure, plus 9 paid holidays each year Half-day Fridays between July 4 and Labor Day Paid parental leave for birth mothers and spouses or committed partners Employee Assistance Program available at no cost to employees and household members for work/life support Tuition reimbursement Gym reimbursement Employee referral incentive program Career growth, internal mobility and professional development opportunities within a stable, purpose-driven compan",
-    "url": "https://jobs.lever.co/dnllc/73696e5f-99ac-4575-8135-a061dc6e8261/apply",
-    "salary": "USD 95,000–125,000 / per-year-salary",
-    "evidence_at": null,
-    "evidence_kind": "unknown",
-    "remote": 0,
-    "score": 54,
-    "first_seen": "2026-11-15T02:22:45+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
-    "match_reason": "",
-    "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
-  },
-  {
-    "key": "6fb2605a8e459c60979cc061",
-    "company": "DN LLC",
-    "source_type": "lever",
-    "title": "Project Engineer",
-    "location": "Wakefield, MA",
-    "employment": "Full-Time",
-    "description": "Our culture is rooted in a shared vision — to help keep the world’s most precious resource safe — and in the core values that guide us in pursuing this vision and delivering on our mission to clients. We provide the highest quality liquid storage design and construction services at the best long-term value with an unrivaled customer experience. We have built over 3,500 pre-stressed concrete liquid storage tanks over the past 90 years around the country and world, as a result we have become the leader in the industry when it comes to quality and innovation. As a Project Engineer at DN, you will play a pivotal role in our growth by assisting Project Managers in achieving project success. This opportunity will enable you to effectively manage diverse tasks through all construction phases and display strong multitasking abilities. We are looking for a candidate with a proven track record of success in Project Engineering in the construction industry, especially in heavy-civil construction. This is a great opportunity for a candidate ready to make an impact with a world-class team working on meaningful construction projects. Solicit and evaluate subcontractor pricing through pre/post bid strategies, subcontract coordination, and maintain subcontractor relationships. Proficiently utilize AutoCAD for precise casting bed and crane layout, evaluate site conditions to recommend suitable equipment usage such as cranes and pumps. Conduct pre-project inspections, verify site layout details, and contribute to estimating throughout pre-bid and post-construction phase. End-to-end concrete procurement and management, including specification review, quality control, operational support, and post-project analysis. In conjunction with the Project Coordinator, manage project material submittals, approvals and lead times to ensure project timelines are met. Manage subcontractors by ensuring performance aligns with project timelines and quality, while promoting effective communication and collaboration. Manage the coordination of crane operations, overseeing scheduling, and communication with the superintendent ensuring efficient project execution. Travel to project sites for preconstruction meetings, quality control and safety inspections Manage costs involving initial budgeting, invoice evaluation, expense tracking, and monthly project billings. Assist in Project closeout meetings, ensuring documentation review, final approvals, and seamless project handover to clients Support the project team to thoroughly execute detailed pre-job planning Work with the superintendent to manage the construction schedule and provide weekly schedule updates to PM. Bachelor's degree or equivalent in Civil Engineering, Construction Management, or a related field. Excellent communication skills for effective team collaboration and client interaction. Intermediate to advanced skills required in Microsoft Word, Excel and PowerPoint. Experience using AutoCAD (preferred) Our Total Rewards offerings are designed to invest in our employees and their families, including: Competitive base compensation plus eligibility for DN’s annual incentive bonus program 401(k) retirement plan consisting of a 100% employer match on the first 6% of employee contributions and an additional 3% Safe Harbor company contribution Medical coverage effective on date of hire, with DN covering 80%–85% of premiums depending on plan selection Dental coverage effective on date of hire, with DN covering 75% of premiums Voluntary vision coverage effective on date of hire Flexible Spending Account options for eligible medical, dental and dependent-care expenses Company-paid life insurance, accidental death & dismemberment coverage, and long-term disability coverage Paid time off starting at 16 days annually, increasing with tenure, plus 9 paid holidays each year Half-day Fridays between July 4 and Labor Day Paid parental leave for birth mothers and spouses or committed partners Employee Assistance Program available at no cost to employees and household members for work/life support Tuition reimbursement Gym reimbursement Employee referral incentive program Career growth, internal mobility and professional development opportunities within a stable, purpose-driven company",
-    "url": "https://jobs.lever.co/dnllc/7b6d3900-fb10-4177-864d-88eac6ac30d9/apply",
-    "salary": "USD 73,000–100,000 / per-year-salary",
-    "evidence_at": null,
-    "evidence_kind": "unknown",
-    "remote": 0,
-    "score": 53,
-    "first_seen": "2026-11-15T02:22:45+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
-    "match_reason": "",
-    "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
-  },
-  {
-    "key": "75bb855e18d43b14504f2cc4",
-    "company": "DiliTrust",
-    "source_type": "lever",
-    "title": "Project Manager",
-    "location": "Wilmington, DELAWARE",
-    "employment": "Permanent",
-    "description": "Ready to be part of the Legal Tech revolution? As the leading SaaS publisher in Europe, DiliTrust is transforming legal departments worldwide with cutting-edge technology. From General Meeting reports to AI-assisted contract lifecycle management, our teams across France, Spain, Italy, Canada, Mexico, and MEA are the driving force behind our global success. We proudly support 2,400 customers in 64 countries, with 80% of major listed companies in Europe, North America, and the Middle East trusting us every day. What you'll find at DiliTrust: Innovation: Be at the forefront of legal tech advancements. Global Impact: Collaborate with diverse teams across an international, multicultural environment. Career Growth: Grow and develop within the future unicorn of legal tech. Stimulating Culture: Experience a workplace recognized with the \"Happy at Work\" and \"Tech at Work\" labels every year since 2019. Responsibilities You will join our CSM-Project (Onboarding) team in the Philadelphia area. You'll be the strategic and operational backbone of our most complex customer deployments, managing the full journey from contract signature to go-live and beyond, typically running 5 to 8 projects concurrently. What you'll own: Lead end-to-end project delivery on strategic implementations ranging from 3 to 12 months: scope, planning, resources, risk management, and stakeholder communication. Guide change management for legal and IT teams at enterprise clients, helping them transition confidently to new workflows and ways of working. Own the configuration and setup advisory for each customer: you'll develop deep product knowledge across our full suite to deliver the kind of tailored, hands-on implementation DiliTrust is known for. Run customer training sessions adapted to different user profiles (business, IT, executive) at each stage of the project. Be the face of DiliTrust during the implementation phase , laying the groundwork for a trusted, lasting partnership that continues well beyond go-live. Connect the right people at the right time : coordinate across R&D, Application Support, and data migration specialists to ensure smooth technical integrations on behalf of your clients. Apply an agile project management methodology , adapting your approach to each client's complexity and pace. Build business fluency in the legal domain (corporate governance, contract lifecycle management, litigation) to speak credibly with General Counsels, Legal Operations, and their teams. Travel to customer sites as needed to support key project milestones (up to 10-15% travel). Profile You're not just a project coordinator. You're the kind of person who naturally takes ownership, earns trust quickly, and stays calm when projects get complex. 2+ years of experience managing SaaS or software implementation projects in a client-facing role. You've been in the room when things go sideways -- and you know how to keep stakeholders aligned and timelines intact. You speak both languages : comfortable talking strategy with a General Counsel and configurations with an IT architect. You ask the right questions before things become problems, and you bring solutions, not just status updates. You're intellectually curious about legal operations, governance, and the technology transforming them. You thrive in fast-moving, cross-functional environments and bring structure without bureaucracy. Bilingual or multilingual skills are a plus given our global client base. Recruitment Process Talent Acquisition Head of Customer Success Chief Customer Officer",
-    "url": "https://jobs.lever.co/dilitrust/2c3a1eb8-1952-43b2-aa14-1752828cb078/apply",
-    "salary": "",
-    "evidence_at": null,
-    "evidence_kind": "unknown",
-    "remote": 0,
-    "score": 52,
-    "first_seen": "2026-11-15T02:22:45+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
-    "match_reason": "",
-    "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -190,12 +146,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -212,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -234,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -256,12 +212,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -278,12 +234,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -300,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,34 +278,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
-  },
-  {
-    "key": "aaf3a521342e7375b0857d4d",
-    "company": "Careers In Travel | Destination Planners",
-    "source_type": "lever",
-    "title": "Travel Operations Coordinator (Remote)",
-    "location": "Boston, Massachusetts",
-    "employment": "Unverified: confirm full-time with employer",
-    "description": "About the Opportunity We are seeking organized and detail-oriented individuals to join our team as Travel Operations Coordinators. In this role, you will assist with coordinating travel arrangements and supporting the operational side of travel planning to ensure smooth and well-organized travel experiences for clients. This opportunity is ideal for individuals who enjoy organization, travel planning, and managing details that help trips run seamlessly. Travel Operations Coordinators utilize established booking platforms and travel resources to assist with reservations, itinerary coordination, and travel logistics. Key Responsibilities Coordinate travel arrangements including flights, hotels, cruises, transportation, and vacation packages Support the operational process of travel planning by organizing bookings and itinerary details Communicate with travel suppliers and partners to confirm reservations and availability Maintain accurate records of bookings, confirmations, and client communications Assist with organizing travel schedules, documentation details, and trip logistics Monitor supplier updates, schedule changes, and travel notifications Provide support to travelers with questions or itinerary updates before and during travel Stay informed on travel promotions, supplier updates, and destination information Qualifications Strong organizational and communication skills Ability to manage multiple travel arrangements and operational details Customer-service mindset with strong attention to detail Comfortable working independently in a remote environment Basic computer proficiency and familiarity with online systems Interest in travel, tourism, hospitality, or logistics Previous experience in customer service, operations, logistics, or travel planning is helpful but not required What You’ll Gain Flexible remote work environment Access to professional training and travel industry resources Opportunities to develop skills in travel operations and coordination Supportive team environment focused on professional growth Potential travel-related incentives and industry perks Additional Information This role offers flexibility and access to tools and training designed to support individuals in coordinating travel operations and assisting clients throughout the travel planning process. Applicants should be comfortable working remotely and communicating with clients and travel partners through digital platforms.",
-    "url": "https://jobs.lever.co/destinationknot/c2d9fb0e-cea4-4a99-b2f4-c2125a297644/apply",
-    "salary": "USD 45,000–70,000 / per-year-salary",
-    "evidence_at": null,
-    "evidence_kind": "unknown",
-    "remote": 1,
-    "score": 35,
-    "first_seen": "2026-11-15T02:22:45+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
-    "match_reason": "",
-    "status": "date_unknown",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -366,12 +300,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -388,11 +322,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-15T02:22:45+00:00",
+    "last_seen": "2026-11-16T02:32:45+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-15T02:22:45+00:00"
+    "application_checked_at": "2026-11-16T02:32:45+00:00"
   }
 ]
