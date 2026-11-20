@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,18 +58,18 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
-    "key": "af754f536d96f77137c3f6f5",
+    "key": "3b5a6b7e4f1a4c2abb7dc2e3",
     "company": "PMA Consultants",
     "source_type": "lever",
-    "title": "Project Controls",
+    "title": "Project Controls  (00625)",
     "location": "Boston, MA",
     "employment": "Full-Time",
     "description": "The Project Controls professional is responsible for supporting cost and schedule management functions across capital and operational projects. Works under close supervision to collect, analyze, and report cost, schedule, and progress data. Provides support in maintaining project forecasts, identifying trends, and assisting with reporting deliverables to project managers and clients. Note: This opportunity is available at multiple levels. Final placement will be determined based on the selected candidate’s experience, skills, and alignment with business needs. We are committed to providing fair and equitable consideration for all applicants. Cost Management Assists with implementing and maintaining cost control systems and procedures. Supports cost tracking efforts including budget, actuals, commitments, and forecasts. Prepares basic cost reports under guidance, identifying variances and trends. Gathers and integrates cost-related data from multiple stakeholders. Assists with reviewing contractor invoices and tracking change order impacts. Schedule Support Supports progress updates and schedule analysis using established tools and methods. Performs entry-level critical path reviews and “what-if” scenarios with guidance. Assists with monitoring schedule performance and identifying early indicators of delay. Coordinates with schedulers to align progress data with financial updates. Reporting & Documentation Prepares data for monthly cost and schedule reports. Assists with tracking and maintaining logs of RFIs, submittals, and other project documentation. Ensures data integrity in project controls systems and tools. Contributes to the development of visual and narrative report content for internal and external stakeholders. Collaboration & Communication Interfaces with project managers, engineers, contractors, and clients to gather cost and schedule inputs. Supports internal coordination between cost and scheduling teams. Communicates status updates clearly and timely to supervisors and team members. Other duties as assigned. Bachelor’s degree in engineering, construction management, finance, or a related discipline required. 2+ years of experience supporting cost, schedule, or project management efforts in a construction, engineering, or consulting environment. Familiarity with project controls software such as Primavera P6, Microsoft Excel, and financial tracking tools preferred. Strong analytical and organizational skills with attention to detail. Ability to communicate technical information effectively to both technical and non-technical audiences. Desire to grow within the project controls discipline and develop long-term capabilities across cost, schedule, and risk functions.",
@@ -79,13 +79,13 @@
     "evidence_kind": "unknown",
     "remote": 0,
     "score": 91,
-    "first_seen": "2026-11-17T04:56:39+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "first_seen": "2026-11-20T03:51:39+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "3aa495549cd9dcc71cee0354",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "recent_publication",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "cedac1ea57071fb8d8a04652",
@@ -234,12 +234,34 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-23T01:11:27+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
+  },
+  {
+    "key": "cd1235824985f7f71e6de5fd",
+    "company": "Stand Together",
+    "source_type": "lever",
+    "title": "Operations Coordinator",
+    "location": "Arlington, Virginia",
+    "employment": "Full-time",
+    "description": "Stand Together is a philanthropic community that helps America’s boldest changemakers tackle the root causes of our country’s biggest problems, from education to the economy, broken communities, and toxic division, among dozens of other pressing issues. We provide our partners with access to resources including funding, thought leadership, a network of peers, and a playbook for applying proven principles to transform lives and society. Stand Together Foundation is seeking an Operations Coordinator to help strengthen how our teams work together and turn organizational priorities into action. Our Operations team supports a wide range of functions across the Foundation, from coordinating projects and improving internal processes to managing systems, organizing information, and using data to inform decisions. In this role, you'll partner with teams across the Foundation to understand their needs, solve operational challenges, and improve how work gets done. You'll gain exposure to different areas of the organization while developing your capabilities in business operations, project management, systems, and data analysis. We're looking for a curious, resourceful, and dependable problem-solver who takes ownership, follows through, and enjoys finding practical ways to create value for others. This role reports to the Operations Manager. Coordinate projects and keep priorities forward. Support cross-functional projects from planning through execution by tracking timelines, organizing tasks, coordinating stakeholders, and ensuring clear communication and follow-through. Improve systems and processes. Help teams work more efficiently by identifying gaps, organizing workflows, maintaining shared tools, and finding practical ways to simplify recurring work. Support data, reporting, and insights. Help maintain dashboards, track key performance indicators, coordinate surveys, and organize information that allows teams to measure progress and make informed decisions. Strengthen team operations and collaboration. Coordinate recurring meetings, team communications, and organizational initiatives that keep colleagues informed, connected, and aligned on priorities. Make information easier to find and use. Organize shared files and resources, maintain documentation, and develop clear processes that help teams access information and work more effectively. Serve as a resource to internal partners. Build relationships across the Foundation, understand teams' operational needs, respond to requests, and help identify solutions that make their work easier and more effective. Leverage technology and continuous improvement. Explore new tools, including AI and automation, to simplify work, solve recurring problems, and improve how the Foundation achieves its goals. 2+ years of relevant experience in operations, project management, business administration, program management, analytics, or a related field. Strong organizational and project coordination skills, with the ability to manage competing priorities, track details, and follow tasks through to completion. A natural curiosity about how systems and processes work, with an interest in solving problems and finding better ways to accomplish goals. Strong written and verbal communication skills, with a responsive, collaborative approach to supporting colleagues and internal stakeholders. Comfort working with data, spreadsheets, and technology, including an interest in learning how to organize information, track performance, and communicate insights. Initiative, adaptability, and a willingness to take on a variety of responsibilities, whether supporting day-to-day operations or contributing to larger projects. Experience with Microsoft 365, SharePoint, Salesforce, AirTable, project management platforms, AI tools, or similar technology is helpful but not required. Enthusiasm to contribute to Stand Together's vision and principled approach to solving problems, and a commitment to stewarding our culture , which champions values including transformation and innovation, entrepreneurialism, humility, and respect. Competit i ve benefits : Enjoy a 6% 401(k) match with immediate vesting, flexible time off, comprehensive health and dental plans, plus wellness and mental health support through Peloton and Talkspace. A meaningful career: Join a passionate community of over 1,300 employees dedicated to improving lives and driving innovative solutions to complex social challenges. Commitment to growth: Thrive in a non-hierarchical environment that empowers employees to discover, develop and apply their unique talents. Competitive compensation: Our approach rewards the value you create through competitive salaries and bonus opportunities, allowing you to share in the success you help drive.",
+    "url": "https://jobs.lever.co/standtogether/45ca2ea5-b1df-485d-9633-4339ff82a6f4/apply",
+    "salary": "USD 65,000–75,000 / per-year-salary",
+    "evidence_at": null,
+    "evidence_kind": "unknown",
+    "remote": 0,
+    "score": 43,
+    "first_seen": "2026-11-20T03:51:39+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
+    "match_reason": "",
+    "status": "date_unknown",
+    "application_status": "accessible",
+    "application_check_detail": "Application page responded successfully",
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,12 +300,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -300,12 +322,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -322,12 +344,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -344,11 +366,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-19T03:57:42+00:00",
+    "last_seen": "2026-11-20T03:51:39+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-19T03:57:42+00:00"
+    "application_checked_at": "2026-11-20T03:51:39+00:00"
   }
 ]
