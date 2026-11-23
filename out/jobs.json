@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "3b5a6b7e4f1a4c2abb7dc2e3",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-11-20T03:51:39+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "3aa495549cd9dcc71cee0354",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
-    "status": "recent_publication",
+    "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -124,34 +124,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
-  },
-  {
-    "key": "8362411448cce69d41322ab1",
-    "company": "Atominvest",
-    "source_type": "ashby",
-    "title": "Implementation Analyst",
-    "location": "New York City / Boston",
-    "employment": "FullTime",
-    "description": "Who is Atominvest Atominvest is the operating system for modern private markets asset managers. Our modular, flexible SaaS technology underpins key investor- and portfolio-management workflows. Our customers are sophisticated private equity, growth equity, and private credit firms managing billions in assets globally. We aim to deliver ongoing high-quality outcomes for them through a long-term partnership mindset. At Atominvest, you’ll be working on something very exciting: the future of work, investments and sustainability/ ethical investing for the world’s best investors and delivering a positive impact through this. Based on the growth we are experiencing, we think we’re on to something big. It won’t be easy. Joining a scale up business is an amazing and rewarding challenge, pushing well beyond the boundaries of natural growth cycles. You’ll move quicker than feels comfortable and be brilliant at continually re-prioritizing what must get done to keep Atominvest growing year over year at the pace of the best SaaS companies on the planet. We’ve gone from zero to ten, now we’re looking to go from ten to one hundred! Role Overview As an Implementation Analyst at Atominvest, you will get hands-on with the data, systems, and workflows of some of the world's most sophisticated alternative investment managers, working alongside the rest of the Customer Success team to bring new clients onto the platform. You'll work directly with real fund structures, real investor data, and real operational challenges from day one — a rare opportunity to build genuine private markets expertise while still early in your career, rather than learning the industry from the sidelines. This is a genuinely technical, detail-driven role — you'll be in the data, in the configuration, and in the QA testing, not one step removed from it. It's also the natural starting point for a career in implementation: as you build fluency in private markets workflows, platform configuration, and client delivery, this role is designed to grow into more senior implementation and client-facing positions, including Implementation Manager. What You'll Be Doing - Get hands-on with customer data, requirements, and workflows — configuring and implementing them directly within the Atominvest platform - Work alongside Implementation Managers to onboard customers onto the platform, supporting everything from data migration to UAT - Analyse real client datasets and fund structures — gaining direct exposure to how leading private markets firms structure funds, manage investor relationships, and run their operations - Drive down time to value by ensuring a smooth, well-documented transition to ongoing customer lifecycle management - Liaise with Product and Engineering to complete extensive QA testing for new product features and bug fixes, and to help scope and troubleshoot integration or data issues - Field support tickets, ensuring customers and investors are kept up to date on progress toward resolution - Maintain technical documentation and internal knowledge base Requirements - Bachelor's Degree (or higher) from top-tier university - Proven interest in private markets — you understand or are keen to quickly learn fund structures and investor reporting fundamentals - 0–2 years of work experience (experience in consulting, investment banking, private equity, or fund administration a plus) - Genuinely comfortable working with data: strong Excel skills, and an interest in getting into the technical detail of how systems and data structures fit together (any exposure to SQL or APIs is a plus, not a requirement) - Excellent verbal and written communication skills — able to explain technical detail clearly to both colleagues and clients - Strong analytical skills and meticulous attention to detail - Comfortable working with large, complex datasets - Ability to prioritise tasks, communicate progress proactively, and meet established deadlines - Team player, keen to learn and share ideas, and motivated to grow into more senior implementation or client-facing work",
-    "url": "https://jobs.ashbyhq.com/atominvest/c7469459-426c-405c-a178-db8421c8b3ec/application",
-    "salary": "",
-    "evidence_at": "2026-08-05T09:37:20+00:00",
-    "evidence_kind": "last_published",
-    "remote": 1,
-    "score": 60,
-    "first_seen": "2026-11-22T02:47:53+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -168,12 +146,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -190,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -212,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -234,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "aad4befb9a43d91fa7c14c58",
@@ -256,12 +234,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -278,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -300,12 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +300,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,12 +322,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -366,11 +344,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-22T02:47:53+00:00",
+    "last_seen": "2026-11-23T03:29:34+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-22T02:47:53+00:00"
+    "application_checked_at": "2026-11-23T03:29:34+00:00"
   }
 ]
