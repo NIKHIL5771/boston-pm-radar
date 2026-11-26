@@ -14,12 +14,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "842a18d1133b36d9b71955d0",
@@ -36,12 +36,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-10-17T03:03:47+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "7f1a4d2cac74d4c000603ae7",
@@ -58,12 +58,12 @@
     "remote": 0,
     "score": 100,
     "first_seen": "2026-11-11T02:31:29+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "3b5a6b7e4f1a4c2abb7dc2e3",
@@ -80,12 +80,12 @@
     "remote": 0,
     "score": 91,
     "first_seen": "2026-11-20T03:51:39+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "date_unknown",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "3aa495549cd9dcc71cee0354",
@@ -102,12 +102,12 @@
     "remote": 0,
     "score": 69,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "57de924a6aca88dcf2480d74",
@@ -124,12 +124,12 @@
     "remote": 0,
     "score": 65,
     "first_seen": "2026-10-17T03:56:54+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "unverified",
     "application_check_detail": "HTTP 403: automated access uncertain",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "4a19f0d1a8969a2ea03bec6a",
@@ -146,12 +146,12 @@
     "remote": 0,
     "score": 55,
     "first_seen": "2026-11-03T03:50:19+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "7cf1aa6f6e686af09f7ffc89",
@@ -168,12 +168,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "cdf22b94f1eded13c327c57e",
@@ -190,12 +190,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "95385ca8d813ac72ea4e3653",
@@ -212,12 +212,12 @@
     "remote": 0,
     "score": 47,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "aad4befb9a43d91fa7c14c58",
@@ -234,12 +234,12 @@
     "remote": 0,
     "score": 43,
     "first_seen": "2026-10-17T04:02:34+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "new_created",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "354f968002372aaa9d178e2c",
@@ -256,12 +256,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "c5877339b6e5ba843cd1f29a",
@@ -278,34 +278,12 @@
     "remote": 0,
     "score": 42,
     "first_seen": "2026-10-31T01:59:35+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
-  },
-  {
-    "key": "f9e26c84cdb7a1b86fade1da",
-    "company": "Eka",
-    "source_type": "ashby",
-    "title": "Business Operations Analyst",
-    "location": "Boston Area",
-    "employment": "FullTime",
-    "description": "Eka Robotics Eka Robotics is on a mission to build intelligence for the physical world - robots that are fast, general, and reliable. Our approach, grounded in physics, unlocks superhuman capabilities. We are defining the frontier of robotics research and deployment. Our team consists of pioneers in robotics and machine learning and skilled operators. We are now hiring to scale our efforts. We are looking for hands-on individuals who are excited to help shape the future of robotics. Role Overview We are seeking a Business Operations Analyst to join the Head of Operations’ team and help keep a fast-growing company running effectively and staying ahead of the next issue. This is a broad, hands-on generalist role spanning operational projects, analysis, coordination, and day-to-day execution. You might help evaluate a facilities expansion, build a cost model, prepare company-wide or investor materials, improve an internal process, coordinate a cross-functional project, or take ownership of an ad hoc issue that does not clearly belong to another team. The common thread is a strong ownership mindset. We are looking for someone who can take a loosely defined problem, figure out what needs to happen, drive the follow-ups, and see it through to completion. You should be equally comfortable doing analytical work and handling the practical details required to make things happen; while proactively looking for better, more efficient ways to operate. Responsibilities - Operational Ownership: Take on a broad range of company-level projects and ad hoc needs, driving them from initial question through execution and follow-up. - Cross-Functional Execution: Coordinate across teams, vendors, and external partners to keep projects moving, resolve issues, and close open loops. - Business Analysis: Support targeted analytical projects, including operational planning, cost modeling, and evaluating new company needs or investments. - Company & Leadership Materials: Help prepare high-quality materials for townhalls, board and investor communications, conferences, external events, and other important company priorities. - Process & Documentation: Improve lightweight internal processes, maintain company documentation, and help ensure important information and recurring operating rhythms stay organized - Special Projects: Partner directly with the Head of Operations and company leadership on emerging priorities across facilities, internal operations, marketing, corporate initiatives, and other areas as the company grows. Qualifications - 2+ years of experience in management consulting, investment banking, venture capital, business operations, a startup, or another fast-paced analytical environment. - High Ownership: Able to take ambiguous problems, determine the right next steps, and independently drive work to completion without requiring constant direction. - Strong Problem Solving: Structured conceptual and analytical thinker who can quickly get up to speed on unfamiliar topics and make sound judgments. - Execution-Oriented: Willing to handle both substantive analytical work and the detailed coordination, follow-up, and administrative work required to get things done. - Resourcefulness & Curiosity: Proactively look for new tools, technologies, and ways of working that can make the company more effective; comfortable experimenting rather than defaulting to how things have always been done. - Organization & Follow-Through: Strong attention to detail with the ability to manage multiple workstreams, prioritize effectively, and reliably close open loops. - Communication: Clear and polished written and verbal communicator who can work effectively across technical teams, leadership, and external partners. - Adaptability: Comfortable working in a fast-moving startup where priorities evolve and the scope of the role will change over time. - Robotics/AI Interest: While you don’t need to be an engineer, you should be excited about the mission of building general-purpose manipulation and foundation models. - Education: B.S. in Business Administration, Engineering, or a related field",
-    "url": "https://jobs.ashbyhq.com/ekarobotics/faf7394f-840a-49e6-bb15-3904009bd8a8/application",
-    "salary": "",
-    "evidence_at": "2026-11-06T20:44:22+00:00",
-    "evidence_kind": "last_published",
-    "remote": 0,
-    "score": 40,
-    "first_seen": "2026-11-25T05:13:36+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
-    "match_reason": "",
-    "status": "older",
-    "application_status": "accessible",
-    "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "2e69aaaeaf7ff5076b1bce31",
@@ -322,12 +300,12 @@
     "remote": 0,
     "score": 36,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "4375379ae5854c90a7d35b31",
@@ -344,12 +322,12 @@
     "remote": 0,
     "score": 31,
     "first_seen": "2026-10-17T04:05:58+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   },
   {
     "key": "50c44f768a37e683f6688a6e",
@@ -366,11 +344,11 @@
     "remote": 0,
     "score": 25,
     "first_seen": "2026-11-06T03:08:40+00:00",
-    "last_seen": "2026-11-25T05:13:36+00:00",
+    "last_seen": "2026-11-26T04:42:15+00:00",
     "match_reason": "",
     "status": "older",
     "application_status": "accessible",
     "application_check_detail": "Application page responded successfully",
-    "application_checked_at": "2026-11-25T05:13:36+00:00"
+    "application_checked_at": "2026-11-26T04:42:15+00:00"
   }
 ]
